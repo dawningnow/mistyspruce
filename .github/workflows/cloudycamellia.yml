@@ -20,7 +20,7 @@ jobs:
         run: ./install.sh
 
       - name: Push articles
-        run: python yarb.py
+        run: python main.py
 
       - name: Commit
         run: |
