@@ -17,7 +17,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: ./install.sh
+        run: |
+          chmod +x install.sh
+          ./install.sh
 
       - name: Push articles
         run: python main.py
