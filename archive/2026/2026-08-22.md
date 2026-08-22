@@ -1,27 +1,9 @@
 # Daily News（2026-08-22）
 
-- 小众软件
-  - [26/27 英超赛程日历，临时上线！](https://www.appinn.com/26-27-premier-league-calendar/)
-  - [本周赛博领鸡蛋（8.21~8.27）：《卡牌末日》《阿尔比恩在线》《沙漠房车漫游》](https://www.appinn.com/eggs-26821/)
-  - [superfile – 终端也需要一个好用的文件管理器](https://www.appinn.com/superfile-tui-files-explorer/)
-  - [Kan.bn – 开源看版（项目管理工具），Trello 替代方案](https://www.appinn.com/kan-bn/)
 - Hacker News Daily
   - [Daily Hacker News for 2026-08-20](https://www.daemonology.net/hn-daily/2026-08-20.html)
-- 数据解读
-  - [国家统计局农村司司长魏锋华解读早稻生产情况](https://www.stats.gov.cn/sj/sjjd/202608/t20260821_1965087.html)
-- 数据发布
-  - [国家统计局关于2026年早稻产量数据的公告](https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965086.html)
-- 物种日历
-  - [一个月下26天雨！大湾区的高温和暴雨，原来是城市特供？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8B26%E5%A4%A9%E9%9B%A8%EF%BC%81%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9A%84%E9%AB%98%E6%B8%A9%E5%92%8C%E6%9A%B4%E9%9B%A8%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9F%8E%E5%B8%82%E7%89%B9%E4%BE%9B%EF%BC%9F)
-  - [朋友神神秘秘从欧洲高价背回来的“古董珠宝”，翻过来一看广东产的？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E6%9C%8B%E5%8F%8B%E7%A5%9E%E7%A5%9E%E7%A7%98%E7%A7%98%E4%BB%8E%E6%AC%A7%E6%B4%B2%E9%AB%98%E4%BB%B7%E8%83%8C%E5%9B%9E%E6%9D%A5%E7%9A%84%E2%80%9C%E5%8F%A4%E8%91%A3%E7%8F%A0%E5%AE%9D%E2%80%9D%EF%BC%8C%E7%BF%BB%E8%BF%87%E6%9D%A5%E4%B8%80%E7%9C%8B%E5%B9%BF%E4%B8%9C%E4%BA%A7%E7%9A%84%EF%BC%9F)
-- 纽约时报双语版
-  - [豌豆有多健康？](https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/dual)
-  - [mRNA癌症疫苗取得突破进展，莫德纳股价大涨](https://cn.nytimes.com/business/20260821/moderna-cancer-melanoma/dual)
-  - [聊天机器人正将我们推向后人类互联网](https://cn.nytimes.com/technology/20260821/ai-chatbots-internet-communication-loops/dual)
-  - [资本流动“向东看”？中国鼓励科技新贵在国内上市](https://cn.nytimes.com/business/20260821/unitree-ipo-trading/dual)
-  - [特朗普威胁惩罚伊朗贸易伙伴，对中国影响几何？](https://cn.nytimes.com/usa/20260821/iran-trade-trump-threat-china/dual)
-  - [美国认定美籍缅甸问题学者遭中国不当拘留](https://cn.nytimes.com/usa/20260821/scholar-china-wrongfully-detained/dual)
-  - [越“烂”越火？《牛来》为何在中国爆红](https://cn.nytimes.com/china/20260821/niu-lai-chinese-movie-box-office/dual)
+- 一天一篇经济学人(双语)
+  - [如果AI说自己有意识，你信吗？ | 经济学人社论（考研、CATTI考试必看)](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%A6%82%E6%9E%9CAI%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%9C%89%E6%84%8F%E8%AF%86%EF%BC%8C%E4%BD%A0%E4%BF%A1%E5%90%97%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA%EF%BC%88%E8%80%83%E7%A0%94%E3%80%81CATTI%E8%80%83%E8%AF%95%E5%BF%85%E7%9C%8B%29)
 - Hacker News: Front Page
   - [HN: The Good Parts (2016)](https://danluu.com/hn-comments/)
   - [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
@@ -38,10 +20,22 @@
   - [Felony Bench](https://www.felonybench.com/)
   - [Claudette: Make Claude stop talking like a BuzzFeed article](https://github.com/adnanakil/nobuzz/blob/main/README.md)
   - [Zig’s io.threaded is neat](https://matklad.github.io/2026/08/06/neat-io-threaded.html)
-- 一天一篇经济学人(双语)
-  - [如果AI说自己有意识，你信吗？ | 经济学人社论（考研、CATTI考试必看)](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E5%A6%82%E6%9E%9CAI%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%9C%89%E6%84%8F%E8%AF%86%EF%BC%8C%E4%BD%A0%E4%BF%A1%E5%90%97%EF%BC%9F%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A4%BE%E8%AE%BA%EF%BC%88%E8%80%83%E7%A0%94%E3%80%81CATTI%E8%80%83%E8%AF%95%E5%BF%85%E7%9C%8B%29)
-- Developer Tea
-  - [Why Reducing Complexity Is A Sign of Seniority](http://www.developertea.com)
+- 纽约时报双语版
+  - [豌豆有多健康？](https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/dual)
+  - [mRNA癌症疫苗取得突破进展，莫德纳股价大涨](https://cn.nytimes.com/business/20260821/moderna-cancer-melanoma/dual)
+  - [聊天机器人正将我们推向后人类互联网](https://cn.nytimes.com/technology/20260821/ai-chatbots-internet-communication-loops/dual)
+  - [资本流动“向东看”？中国鼓励科技新贵在国内上市](https://cn.nytimes.com/business/20260821/unitree-ipo-trading/dual)
+  - [特朗普威胁惩罚伊朗贸易伙伴，对中国影响几何？](https://cn.nytimes.com/usa/20260821/iran-trade-trump-threat-china/dual)
+  - [美国认定美籍缅甸问题学者遭中国不当拘留](https://cn.nytimes.com/usa/20260821/scholar-china-wrongfully-detained/dual)
+  - [越“烂”越火？《牛来》为何在中国爆红](https://cn.nytimes.com/china/20260821/niu-lai-chinese-movie-box-office/dual)
+- 小众软件
+  - [26/27 英超赛程日历，临时上线！](https://www.appinn.com/26-27-premier-league-calendar/)
+  - [本周赛博领鸡蛋（8.21~8.27）：《卡牌末日》《阿尔比恩在线》《沙漠房车漫游》](https://www.appinn.com/eggs-26821/)
+  - [superfile – 终端也需要一个好用的文件管理器](https://www.appinn.com/superfile-tui-files-explorer/)
+  - [Kan.bn – 开源看版（项目管理工具），Trello 替代方案](https://www.appinn.com/kan-bn/)
+- 物种日历
+  - [一个月下26天雨！大湾区的高温和暴雨，原来是城市特供？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8B26%E5%A4%A9%E9%9B%A8%EF%BC%81%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9A%84%E9%AB%98%E6%B8%A9%E5%92%8C%E6%9A%B4%E9%9B%A8%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9F%8E%E5%B8%82%E7%89%B9%E4%BE%9B%EF%BC%9F)
+  - [朋友神神秘秘从欧洲高价背回来的“古董珠宝”，翻过来一看广东产的？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E6%9C%8B%E5%8F%8B%E7%A5%9E%E7%A5%9E%E7%A7%98%E7%A7%98%E4%BB%8E%E6%AC%A7%E6%B4%B2%E9%AB%98%E4%BB%B7%E8%83%8C%E5%9B%9E%E6%9D%A5%E7%9A%84%E2%80%9C%E5%8F%A4%E8%91%A3%E7%8F%A0%E5%AE%9D%E2%80%9D%EF%BC%8C%E7%BF%BB%E8%BF%87%E6%9D%A5%E4%B8%80%E7%9C%8B%E5%B9%BF%E4%B8%9C%E4%BA%A7%E7%9A%84%EF%BC%9F)
 - 热门文章 - 日榜 - 人人都是产品经理
   - [大厂争相开源 Harness 背后的商业阳谋](https://www.woshipm.com/ai/6452361.html)
   - [对抗 AI 讨好型人格的“双向钢人论证”](https://www.woshipm.com/ai/6452470.html)
@@ -67,3 +61,11 @@
   - [Codex 让我震惊的瞬间：直接操作微信，把客户信息汇总成了飞书表格，还自动打标、数据统计！](https://www.woshipm.com/ai/6451839.html)
   - [快消品企业如何把AI放进销售、采购、商品和库存管理流程](https://www.woshipm.com/pd/6451871.html)
   - [DeepSeek涨价12倍，梁文锋不撒钱了](https://www.woshipm.com/ai/6451866.html)
+- Developer Tea
+  - [Why Reducing Complexity Is A Sign of Seniority](http://www.developertea.com)
+- 10天推荐排行 - 博客园
+  - [GitHub 宕机近 8 小时！一次 sidecar 配置失误，如何放倒全球最大代码平台](https://www.cnblogs.com/Jackeyzhe/p/22620403)
+- 数据解读
+  - [国家统计局农村司司长魏锋华解读早稻生产情况](https://www.stats.gov.cn/sj/sjjd/202608/t20260821_1965087.html)
+- 数据发布
+  - [国家统计局关于2026年早稻产量数据的公告](https://www.stats.gov.cn/sj/zxfb/202608/t20260821_1965086.html)
