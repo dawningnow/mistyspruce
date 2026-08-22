@@ -4,10 +4,12 @@ import feedparser
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
+import json
 
 
 requests.packages.urllib3.disable_warnings()
 today = datetime.datetime.now().strftime("%Y-%m-%d")
+
 
 def update_today(data: list=[]):
     """更新today"""
@@ -18,7 +20,7 @@ def update_today(data: list=[]):
     
     # 保存两份：一份写入项目根目录，一份备份存档(archive)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# 每日安全资讯（{today}）\n\n'
+        content = f'# Daily News（{today}）\n\n'
         for item in data:
             (feed, value), = item.items()
             content += f'- {feed}\n'
@@ -40,7 +42,7 @@ def parseThread(url: str):
     title = ''
     result = {}
     try:
-        r = requests.get(url, timeout=10, headers=headers)
+        r = requests.get(url, timeout=20, headers=headers)
         r = feedparser.parse(r.content)
         title = r.feed.title # 保存订阅源的名称
         for entry in r.entries:
@@ -53,7 +55,7 @@ def parseThread(url: str):
     except Exception as e:
         print(f'[-] failed: {url}')
         print(e)
-    return title, result
+    return url, title, result
 
 
 async def job():
@@ -67,21 +69,27 @@ async def job():
     # 获取文章
     results = []
     numb = 0
-    tasks = []
+    futures = []
+    false_titles = []
     with ThreadPoolExecutor(64) as executor:
-        tasks.extend(executor.submit(parseThread, url) for url in feeds)
-        for task in as_completed(tasks):
-            title, result = task.result()            
+        futures.extend(executor.submit(parseThread, url) for url in feeds)
+        for future in as_completed(futures):
+            url, title, result = future.result() 
             if result:
                 numb += len(result.values())
                 results.append({title: result})
+            else:
+                false_titles.append({title: url})
     print(f'[+] {len(results)} feeds, {numb} articles')
 
     update_today(results)
+    with open('false_titles.json', 'w', encoding='utf-8') as f:
+        json.dump(false_titles, f, ensure_ascii=False, indent=2)
 
 
 async def main():
     await job()
+
 
 if __name__ == '__main__':
     asyncio.run(main())
