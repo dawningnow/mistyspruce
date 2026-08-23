@@ -4,7 +4,7 @@ import feedparser
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
-import json
+from bs4 import BeautifulSoup
 
 
 requests.packages.urllib3.disable_warnings()
@@ -20,14 +20,14 @@ def update_today(data: list=[]):
     
     # 保存两份：一份写入项目根目录，一份备份存档(archive)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# Daily News（{today}）\n\n'
+        content = f'# Daily News({today})\n'
         for item in data:
             (feed, value), = item.items()
             content += f'- {feed}\n'
-            for title, url in value.items():
-                content += f'  - [{title}]({url})\n'
-        f1.write(content) 
-        f2.write(content) 
+            for index, (title, url) in enumerate(value.items()):
+                content += f'  {index + 1}. [{title}]({url})\n'
+        f1.write(content)
+        f2.write(content)
 
 
 def parseThread(url: str):
@@ -42,7 +42,7 @@ def parseThread(url: str):
     title = ''
     result = {}
     try:
-        r = requests.get(url, timeout=20, headers=headers)
+        r = requests.get(url, timeout=36, headers=headers)
         r = feedparser.parse(r.content)
         title = r.feed.title # 保存订阅源的名称
         for entry in r.entries:
@@ -58,19 +58,36 @@ def parseThread(url: str):
     return url, title, result
 
 
+def get_feeds():
+    feeds = []
+    feed_domains = set()  # 存储简化域名用于快速查找
+    for file_path in Path("./rss").glob('*.opml'):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                soup = BeautifulSoup(f, 'xml')
+                for outline in soup.find_all('outline'):
+                    xml_url = outline.get('xmlUrl')
+                    if xml_url:
+                        url = xml_url.strip().rstrip('/')  
+                        short_url = url.split('://')[-1].split('www.')[-1]
+                        if short_url not in feed_domains:  # O(1) 查找
+                            feeds.append(url)
+                            feed_domains.add(short_url)  # 记录已存在的域名
+        except Exception as e:
+            print(f"处理文件 {file_path.name} 时出错: {e}")
+    
+    return feeds
+
+
 async def job():
-    # 读取rss订阅连接
-    with open('feeds.txt', 'r', encoding='utf-8') as f:
-        feeds = [line.strip() for line in f if line.strip()]  # 去除空行和空格
-
-    # 去重:合并相同的订阅链接
-
+    # 获取订阅源url
+    feeds = get_feeds()
 
     # 获取文章
     results = []
     numb = 0
     futures = []
-    false_titles = []
+    false_feeds = []
     with ThreadPoolExecutor(64) as executor:
         futures.extend(executor.submit(parseThread, url) for url in feeds)
         for future in as_completed(futures):
@@ -79,13 +96,18 @@ async def job():
                 numb += len(result.values())
                 results.append({title: result})
             else:
-                false_titles.append({title: url})
+                false_feeds.append({'title':title, 'url':url})
     print(f'[+] {len(results)} feeds, {numb} articles')
 
     update_today(results)
-    with open('false_titles.json', 'w', encoding='utf-8') as f:
-        json.dump(false_titles, f, ensure_ascii=False, indent=2)
 
+    # 保存读取失败的feed
+    with open("today_false.md", 'w+') as f1:
+        content = f'# Failed to obtain({today})\n'
+        for index, feed in enumerate(false_feeds):
+            title, url = feed.get('title'), feed.get('url')
+            content += f'{index + 1}. [{title}]({url})\n'
+        f1.write(content)
 
 async def main():
     await job()

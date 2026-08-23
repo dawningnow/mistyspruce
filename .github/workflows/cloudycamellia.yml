@@ -4,8 +4,8 @@ name: Update dailynews
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 北京时间上午十点
-  workflow_dispatch:
+    - cron: '0 22 * * *' # 北京时间上午六点
+  workflow_dispatch: # 手动触发
 
 jobs:
   build:
@@ -28,8 +28,8 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
           git config --global user.name dawningnow
-          git add archive today.md false_titles.json
-          git commit -m "Daily News（`date +'%Y-%m-%d'`）"
+          git add archive today.md today_false.md
+          git commit -m "Daily News(`date +'%Y-%m-%d'`)"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
