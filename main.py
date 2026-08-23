@@ -106,6 +106,8 @@ async def job():
         content = f'# Failed to obtain({today})\n'
         for index, feed in enumerate(false_feeds):
             title, url = feed.get('title'), feed.get('url')
+            if not title:
+                title = "Unknown"
             content += f'{index + 1}. [{title}]({url})\n'
         f1.write(content)
 
