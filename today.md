@@ -1,27 +1,61 @@
 # Daily News(2026-08-23)
 
-**Hacker News: Front Page**
- 1. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
- 2. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
- 3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
- 4. [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
- 5. [Thinking in Python](https://thinkinginpython.com/)
- 6. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
- 7. [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
- 8. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
- 9. [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
- 10. [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+**Hc1m1**
+ 1. [软考学习（二）](https://nobb.site/2026/08/22/ruankao_4/)
+ 2. [软考学习（一）](https://nobb.site/2026/08/22/ruankao_3_crypto/)
 
-**Hacker News Daily**
- 1. [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
+**SecWiki News**
+ 1. [SecWiki News 2026-08-22 Review](http://www.sec-wiki.com/?2026-08-22)
 
-**iDaily · 每日环球视野**
- 1. [纽约遭遇龙卷风登陆 - August 22, 2026](https://m.idai.ly/se/a16BIb)
- 2. [中国外长访问印尼 - August 22, 2026](https://m.idai.ly/se/b0cW16)
- 3. [美韩联合军演提前结束 - August 22, 2026](https://m.idai.ly/se/5417ml)
- 4. [缅甸总统访问白俄罗斯 - August 22, 2026](https://m.idai.ly/se/4bf2Y2)
- 5. [中俄北极航道定期货运开启 - August 22, 2026](https://m.idai.ly/se/53bQ5s)
- 6. [旅德大熊猫双胞胎2岁生日 - August 22, 2026](https://m.idai.ly/se/c17Wpi)
+**奇客Solidot–传递最新科技情报**
+ 1. [3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同](https://www.solidot.org/story?sid=85165)
+ 2. [Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份](https://www.solidot.org/story?sid=85164)
+ 3. [因门把手安全隐患特斯拉在华召回近 300 万辆车](https://www.solidot.org/story?sid=85163)
+ 4. [使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪](https://www.solidot.org/story?sid=85162)
+ 5. [中国要求政府部门提前停用 Windows 10 政府版改用 Linux](https://www.solidot.org/story?sid=85161)
+
+**黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台**
+ 1. [英伟达客户被告知AI相关涨价幅度超过15%](https://blog.upx8.com/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A2%E6%88%B7%E8%A2%AB%E5%91%8A%E7%9F%A5AI%E7%9B%B8%E5%85%B3%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E8%B6%85%E8%BF%8715)
+ 2. [OpenAI表示加州应加强其人工智能安全法案](https://blog.upx8.com/OpenAI%E8%A1%A8%E7%A4%BA%E5%8A%A0%E5%B7%9E%E5%BA%94%E5%8A%A0%E5%BC%BA%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%E6%B3%95%E6%A1%88)
+ 3. [荣耀人形机器人“闪电”百米测试跑出9秒32](https://blog.upx8.com/%E8%8D%A3%E8%80%80%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA-%E9%97%AA%E7%94%B5-%E7%99%BE%E7%B1%B3%E6%B5%8B%E8%AF%95%E8%B7%91%E5%87%BA9%E7%A7%9232)
+ 4. [YouTube Premium欧洲订阅价格即将上涨](https://blog.upx8.com/YouTube-Premium%E6%AC%A7%E6%B4%B2%E8%AE%A2%E9%98%85%E4%BB%B7%E6%A0%BC%E5%8D%B3%E5%B0%86%E4%B8%8A%E6%B6%A8)
+ 5. [YouTube Premium 的价格可能在上次涨价几个月后再次上涨](https://blog.upx8.com/YouTube-Premium-%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%B8%8A%E6%AC%A1%E6%B6%A8%E4%BB%B7%E5%87%A0%E4%B8%AA%E6%9C%88%E5%90%8E%E5%86%8D%E6%AC%A1%E4%B8%8A%E6%B6%A8)
+
+**黑鸟**
+ 1. [把一堆 AI 变成一间虚拟办公室](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188192&idx=1&sn=e5128e65051bed680b9ffda896059733)
+
+**天御攻防实验室**
+ 1. [中央网信办重磅发布《促进网信企业高质量发展行动计划（2026-2030年）》](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487131&idx=1&sn=6875fac780d00f5eb018908b8e1e4045)
+
+**安全分析与研究**
+ 1. [第17篇-勒索软件IOC与YARA规则实战](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497043&idx=1&sn=aab534cfe5f82cc2e82ec4a025447fc1)
+
+**看雪学苑**
+ 1. [2026 KCTF | 《第八题：亥子合辰·塔影迷楼》设计思路及解析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=1&sn=bbb2a06cd82c87cec3367672f678e9de)
+ 2. [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458618875&idx=2&sn=2c1e91df59b1d650e8d6965f888a94ae)
+
+**安全圈**
+ 1. [【安全圈】GitHub 通报本周大规模宕机原因](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=1&sn=a577b3bca089b66810df811b4600dd70)
+ 2. [【安全圈】湘潭警方破获一起网游外挂案 多人落网](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=2&sn=c56ff5686ac538d13fdbcec6e37bcf8e)
+ 3. [【安全圈】《GTA6》史诗级泄露！黑客手握可运行完整版](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078399&idx=3&sn=eeafabe504ec175a660a5bf975d30fb6)
+
+**极客公园**
+ 1. [「AstraTennis」时刻：机器人在全球直播中打了一场真正的网球](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112522&idx=1&sn=39811dcb1d85f55cf0389fffd8f2c033)
+ 2. [越会用 AI 的人，学习能力退化得越快](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112509&idx=1&sn=40ad4461da4ab2483f7671478c73cd33)
+ 3. [微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653112505&idx=1&sn=90b550102cd76187b26fde0c369e0366)
+
+**丁爸 情报分析师的工具箱**
+ 1. [【开源报告】联合国安理会基地组织/塔利班/ISIL(达伊沙)1267制裁机制的监测报告汇总分析报告（2002–2026）](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157046&idx=1&sn=3a3675425e68e712944ccd5f505fbb51)
+ 2. [【通知】第六届开源情报技术大会与第四届全国大学生开源情报数据采集与分析挑战赛](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157046&idx=2&sn=8cc985f013752e0391b1b30d59f4f568)
+
+**情报分析师**
+ 1. [代理型AI到底是下一代情报官还是下一个自信的骗子?](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569167&idx=1&sn=4004e59db41196655c729fac9701203f)
+
+**百度安全应急响应中心**
+ 1. [【八强诞生】「Agent+」攻防挑战赛决赛名单揭晓，现场见！](https://mp.weixin.qq.com/s?__biz=MzA4ODc0MTIwMw==&mid=2652544314&idx=1&sn=d4d081eedfeff4e4ec6d0027c17df27d)
+
+**慢雾科技**
+ 1. [横跨一个月的跨链攻击：Allbridge 被黑分析](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247505763&idx=1&sn=e015a36b11897f98e4361f8bd04a1164)
 
 **NYT > World News**
  1. [Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html)
@@ -40,76 +74,48 @@
  14. [Watch Live: Canadian Prime Minister Mark Carney Delivers Remarks](https://www.nytimes.com/video/world/100000011107687/watch-live-canadian-prime-minister-mark-carney-delivers-remarks.html)
  15. [Waking Up to an Escalating Canada-U.S. Trade War](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump-free-trade.html)
  16. [Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97](https://www.nytimes.com/2026/08/22/world/europe/yvette-roudy-dead.html)
- 17. [How Apartheid Continues to Divide Cape Town](https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html)
+
+**iDaily · 每日环球视野**
+ 1. [纽约遭遇龙卷风登陆 - August 22, 2026](https://m.idai.ly/se/a16BIb)
+ 2. [中国外长访问印尼 - August 22, 2026](https://m.idai.ly/se/b0cW16)
+ 3. [美韩联合军演提前结束 - August 22, 2026](https://m.idai.ly/se/5417ml)
+ 4. [缅甸总统访问白俄罗斯 - August 22, 2026](https://m.idai.ly/se/4bf2Y2)
+ 5. [中俄北极航道定期货运开启 - August 22, 2026](https://m.idai.ly/se/53bQ5s)
+ 6. [旅德大熊猫双胞胎2岁生日 - August 22, 2026](https://m.idai.ly/se/c17Wpi)
+
+**Hacker News: Front Page**
+ 1. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+ 2. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+ 3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+ 4. [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+ 5. [Thinking in Python](https://thinkinginpython.com/)
+ 6. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+ 7. [I set a trap for a book-marketing scammer (2025)](https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing)
+ 8. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+ 9. [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+ 10. [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+
+**参考消息**
+ 1. [广西发布洪水红色预警](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%B9%BF%E8%A5%BF%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+ 2. [加拿大“报复”美国](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E6%8A%A5%E5%A4%8D%E2%80%9D%E7%BE%8E%E5%9B%BD)
+
+**Hacker News Daily**
+ 1. [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
 
 **一天一篇经济学人(双语)**
  1. [本期《经济学人》最值得读的10篇文章](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0)
  2. [AI 与狗有何共同之处 | 经济学人文化](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+AI%20%E4%B8%8E%E7%8B%97%E6%9C%89%E4%BD%95%E5%85%B1%E5%90%8C%E4%B9%8B%E5%A4%84%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96)
  3. [早起打卡营（0824-0920）](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%97%A9%E8%B5%B7%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%880824-0920%EF%BC%89)
 
-**参考消息**
- 1. [广西发布洪水红色预警](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%B9%BF%E8%A5%BF%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
- 2. [加拿大“报复”美国](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E6%8A%A5%E5%A4%8D%E2%80%9D%E7%BE%8E%E5%9B%BD)
-
 **小众软件**
  1. [Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据](https://www.appinn.com/windows-11-point-in-time-restore-default/)
 
-**Over Security**
- 1. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-
-**Dark Space Blogspot**
- 1. [Come Sfruttare L'Arbitraggio Del Funding Rate (Delta Neutral)](http://darkwhite666.blogspot.com/2026/08/come-sfruttare-larbitraggio-del-funding.html)
+**Ars Technica - All content**
+ 1. [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/)
+ 2. [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/)
 
 **10天推荐排行 - 博客园**
  1. [个人职业生涯记录（不定期更新）【交叉编译|终端安全|驱动开发|EDR|性能调优|鸿蒙开发】](https://www.cnblogs.com/KBin/p/22633660)
-
-**物种日历**
- 1. [打呼噜越响越容易猝死？睡前一个小动作，鼾声停，呼吸畅快，白天有精神！](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E6%89%93%E5%91%BC%E5%99%9C%E8%B6%8A%E5%93%8D%E8%B6%8A%E5%AE%B9%E6%98%93%E7%8C%9D%E6%AD%BB%EF%BC%9F%E7%9D%A1%E5%89%8D%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%EF%BC%8C%E9%BC%BE%E5%A3%B0%E5%81%9C%EF%BC%8C%E5%91%BC%E5%90%B8%E7%95%85%E5%BF%AB%EF%BC%8C%E7%99%BD%E5%A4%A9%E6%9C%89%E7%B2%BE%E7%A5%9E%EF%BC%81)
- 2. [为什么我们很少看到一头“站”起来的牛？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E4%B8%80%E5%A4%B4%E2%80%9C%E7%AB%99%E2%80%9D%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%89%9B%EF%BC%9F)
-
-**Have I Been Pwned latest breaches**
- 1. [Golf Canada - 568,972 breached accounts](https://haveibeenpwned.com/Breach/GolfCanada)
-
-**Posts on Maurice's Blog**
- 1. [235 Billion Tokens Later: Auditing What The AI Agents Really Did](https://momo5502.com/posts/2026-08-22-mw2-decompilation-audit/)
-
-**KitPloit - PenTest Tools!**
- 1. [foxcage — Updated!](https://kitploit.com/en/posts/gitlab-grepular-foxcage-6b90df100153bf7223dd75703bb39004564c150ca61d97961a35b5d78ebe881e)
- 2. [InfraGuard v0.4.3](https://kitploit.com/en/posts/github-whispergate-infraguard-v043)
- 3. [vopono v0.10.21](https://kitploit.com/en/posts/github-jamesmcm-vopono-01021)
- 4. [winauthlib](https://kitploit.com/en/tools/github/nccgroup/winauthlib)
- 5. [CS_SleepMask](https://kitploit.com/en/tools/github/jas502n/cs_sleepmask)
- 6. [Podroid v1.2.8](https://kitploit.com/en/posts/github-extv-podroid-v128)
- 7. [subdomain-tko](https://kitploit.com/en/tools/github/randomrobbiebf/subdomain-tko)
- 8. [CHIRP-CodeExecution_via_Malicious_ImageFile](https://kitploit.com/en/tools/github/cduram/chirp-codeexecution_via_malicious_imagefile)
- 9. [pentestcode](https://kitploit.com/en/tools/github/s0ld13rr/pentestcode)
- 10. [attackgen v0.16.0](https://kitploit.com/en/posts/github-mrwadams-attackgen-v0160)
- 11. [rekono v2.0.0-1](https://kitploit.com/en/posts/github-pablosnt-rekono-200-1)
- 12. [OFFENSIVE-SECURITY](https://kitploit.com/en/tools/github/nu11secur1ty/offensive-security)
- 13. [burp-ai-agent v1.0.0](https://kitploit.com/en/posts/github-six2dez-burp-ai-agent-v100)
- 14. [CloudHunter](https://kitploit.com/en/tools/github/1n3/cloudhunter)
- 15. [DevicePairedTool](https://kitploit.com/en/tools/github/elevenpaths/devicepairedtool)
- 16. [phpstan v2.2.9](https://kitploit.com/en/posts/github-phpstan-phpstan-229)
- 17. [ptrace](https://kitploit.com/en/tools/github/whatswrongandwhy/ptrace)
- 18. [ShadowNet v11.0.0](https://kitploit.com/en/posts/github-antisurveillanceagency-shadownet-v1100)
- 19. [tgscope](https://kitploit.com/en/tools/github/itsmoorgrove/tgscope)
- 20. [qyvora-toha3ee](https://kitploit.com/en/tools/github/qyvora/qyvora-toha3ee)
- 21. [NVD-Database](https://kitploit.com/en/tools/github/nomi-sec/nvd-database)
- 22. [cve-2025-29927](https://kitploit.com/en/tools/github/kuyrathdaro/cve-2025-29927)
- 23. [CVE-2026-49413](https://kitploit.com/en/tools/github/ii4gsp/cve-2026-49413)
- 24. [CVE-2026-53582](https://kitploit.com/en/tools/github/eev4n/cve-2026-53582)
- 25. [CVE-2024-6387](https://kitploit.com/en/tools/github/hasan8babiker/cve-2024-6387)
- 26. [windows v6.05](https://kitploit.com/en/posts/github-dockur-windows-v605)
- 27. [CVE-2025-32375-PoC](https://kitploit.com/en/tools/github/sevdakhidirova/cve-2025-32375-poc)
- 28. [credactor v2.6.0](https://kitploit.com/en/posts/github-rxb06-credactor-v260)
- 29. [CVE-2025-69212-for-myself](https://kitploit.com/en/tools/github/liaomilk/cve-2025-69212-for-myself)
- 30. [essh v0.3.2](https://kitploit.com/en/posts/github-matthart1983-essh-v032)
- 31. [Bad secure rails app](https://kitploit.com/en/tools/gitlab/vivian.maes/bad-secure-rails-app)
- 32. [vegadns](https://kitploit.com/en/tools/gitlab/wattocyber/vegadns)
- 33. [Packet-Sniffer v4.0.0](https://kitploit.com/en/posts/github-eonraider-packet-sniffer-v400)
-
-**The Hacker News**
- 1. [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 
 **Al Jazeera – Breaking News, World News and Video from Al Jazeera**
  1. [Iran threatens countries that join US ‘economic D-Day’](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
@@ -118,17 +124,12 @@
  4. [Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return](https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss)
  5. [Open-air cinema brings movie nights back to Khartoum](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss)
  6. [Israeli army and settlers injure several Palestinians across West Bank](https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss)
- 7. [US Postal Service shares mail-in ballot restrictions despite court ruling](https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss)
- 8. [Iran grants permission for some Iraqi oil tankers to pass through Hormuz](https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss)
 
-**Seth's Blog**
- 1. [Don’t eat if you’re not hungry](https://seths.blog/2026/08/dont-eat-if-youre-not-hungry/)
-
-**Security Affairs**
- 1. [ToxicPanda 2.0 Gets a Major Upgrade, Expanding Attacks Across 16 Countries](https://securityaffairs.com/197681/breaking-news/toxicpanda-2-0-gets-a-major-upgrade.html)
- 2. [Malware Hijacks Android Car Head Units](https://securityaffairs.com/197700/hacking/malware-hijacks-android-car-head-units.html)
- 3. [Critical Flaw in NASA/JPL Open-Source Spacecraft Command Software Allowed Unauthenticated Command Execution](https://securityaffairs.com/197689/hacking/critical-flaw-in-nasa-jpl-open-source-spacecraft-command-software.html)
- 4. [U.S. CISA adds Zimbra Collaboration Suite (ZCS) flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/197693/security/u-s-cisa-adds-zimbra-collaboration-suite-zcs-flaw-to-its-known-exploited-vulnerabilities-catalog.html)
+**NPR Topics: News**
+ 1. [Trump administration's 75-country visa ban was illegal, judge rules](https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries)
+ 2. [Opinion: Mr. Rogers keeps finding a new neighborhood](https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood)
+ 3. [As Flock battles public scrutiny, other police surveillance companies see an opening](https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity)
+ 4. [Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
 
 **BBC News**
  1. [Lucy Davis 'grateful' for support over cancer diagnosis](https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss)
@@ -141,16 +142,6 @@
  8. [Mateta claims final year of Palace deal is invalid](https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss)
  9. [Norris expects challenge after back-to-back poles](https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss)
 
-**Ars Technica - All content**
- 1. [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/)
- 2. [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/)
-
-**NPR Topics: News**
- 1. [Trump administration's 75-country visa ban was illegal, judge rules](https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries)
- 2. [Opinion: Mr. Rogers keeps finding a new neighborhood](https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood)
- 3. [As Flock battles public scrutiny, other police surveillance companies see an opening](https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity)
- 4. [Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8](https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs)
-
 **TechCrunch**
  1. [Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)
  2. [Will the DOJ’s investigation into a16z spook other VCs?](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/)
@@ -161,6 +152,61 @@
  7. [Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/)
  8. [Michael Polansky is training an AI model on skin that’s still alive](https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/)
  9. [Japanese space tech startup Letara expands beyond satellite thrusters with $16M](https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/)
+
+**NYT > Top Stories**
+ 1. [U.S. Economy Could Feel the Sting From Trade War With Canada](https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html)
+ 2. [Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html)
+ 3. [Trump’s Top Trade Representative Details Offer That Canada Rejected](https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html)
+ 4. [Why Polling Chaos Could Create Big Problems for American Politics](https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html)
+ 5. [How a Progressive Democrat in Florida Gave Her Party New Hope — and New Fears](https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html)
+ 6. [How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy](https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html)
+ 7. [How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy](https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html)
+ 8. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
+ 9. [Meghan’s Brand, As Ever, Will Live On](https://www.nytimes.com/2026/08/22/style/meghan-markle-as-ever.html)
+ 10. [An Expert on Conflict Says Your Relationships Are Doomed Without It](https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html)
+ 11. [An Ancient Sumerian Solution to Our $40 Trillion Deficit](https://www.nytimes.com/2026/08/22/opinion/us-debt-40-trillion.html)
+
+**Daring Fireball**
+ 1. [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn)
+ 2. [WorkOS: Agents Can Now Sign Up for Your App](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
+ 3. [Dutch Regulator Fines Uber $1 Billion for Suspending Dishonest Drivers](https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/)
+
+**World news | The Guardian**
+ 1. [Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail)
+ 2. [Man leaves young son on Mount Fuji before ascending Japan’s highest peak](https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan)
+ 3. [Seventeen-year-old girl killed in sword attack at school in Sweden](https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden)
+ 4. [‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished](https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished)
+ 5. [Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine](https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine)
+ 6. [Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief](https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih)
+ 7. [Is this the end of Harry and Meghan’s American dream?](https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream)
+ 8. [Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94](https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94)
+ 9. [40,000 bottles of eye drops across the US recalled over issues with sterility of product](https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes)
+ 10. [Indiana residents endure 11th day without power after storms topple power lines](https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power)
+
+**Seth's Blog**
+ 1. [Don’t eat if you’re not hungry](https://seths.blog/2026/08/dont-eat-if-youre-not-hungry/)
+
+**The Verge**
+ 1. [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
+ 2. [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
+ 3. [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
+ 4. [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
+ 5. [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
+
+**The Marginalian**
+ 1. [The More Loving One: The Science of Entropy and the Art of Alternative Endings](https://www.themarginalian.org/2026/08/22/the-more-loving-one-auden-universe-in-verse/)
+ 2. [The Loveliness of Letting Go: An Illustrated Ode to Life’s Lasts](https://www.themarginalian.org/2026/08/21/odds-and-ends-maija-hurme/)
+ 3. [How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living](https://www.themarginalian.org/2026/08/21/anais-nin-d-h-lawrence/)
+
+**kottke.org**
+ 1. [Jodi Ettenberg on living grief and a serendipitous...](https://kottke.org/26/08/0049522-jodi-ettenberg-on-living-)
+
+**NASA**
+ 1. [APOD: 2026 August 22 – Mostly Perseids](https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/)
+
+**物种日历**
+ 1. [打呼噜越响越容易猝死？睡前一个小动作，鼾声停，呼吸畅快，白天有精神！](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E6%89%93%E5%91%BC%E5%99%9C%E8%B6%8A%E5%93%8D%E8%B6%8A%E5%AE%B9%E6%98%93%E7%8C%9D%E6%AD%BB%EF%BC%9F%E7%9D%A1%E5%89%8D%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%EF%BC%8C%E9%BC%BE%E5%A3%B0%E5%81%9C%EF%BC%8C%E5%91%BC%E5%90%B8%E7%95%85%E5%BF%AB%EF%BC%8C%E7%99%BD%E5%A4%A9%E6%9C%89%E7%B2%BE%E7%A5%9E%EF%BC%81)
+ 2. [为什么我们很少看到一头“站”起来的牛？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E4%B8%80%E5%A4%B4%E2%80%9C%E7%AB%99%E2%80%9D%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%89%9B%EF%BC%9F)
 
 **热门文章 - 日榜 - 人人都是产品经理**
  1. [AI互联网日报：特斯拉车机接入豆包和DeepSeek、DeepSeek上线多模态、豆包办公应用升温、阿里Accio商家超5万](https://www.woshipm.com/ai/6452861.html)
@@ -183,52 +229,4 @@
  18. [AI已经救不了大厂的股价了](https://www.woshipm.com/ai/6452551.html)
  19. [豆包开始收酒店渠道费，老板们为什么不骂反喜？](https://www.woshipm.com/it/6452549.html)
  20. [Agent为什么需要沙盒？产品经理必须理解的AI安全边界](https://www.woshipm.com/ai/6452124.html)
-
-**NYT > Top Stories**
- 1. [U.S. Economy Could Feel the Sting From Trade War With Canada](https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html)
- 2. [Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html)
- 3. [Trump’s Top Trade Representative Details Offer That Canada Rejected](https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html)
- 4. [Why Polling Chaos Could Create Big Problems for American Politics](https://www.nytimes.com/2026/08/22/us/politics/election-polls-confusion-prediction-markets.html)
- 5. [How a Progressive Democrat in Florida Gave Her Party New Hope — and New Fears](https://www.nytimes.com/2026/08/22/us/politics/angie-nixon-florida-senate-socialist.html)
- 6. [How the Billionaire Joe Lonsdale Shaped Trump’s Homelessness Policy](https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html)
- 7. [How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy](https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html)
- 8. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
- 9. [Meghan’s Brand, As Ever, Will Live On](https://www.nytimes.com/2026/08/22/style/meghan-markle-as-ever.html)
- 10. [An Expert on Conflict Says Your Relationships Are Doomed Without It](https://www.nytimes.com/2026/08/22/magazine/priya-parker-interview.html)
- 11. [An Ancient Sumerian Solution to Our $40 Trillion Deficit](https://www.nytimes.com/2026/08/22/opinion/us-debt-40-trillion.html)
-
-**kottke.org**
- 1. [Jodi Ettenberg on living grief and a serendipitous...](https://kottke.org/26/08/0049522-jodi-ettenberg-on-living-)
-
-**The Verge**
- 1. [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
- 2. [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
- 3. [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
- 4. [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
- 5. [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
-
-**Daring Fireball**
- 1. [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn)
- 2. [WorkOS: Agents Can Now Sign Up for Your App](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026)
- 3. [Dutch Regulator Fines Uber $1 Billion for Suspending Dishonest Drivers](https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/)
-
-**World news | The Guardian**
- 1. [Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods](https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail)
- 2. [Man leaves young son on Mount Fuji before ascending Japan’s highest peak](https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan)
- 3. [Seventeen-year-old girl killed in sword attack at school in Sweden](https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden)
- 4. [‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished](https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished)
- 5. [Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine](https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine)
- 6. [Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief](https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih)
- 7. [Is this the end of Harry and Meghan’s American dream?](https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream)
- 8. [Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94](https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94)
- 9. [40,000 bottles of eye drops across the US recalled over issues with sterility of product](https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes)
- 10. [Indiana residents endure 11th day without power after storms topple power lines](https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power)
-
-**NASA**
- 1. [APOD: 2026 August 22 – Mostly Perseids](https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/)
-
-**The Marginalian**
- 1. [The More Loving One: The Science of Entropy and the Art of Alternative Endings](https://www.themarginalian.org/2026/08/22/the-more-loving-one-auden-universe-in-verse/)
- 2. [The Loveliness of Letting Go: An Illustrated Ode to Life’s Lasts](https://www.themarginalian.org/2026/08/21/odds-and-ends-maija-hurme/)
- 3. [How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living](https://www.themarginalian.org/2026/08/21/anais-nin-d-h-lawrence/)
 
