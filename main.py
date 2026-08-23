@@ -20,7 +20,7 @@ def update_today(data: list=[]):
     
     # 保存两份：一份写入项目根目录，一份备份存档(archive)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
-        content = f'# Daily News({today})\n'
+        content = f'# Daily News({today})\n\n'
         for item in data:
             (feed, value), = item.items()
             content += f'- {feed}\n'
