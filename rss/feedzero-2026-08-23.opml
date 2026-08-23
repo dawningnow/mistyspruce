@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title>FeedZero Subscriptions</title>
+    <dateCreated>Sun, 23 Aug 2026 09:03:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="cs.LG updates on arXiv.org" type="rss" created="Tue, 04 Aug 2026 13:05:50 GMT" description="cs.LG updates on the arXiv.org e-print archive." xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="http://rss.arxiv.org/rss/cs.LG" title="cs.LG updates on arXiv.org"/>
+    <outline text="GeekPlux" type="rss" created="Thu, 06 Aug 2026 08:26:16 GMT" description="Data Visualization &amp; Full-stack programmer, always exploring" xmlUrl="https://geekplux.com/feed.xml" htmlUrl="https://geekplux.com" title="GeekPlux"/>
+    <outline text="iDaily · 每日环球视野" type="rss" created="Thu, 06 Aug 2026 08:21:58 GMT" description="iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub" xmlUrl="https://plink.anyfeeder.com/idaily/today" htmlUrl="https://idai.ly" title="iDaily · 每日环球视野"/>
+    <outline text="IT之家" type="rss" created="Tue, 04 Aug 2026 13:03:22 GMT" description="IT之家 - 软媒旗下网站" xmlUrl="https://www.ithome.com/rss" htmlUrl="https://www.ithome.com/" title="IT之家"/>
+    <outline text="Kaffa.im" type="rss" created="Thu, 06 Aug 2026 09:14:00 GMT" xmlUrl="https://kaffa.im/feeds/all.atom.xml" htmlUrl="https://kaffa.im/" title="Kaffa.im"/>
+    <outline text="NYT &gt; World News" type="rss" created="Thu, 06 Aug 2026 09:18:07 GMT" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml" htmlUrl="https://www.nytimes.com/section/world" title="NYT &gt; World News"/>
+    <outline text="Release notes from iOS-Weekly" type="rss" created="Thu, 06 Aug 2026 08:10:01 GMT" xmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom" htmlUrl="https://github.com/SwiftOldDriver/iOS-Weekly/releases" title="Release notes from iOS-Weekly"/>
+    <outline text="V2EX" type="rss" created="Thu, 06 Aug 2026 08:19:23 GMT" description="way to explore" xmlUrl="http://www.v2ex.com/index.xml" htmlUrl="https://www.v2ex.com/" title="V2EX"/>
+  </body>
+</opml>
