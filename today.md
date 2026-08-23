@@ -1,10 +1,17 @@
 # Daily News(2026-08-23)
+
 - 参考消息
   1. [广西发布洪水红色预警](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%B9%BF%E8%A5%BF%E5%8F%91%E5%B8%83%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
   2. [加拿大“报复”美国](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%8A%A0%E6%8B%BF%E5%A4%A7%E2%80%9C%E6%8A%A5%E5%A4%8D%E2%80%9D%E7%BE%8E%E5%9B%BD)
   3. [日本深夜地震，东京震感明显](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%97%A5%E6%9C%AC%E6%B7%B1%E5%A4%9C%E5%9C%B0%E9%9C%87%EF%BC%8C%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE)
   4. [普京：俄方予以报复性打击](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%99%AE%E4%BA%AC%EF%BC%9A%E4%BF%84%E6%96%B9%E4%BA%88%E4%BB%A5%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%89%93%E5%87%BB)
   5. [全球黄金市场，迎来重大变化](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%85%A8%E7%90%83%E9%BB%84%E9%87%91%E5%B8%82%E5%9C%BA%EF%BC%8C%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E5%8F%98%E5%8C%96)
+- 10天推荐排行 - 博客园
+  1. [个人职业生涯记录（不定期更新）【交叉编译|终端安全|驱动开发|EDR|性能调优|鸿蒙开发】](https://www.cnblogs.com/KBin/p/22633660)
+- Hacker News Daily
+  1. [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
+- 小众软件
+  1. [Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据](https://www.appinn.com/windows-11-point-in-time-restore-default/)
 - 一天一篇经济学人(双语)
   1. [本期《经济学人》最值得读的10篇文章](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0)
   2. [AI 与狗有何共同之处 | 经济学人文化](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+AI%20%E4%B8%8E%E7%8B%97%E6%9C%89%E4%BD%95%E5%85%B1%E5%90%8C%E4%B9%8B%E5%A4%84%20%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E6%96%87%E5%8C%96)
@@ -21,16 +28,9 @@
   9. [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
   10. [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
   11. [Z80 – The 1970s Microprocessor Still Alive (2021)](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
-  12. [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
-- Hacker News Daily
-  1. [Daily Hacker News for 2026-08-21](https://www.daemonology.net/hn-daily/2026-08-21.html)
-- 小众软件
-  1. [Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据](https://www.appinn.com/windows-11-point-in-time-restore-default/)
 - 物种日历
   1. [打呼噜越响越容易猝死？睡前一个小动作，鼾声停，呼吸畅快，白天有精神！](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E6%89%93%E5%91%BC%E5%99%9C%E8%B6%8A%E5%93%8D%E8%B6%8A%E5%AE%B9%E6%98%93%E7%8C%9D%E6%AD%BB%EF%BC%9F%E7%9D%A1%E5%89%8D%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%8A%A8%E4%BD%9C%EF%BC%8C%E9%BC%BE%E5%A3%B0%E5%81%9C%EF%BC%8C%E5%91%BC%E5%90%B8%E7%95%85%E5%BF%AB%EF%BC%8C%E7%99%BD%E5%A4%A9%E6%9C%89%E7%B2%BE%E7%A5%9E%EF%BC%81)
   2. [为什么我们很少看到一头“站”起来的牛？](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E4%B8%80%E5%A4%B4%E2%80%9C%E7%AB%99%E2%80%9D%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%89%9B%EF%BC%9F)
-- 10天推荐排行 - 博客园
-  1. [个人职业生涯记录（不定期更新）【交叉编译|终端安全|驱动开发|EDR|性能调优|鸿蒙开发】](https://www.cnblogs.com/KBin/p/22633660)
 - 热门文章 - 日榜 - 人人都是产品经理
   1. [AI互联网日报：特斯拉车机接入豆包和DeepSeek、DeepSeek上线多模态、豆包办公应用升温、阿里Accio商家超5万](https://www.woshipm.com/ai/6452861.html)
   2. [对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品](https://www.woshipm.com/ai/6452857.html)
