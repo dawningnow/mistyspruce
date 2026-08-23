@@ -23,7 +23,7 @@ def update_today(data: list=[]):
         content = f'# Daily News({today})\n\n'
         for item in data:
             (feed, value), = item.items()
-            content += f'- {feed}\n'
+            content += f'**{feed}**\n'
             for index, (title, url) in enumerate(value.items()):
                 content += f' {index + 1}. [{title}]({url})\n'
         f1.write(content)
