@@ -21,5 +21,30 @@
     <outline xmlUrl="https://rss.cnki.net/knavi/rss/YYSU?pcode=CJFD,CCJD"/>
     <outline xmlUrl="https://www.nature.com/nature.rss"/>
     <outline xmlUrl="https://www.nasa.gov/news-release/feed/"/>
+    <outline xmlUrl="http://itravelblog.net/feed/"/>
+    <outline xmlUrl="http://www.solidot.org/index.rss"/>
+    <outline xmlUrl="http://www.tmtpost.com/feed"/>
+    <outline xmlUrl="http://www.voachinese.com/api/"/>
+    <outline xmlUrl="https://victranslates.blogspot.com/feeds/posts/default"/>
+    <outline xmlUrl="https://translatedbytonytsou.blogspot.com/feeds/posts/default"/>
+    <outline xmlUrl="https://program-think.blogspot.com/feeds/posts/default"/>
+    <outline xmlUrl="http://www.doyj.com/feed/"/>
+    <outline xmlUrl="https://mhperng2.blogspot.com/feeds/posts/default"/>
+    <outline xmlUrl="http://blog.wangjunyu.net/feed"/>
+    <outline xmlUrl="http://coolshell.cn/feed"/>
+    <outline xmlUrl="http://www.laozuo.org/feed"/>
+    <outline xmlUrl="https://blog.phoenixlzx.com/atom.xml"/>
+    <outline xmlUrl="https://linux.do/latest.rss"/>
+    <outline xmlUrl="https://www.v2ex.com/feed/tab/hot.xml"/>
+    <outline xmlUrl="https://sspai.com/feed"/>
+    <outline xmlUrl="https://rsshub.app/weibo/search/hot"/>
+    <outline xmlUrl="https://rsshub.app/zhihu/hot"/>
+    <outline xmlUrl="https://plink.anyfeeder.com/weixin/vistaweek"/>
+    <outline xmlUrl="https://plink.anyfeeder.com/weixin/duhaoshu"/>
+    <outline xmlUrl="https://cprss.s3.amazonaws.com/frontendfoc.us.xml"/>
+    <outline xmlUrl="https://v2ex-create.nexmm.com/rss.xml"/>
+    <outline xmlUrl="https://newsletter.pessimistsarchive.org/feed"/>
+    <outline xmlUrl="https://www.androidpolice.com/feed/"/>
+    <outline xmlUrl="https://www.peopleofprint.com/feed/atom/"/>
   </body>
 </opml>
