@@ -1,20 +1,25 @@
-<outline xmlUrl="https://feedx.net/rss/wikiindex.xml"/>
-<outline xmlUrl="https://zh.wikipedia.org/w/index.php?"/>
-<outline xmlUrl="https://www.ceic.com/xxgs/1382695371431/rss.xml"/>
-<outline xmlUrl="https://www.ceic.com/xxgs/1382695374608/rss.xml"/>
-<outline xmlUrl="https://newtalk.tw/rss/all/"/>
-<outline xmlUrl="https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e,30f92eeafcfd4685984dfb793a2c5fff"/>
-<outline xmlUrl="https://www.ceic.com/xxgs/1382695371431/rss.xml"/>
-<outline xmlUrl="https://www.stats.gov.cn/sj/zxfb/rss.xml"/>
-<outline xmlUrl="https://www.stats.gov.cn/sj/sjjd/rss.xml"/>
-<outline xmlUrl="https://www.chinanews.com.cn/rss/scroll-news.xml"/>
-<outline xmlUrl="https://linux.do/c/welfare/36.rss"/>
-<outline xmlUrl="https://rss.huxiu.com/"/>
-<outline xmlUrl="https://www.ezindie.com/feed/rss.xml"/>
-<outline xmlUrl="https://economistnew.buzzing.cc/feed.xml"/>
-<outline xmlUrl="https://cn.wsj.com/rss-news-and-feeds/zh-hans"/>
-<outline xmlUrl="https://plink.anyfeeder.com/zaobao/realtime/world"/>
-<outline xmlUrl="https://rss.cnki.net/knavi/rss/GKSX?pcode=CJFD,CCJD"/>
-<outline xmlUrl="https://rss.cnki.net/knavi/rss/YYSU?pcode=CJFD,CCJD"/>
-<outline xmlUrl="https://www.nature.com/nature.rss"/>
-<outline xmlUrl="https://www.nasa.gov/news-release/feed/"/>
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <body>
+    <outline xmlUrl="https://feedx.net/rss/wikiindex.xml"/>
+    <outline xmlUrl="https://zh.wikipedia.org/w/index.php?"/>
+    <outline xmlUrl="https://www.ceic.com/xxgs/1382695371431/rss.xml"/>
+    <outline xmlUrl="https://www.ceic.com/xxgs/1382695374608/rss.xml"/>
+    <outline xmlUrl="https://newtalk.tw/rss/all/"/>
+    <outline xmlUrl="https://www.miit.gov.cn/api-gateway/jpaas-plugins-web-server/front/rss/getinfo?webId=8d828e408d90447786ddbe128d495e9e&columnIds=925fa8f4afd44e53818794ed96d9876e,30f92eeafcfd4685984dfb793a2c5fff"/>
+    <outline xmlUrl="https://www.ceic.com/xxgs/1382695371431/rss.xml"/>
+    <outline xmlUrl="https://www.stats.gov.cn/sj/zxfb/rss.xml"/>
+    <outline xmlUrl="https://www.stats.gov.cn/sj/sjjd/rss.xml"/>
+    <outline xmlUrl="https://www.chinanews.com.cn/rss/scroll-news.xml"/>
+    <outline xmlUrl="https://linux.do/c/welfare/36.rss"/>
+    <outline xmlUrl="https://rss.huxiu.com/"/>
+    <outline xmlUrl="https://www.ezindie.com/feed/rss.xml"/>
+    <outline xmlUrl="https://economistnew.buzzing.cc/feed.xml"/>
+    <outline xmlUrl="https://cn.wsj.com/rss-news-and-feeds/zh-hans"/>
+    <outline xmlUrl="https://plink.anyfeeder.com/zaobao/realtime/world"/>
+    <outline xmlUrl="https://rss.cnki.net/knavi/rss/GKSX?pcode=CJFD,CCJD"/>
+    <outline xmlUrl="https://rss.cnki.net/knavi/rss/YYSU?pcode=CJFD,CCJD"/>
+    <outline xmlUrl="https://www.nature.com/nature.rss"/>
+    <outline xmlUrl="https://www.nasa.gov/news-release/feed/"/>
+  </body>
+</opml>
