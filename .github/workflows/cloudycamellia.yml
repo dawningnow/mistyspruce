@@ -4,7 +4,8 @@ name: Update dailynews
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 北京时间上午六点
+    - cron: '0 22 * * *'  # 北京时间 06:00
+    - cron: '0 10 * * *'  # 北京时间 18:00
   workflow_dispatch: # 手动触发
 
 jobs:

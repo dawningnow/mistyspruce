@@ -13,10 +13,14 @@ today = datetime.datetime.now().strftime("%Y-%m-%d")
 
 def update_today(data: list=[]):
     """更新today"""
+    hour = datetime.datetime.now().hour
     root_path = Path(__file__).absolute().parent # 获取当前文件所在路径
     today_path = root_path.joinpath('today.md')
-    archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today}.md')
-    archive_path.parent.mkdir(parents=True, exist_ok=True) # 创建 archive/year目录
+    if hour < 18:
+        archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today.split("-")[1]}/{today}-daytime.md')
+    else:
+        archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today.split("-")[1]}/{today}-evening.md')
+    archive_path.parent.mkdir(parents=True, exist_ok=True) # 创建 archive/year/mons目录
     
     # 保存两份：一份写入项目根目录，一份备份存档(archive)
     with open(today_path, 'w+') as f1, open(archive_path, 'w+') as f2:
