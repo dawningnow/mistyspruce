@@ -1,62 +1,5 @@
 # Daily News(2026-08-25)
 
-**NYT > World News**
- 1. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
- 2. [Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops](https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html)
- 3. [Can ‘Argentina’s Texas’ Save the Country’s Economy?](https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html)
- 4. [As El Niño Dries Indonesia, Wildfires Intensify](https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html)
- 5. [UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings](https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html)
- 6. [Iran Pledges to Defy Trump’s Economic Sanctions](https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html)
- 7. [Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions](https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html)
- 8. [Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)
- 9. [A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?](https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html)
- 10. [U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands](https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html)
- 11. [A New Effort to Punish Iran](https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html)
- 12. [British Prime Minister Visits Ukraine for Its Independence Day](https://www.nytimes.com/video/world/europe/100000011109253/andy-burnham-uk-ukraine-visit.html)
- 13. [Iceland’s Murder Rate Is Off the Charts (in Its Books, at Least)](https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html)
- 14. [Chinese Robot Beats Usain Bolt’s 100-Meter Record](https://www.nytimes.com/video/world/asia/100000011108916/100-meter-dash-humanoid-robot-games-usain-bolt.html)
- 15. [How Argentina’s Oil Boom Is Changing Patagonia](https://www.nytimes.com/video/world/americas/100000010986029/how-argentinas-oil-boom-is-changing-patagonia.html)
- 16. [The Price of Bread](https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html)
- 17. [U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations](https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html)
-
-**Hacker News Daily**
- 1. [Daily Hacker News for 2026-08-23](https://www.daemonology.net/hn-daily/2026-08-23.html)
-
-**参考消息**
- 1. [总犯困、代谢慢，可能是蛋白质没吃够！这3个坏习惯，90%的人都在犯](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%80%BB%E7%8A%AF%E5%9B%B0%E3%80%81%E4%BB%A3%E8%B0%A2%E6%85%A2%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%B2%A1%E5%90%83%E5%A4%9F%EF%BC%81%E8%BF%993%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%EF%BC%8C90%25%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%8A%AF)
- 2. [彭斯喊话李在明](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%BD%AD%E6%96%AF%E5%96%8A%E8%AF%9D%E6%9D%8E%E5%9C%A8%E6%98%8E)
- 3. [歼轰7总设计师陈一坚逝世](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%AD%BC%E8%BD%B07%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%99%88%E4%B8%80%E5%9D%9A%E9%80%9D%E4%B8%96)
- 4. [“中方已提出严正交涉”](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E2%80%9C%E4%B8%AD%E6%96%B9%E5%B7%B2%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%E2%80%9D)
- 5. [以防长：采取最严厉行动](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E4%BB%A5%E9%98%B2%E9%95%BF%EF%BC%9A%E9%87%87%E5%8F%96%E6%9C%80%E4%B8%A5%E5%8E%89%E8%A1%8C%E5%8A%A8)
-
-**Seth's Blog**
- 1. [“Thanks for your quick response”](https://seths.blog/2026/08/thanks-for-your-quick-response/)
-
-**NPR Topics: News**
- 1. [Six months on, U.S. Navy families who evacuated Bahrain remain in limbo](https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo)
- 2. [Penn State bust put focus on cocaine but on most campuses the big risk is alcohol](https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults)
- 3. [Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom](https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court)
- 4. [Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran](https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran)
- 5. [U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.](https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban)
- 6. [Washington, D.C.'s first IndyCar race packed the National Mall](https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall)
- 7. [In candid interviews, National Guard members speak out about D.C. deployment](https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment)
- 8. [Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says](https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy)
- 9. [Morning news brief](https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief)
- 10. [U.S. businesses are getting tariff refunds. Will customers get any money back?](https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back)
-
-**Ars Technica - All content**
- 1. [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
- 2. [Data centers become "killer application" for new power transformer tech](https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/)
- 3. [RFK Jr. may upend how vaccine recommendations are categorized](https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/)
- 4. [Ads and tracking infiltrated TVs. Now they're coming for monitors.](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/)
- 5. [GM vehicles under federal scrutiny after hundreds of reports](https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/)
- 6. [Inaudible sounds used to fingerprint browsers catch AliExpress red-handed](https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/)
- 7. [Buyer beware: Those mummified remains might carry toxic spores](https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/)
- 8. [Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)
- 9. [F1 in the Netherlands: The driver you most want to beat is your teammate](https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/)
- 10. [Trump tried to curb clean energy. It’s booming anyway.](https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/)
- 11. [Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo](https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/)
-
 **Al Jazeera – Breaking News, World News and Video from Al Jazeera**
  1. [How US sanctions on Iran ripple through global markets and consumers](https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss)
  2. [US Supreme Court allows Trump’s mail voting restrictions to proceed](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
@@ -79,12 +22,128 @@
  19. [Israeli restrictions cause fuel shortage in occupied West Bank](https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss)
  20. [Why ‘pogrom’ best describes what’s happening in the occupied West Bank](https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss)
  21. [Israel threatens attacks in Gaza over children’s kites](https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss)
+ 22. [Trump administration seeks to formalise H-1B fee of more than $100,000](https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss)
 
-**NN/g latest articles and announcements**
- 1. [UX Conference November Announced (Nov 9 - Nov 13)](https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication)
+**参考消息**
+ 1. [总犯困、代谢慢，可能是蛋白质没吃够！这3个坏习惯，90%的人都在犯](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%80%BB%E7%8A%AF%E5%9B%B0%E3%80%81%E4%BB%A3%E8%B0%A2%E6%85%A2%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%B2%A1%E5%90%83%E5%A4%9F%EF%BC%81%E8%BF%993%E4%B8%AA%E5%9D%8F%E4%B9%A0%E6%83%AF%EF%BC%8C90%25%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%8A%AF)
+ 2. [彭斯喊话李在明](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%BD%AD%E6%96%AF%E5%96%8A%E8%AF%9D%E6%9D%8E%E5%9C%A8%E6%98%8E)
+ 3. [歼轰7总设计师陈一坚逝世](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%AD%BC%E8%BD%B07%E6%80%BB%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%99%88%E4%B8%80%E5%9D%9A%E9%80%9D%E4%B8%96)
+ 4. [“中方已提出严正交涉”](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E2%80%9C%E4%B8%AD%E6%96%B9%E5%B7%B2%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%E2%80%9D)
+ 5. [以防长：采取最严厉行动](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E4%BB%A5%E9%98%B2%E9%95%BF%EF%BC%9A%E9%87%87%E5%8F%96%E6%9C%80%E4%B8%A5%E5%8E%89%E8%A1%8C%E5%8A%A8)
+
+**Hacker News Daily**
+ 1. [Daily Hacker News for 2026-08-23](https://www.daemonology.net/hn-daily/2026-08-23.html)
+
+**NYT > World News**
+ 1. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
+ 2. [Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops](https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html)
+ 3. [Can ‘Argentina’s Texas’ Save the Country’s Economy?](https://www.nytimes.com/2026/08/24/world/americas/argentina-oil-patagonia-milei.html)
+ 4. [As El Niño Dries Indonesia, Wildfires Intensify](https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html)
+ 5. [UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings](https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html)
+ 6. [Iran Pledges to Defy Trump’s Economic Sanctions](https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html)
+ 7. [Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions](https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html)
+ 8. [Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)
+ 9. [A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?](https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html)
+ 10. [U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands](https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html)
+ 11. [A New Effort to Punish Iran](https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html)
+ 12. [British Prime Minister Visits Ukraine for Its Independence Day](https://www.nytimes.com/video/world/europe/100000011109253/andy-burnham-uk-ukraine-visit.html)
+ 13. [Iceland’s Murder Rate Is Off the Charts (in Its Books, at Least)](https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html)
+ 14. [Chinese Robot Beats Usain Bolt’s 100-Meter Record](https://www.nytimes.com/video/world/asia/100000011108916/100-meter-dash-humanoid-robot-games-usain-bolt.html)
+ 15. [How Argentina’s Oil Boom Is Changing Patagonia](https://www.nytimes.com/video/world/americas/100000010986029/how-argentinas-oil-boom-is-changing-patagonia.html)
+ 16. [The Price of Bread](https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html)
+ 17. [U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations](https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html)
+
+**iDaily · 每日环球视野**
+ 1. [2026年世界人形机器人运动会 - August 24, 2026](https://m.idai.ly/se/0e655l)
+ 2. [美国华盛顿印地赛车比赛 - August 24, 2026](https://m.idai.ly/se/8264IZ)
+ 3. [日本关东地区5.9级地震 - August 24, 2026](https://m.idai.ly/se/783nbB)
+ 4. [哈萨克斯坦首届一院制议会选举 - August 24, 2026](https://m.idai.ly/se/aebG3R)
+ 5. [挪威「死亡跳水」锦标赛 - August 24, 2026](https://m.idai.ly/se/fed3Ic)
+ 6. [纽约 Anime NYC 动漫展 - August 24, 2026](https://m.idai.ly/se/00bfAq)
+ 7. [《韩熙载夜宴图》南宋摹本15年首展 - August 24, 2026](https://m.idai.ly/se/d36KOg)
+ 8. [斯里兰卡康提佛牙节 - August 24, 2026](https://m.idai.ly/se/959c8o)
+
+**Ars Technica - All content**
+ 1. [AI is hitting entry-level jobs hardest, Stanford study finds](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
+ 2. [Data centers become "killer application" for new power transformer tech](https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/)
+ 3. [RFK Jr. may upend how vaccine recommendations are categorized](https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/)
+ 4. [Ads and tracking infiltrated TVs. Now they're coming for monitors.](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/)
+ 5. [GM vehicles under federal scrutiny after hundreds of reports](https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/)
+ 6. [Inaudible sounds used to fingerprint browsers catch AliExpress red-handed](https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/)
+ 7. [Buyer beware: Those mummified remains might carry toxic spores](https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/)
+ 8. [Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China](https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/)
+ 9. [F1 in the Netherlands: The driver you most want to beat is your teammate](https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/)
+ 10. [Trump tried to curb clean energy. It’s booming anyway.](https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/)
+ 11. [Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo](https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/)
+
+**一天一篇经济学人(双语)**
+ 1. [第三期经济学人精读打卡营：这次，每天多读两段](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%AC%AC%E4%B8%89%E6%9C%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%9A%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%AF%8F%E5%A4%A9%E5%A4%9A%E8%AF%BB%E4%B8%A4%E6%AE%B5)
+
+**Seth's Blog**
+ 1. [“Thanks for your quick response”](https://seths.blog/2026/08/thanks-for-your-quick-response/)
+
+**BBC News**
+ 1. [Organised crime arrests as police investigate A66 crash that killed two officers](https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss)
+ 2. [How the deadly A66 crash unfolded leaving seven dead](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
+ 3. [Burnham vows support for Ukraine despite 'outrageous threats' from Russia](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+ 4. [Beyond China's humanoid robots, a quieter machine revolution is unfolding](https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss)
+ 5. [Iran faces 'greatest financial offensive ever', says US treasury secretary](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
+ 6. [The grieving family who says the coroner's courts aren't working](https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss)
+ 7. [Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart](https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss)
+ 8. [Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
+ 9. [Home-testing kits now available for women in England who have missed cervical screening](https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss)
+ 10. [Briton fighting for Russia killed in Ukraine](https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss)
+ 11. [Sir Chris Hoy: Campaigning for cancer screening should not be down to me](https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o?at_medium=RSS&at_campaign=rss)
+ 12. [Asbestos killed my mum in her 40s – was her school to blame?](https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss)
+ 13. ['What you see is what you pay' - why some US restaurants are banning tips](https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss)
+ 14. [Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?](https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss)
+ 15. [The Papers: 'Burnham hints at tax increases' and 'Halt the hellrides'](https://www.bbc.co.uk/news/articles/cgk5yz1zl31o?at_medium=RSS&at_campaign=rss)
+ 16. [Videos showing dangerous driving easily found on social media](https://www.bbc.co.uk/news/videos/c05rjenm66go?at_medium=RSS&at_campaign=rss)
+ 17. [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
+ 18. [World's oceans hit highest temperature on record as El Niño grows](https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss)
+ 19. [New 10p coin enters circulation - will you spot one?](https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss)
+ 20. [Is UK's Storm Shadow missile a game changer for Ukraine?](https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss)
+ 21. [Teenager arrested after four viable devices found in security alert](https://www.bbc.co.uk/news/articles/cj64282epxpo?at_medium=RSS&at_campaign=rss)
+ 22. [What Is Andy Burnham's Missile Offer To Ukraine?](https://www.bbc.co.uk/sounds/play/p0p62njt?at_medium=RSS&at_campaign=rss)
+ 23. [Americanswers… Are Trump’s Canada tariffs legal?](https://www.bbc.co.uk/sounds/play/p0p639m6?at_medium=RSS&at_campaign=rss)
+ 24. [Three reasons Chelsea could challenge for title - and one they may not](https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss)
+ 25. [Watkins' departure would cut deepest - and Villa did not see it coming](https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss)
+ 26. [Punishment that sends shiver down whole England team needed - Vaughan](https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss)
+ 27. [Palmer impresses as Chelsea edge past Fulham to give Alonso first win](https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss)
+ 28. [Watson among Britons through in US Open qualifying](https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss)
+ 29. [Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle](https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss)
+ 30. [Hodgkinson withdraws from Zurich Diamond League](https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss)
+
+**NPR Topics: News**
+ 1. [Six months on, U.S. Navy families who evacuated Bahrain remain in limbo](https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo)
+ 2. [Penn State bust put focus on cocaine but on most campuses the big risk is alcohol](https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults)
+ 3. [Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom](https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court)
+ 4. [Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran](https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran)
+ 5. [U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.](https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban)
+ 6. [Washington, D.C.'s first IndyCar race packed the National Mall](https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall)
+ 7. [In candid interviews, National Guard members speak out about D.C. deployment](https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment)
+ 8. [Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says](https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy)
+ 9. [Morning news brief](https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief)
+ 10. [U.S. businesses are getting tariff refunds. Will customers get any money back?](https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back)
+
+**TechCrunch**
+ 1. [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/)
+ 2. [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
+ 3. [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
+ 4. [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
+ 5. [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
+ 6. [Amazon hikes hardware prices by 60%, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
+ 7. [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
+ 8. [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
+ 9. [Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
+ 10. [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/)
+ 11. [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)
+ 12. [Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/)
+ 13. [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)
+ 14. [US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)
 
 **V2EX**
- 1. [[求职] [求职] 全栈/前端 5 年经验](https://www.v2ex.com/t/1236931#reply0)
+ 1. [[求职] [求职] 全栈/前端 5 年经验](https://www.v2ex.com/t/1236931#reply4)
  2. [[分享创造] LabelTender - 一款开源免费标签条码打印设计工具](https://www.v2ex.com/t/1236930#reply0)
  3. [[酷工作] go 高级开发工程师 工作地点上海五角场](https://www.v2ex.com/t/1236929#reply0)
  4. [[酷工作] 海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）](https://www.v2ex.com/t/1236928#reply0)
@@ -96,16 +155,16 @@
  10. [[问与答] 关于 docker desktop，遇到一个很奇怪的问题](https://www.v2ex.com/t/1236921#reply0)
  11. [[推广] 做了一个免费的 UTM Checker：上线前检查 campaign URL](https://www.v2ex.com/t/1236920#reply0)
  12. [[程序员] 通过定义一个内核接口层 OpenKAL，实现了 C++通用交叉编译/构建，可以在 Windows 上交叉编译 Linux 和 macos 程序 (其实更通用 在任意 OS 交叉构建到任意 OS 程序)](https://www.v2ex.com/t/1236919#reply2)
- 13. [[生活] 三线城市和村镇，养小孩成本多少的？](https://www.v2ex.com/t/1236918#reply0)
+ 13. [[生活] 三线城市和村镇，养小孩成本多少的？](https://www.v2ex.com/t/1236918#reply2)
  14. [[推广] Claude Code / Codex 除了按量 API，月付 Seat 这种方式有人需要吗？](https://www.v2ex.com/t/1236917#reply0)
  15. [[Surge] surge 难道真的出售给其他人了？](https://www.v2ex.com/t/1236916#reply1)
- 16. [[职场话题] 坐标西安， 10 年后端，领礼包了](https://www.v2ex.com/t/1236914#reply6)
+ 16. [[职场话题] 坐标西安， 10 年后端，领礼包了](https://www.v2ex.com/t/1236914#reply9)
  17. [[分享创造] 我的开源小项目 cc-gate,实现多个 claude code cli 多个 codex cli 窗口连接不同的大模型](https://www.v2ex.com/t/1236912#reply0)
  18. [[问与答] codex 开始清退 sub2api 用户了吗?](https://www.v2ex.com/t/1236911#reply6)
  19. [[路由器] EdgeRouter 默认 RDNSS Lifetime 过短导致 iOS 设备唤醒时优先使用移动数据](https://www.v2ex.com/t/1236910#reply0)
- 20. [[问与答] 如何看待七夕结婚人数大幅下降](https://www.v2ex.com/t/1236909#reply16)
+ 20. [[问与答] 如何看待七夕结婚人数大幅下降](https://www.v2ex.com/t/1236909#reply18)
  21. [[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/AWS/GCP 可至 65 折 腾讯国际 55 折 [全网最低]](https://www.v2ex.com/t/1236907#reply0)
- 22. [[Apple] 你们的 Macbook 都是怎么清理的。](https://www.v2ex.com/t/1236906#reply15)
+ 22. [[Apple] 你们的 Macbook 都是怎么清理的。](https://www.v2ex.com/t/1236906#reply16)
  23. [[杭州] 问个问题，杭州的房东在乎租客怀孕生娃吗，准备重新租房](https://www.v2ex.com/t/1236905#reply4)
  24. [[游戏] 分享一个植物大战僵尸杂交版安装包挺全的站（支持直链）](https://www.v2ex.com/t/1236904#reply0)
  25. [[VPS] Deepseek harness 管理 vps](https://www.v2ex.com/t/1236903#reply4)
@@ -114,15 +173,10 @@
  28. [[推广] 「🍉西瓜备份」1.9.0 投递模式：从 iOS 向 Linux /Windows/macOS 投递图片/视频/文件](https://www.v2ex.com/t/1236899#reply0)
  29. [[Apple] 1Password 绝版 10 人家庭车](https://www.v2ex.com/t/1236898#reply0)
  30. [[macOS] Mac mini 用了三年，日均写入 600GB，请问有异常吗](https://www.v2ex.com/t/1236897#reply6)
- 31. [[问与答] 今年养老金没涨大家关注了吗？](https://www.v2ex.com/t/1236896#reply12)
+ 31. [[问与答] 今年养老金没涨大家关注了吗？](https://www.v2ex.com/t/1236896#reply13)
  32. [[问与答] 水费严重异常应该如何处理呢？](https://www.v2ex.com/t/1236895#reply8)
  33. [[分享发现] 以前看论坛都是各种软件行业分享，现在都是 AI 了](https://www.v2ex.com/t/1236894#reply1)
- 34. [[问与答] 关于游戏小圈子的强制改名,是我敏感了吗?](https://www.v2ex.com/t/1236891#reply17)
- 35. [[程序员] DSH Codex Desktop 全网最像 Codex 的 DeepSeek Harness Desktop](https://www.v2ex.com/t/1236890#reply5)
- 36. [[分享创造] DeepSeek 翻译替换上架 Chrome web store 了](https://www.v2ex.com/t/1236889#reply1)
- 37. [[Apple] 如果你跟我一样想保存没有标题的书签在 Safari 里面](https://www.v2ex.com/t/1236888#reply0)
- 38. [[分享创造] dy 读书号视频一键生成 Demo](https://www.v2ex.com/t/1236887#reply0)
- 39. [[分享创造] 分享一个自己写的微信公众号监控工具： WechRss](https://www.v2ex.com/t/1236886#reply6)
+ 34. [[问与答] 关于游戏小圈子的强制改名,是我敏感了吗?](https://www.v2ex.com/t/1236891#reply19)
 
 **NYT > Top Stories**
  1. [Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections](https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html)
@@ -146,15 +200,20 @@
  19. [Canada Said No to America. It Will Reverberate Far Beyond Its Borders.](https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html)
  20. [Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada](https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html)
 
+**潮流周刊**
+ 1. [第279期 - 风之谷泉](https://weekly.tw93.fun/posts/279/)
+
 **Stratechery by Ben Thompson**
  1. [Autonomy and Innovation](https://stratechery.com/2026/autonomy-and-innovation/)
 
-**Nature**
- 1. [The exoskeletons are coming (to a store near you)](https://www.nature.com/articles/d41586-026-02641-y)
- 2. [Frontier-technology markets are too narrow — here’s how to widen them](https://www.nature.com/articles/d41586-026-02572-8)
- 3. [Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons](https://www.nature.com/articles/d41586-026-02620-3)
- 4. [Patient’s own mitochondria injected into eyes in attempt to restore vision](https://www.nature.com/articles/d41586-026-02616-z)
- 5. [Can AI ever be conscious? The question stems from a misconception](https://www.nature.com/articles/d41586-026-02571-9)
+**纽约时报双语版**
+ 1. [洲际旅行迪拜转机？不，也许是首尔](https://cn.nytimes.com/asia-pacific/20260824/iran-war-asia-airports-dubai/dual)
+ 2. [战争、气候和贸易争端多重冲击，全球粮食安全亮红灯](https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/dual)
+ 3. [昔日热潮消退，Shein能“开启第二春”吗？](https://cn.nytimes.com/business/20260824/shein-ipo-questions/dual)
+ 4. [日本“副首都”争夺战：防范灾害还是政治“淘金”？](https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/dual)
+ 5. [详解美加贸易战：北美传统盟友关系因何破裂](https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual)
+ 6. [中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企](https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual)
+ 7. [特朗普威胁制裁伊朗盟友，中国为何不为所动](https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual)
 
 **The Verge**
  1. [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
@@ -168,61 +227,39 @@
  9. [How GoFundMe became America’s backup plan](https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses)
  10. [Netflix reportedly considers opening its app to other streamers](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one)
 
-**TechCrunch**
- 1. [Oura is reportedly eyeing a September IPO that could value it at more than $16B](https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/)
- 2. [Trump bought SpaceX shares two weeks after blockbuster IPO](https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/)
- 3. [Zillow and Redfin settle FTC antitrust case](https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/)
- 4. [Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space](https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/)
- 5. [Alabama launches investigation into OpenAI’s hack of Hugging Face](https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/)
- 6. [Amazon hikes hardware prices by 60%, blaming memory shortage](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/)
- 7. [Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/)
- 8. [Apply now to host a Side Event at TechCrunch Disrupt 2026](https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/)
- 9. [Instinct’s powerful AI assistant is raising privacy and security concerns](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/)
- 10. [Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics](https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/)
- 11. [OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)
- 12. [Brake problems in GM EVs draw greater federal scrutiny](https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/)
- 13. [Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)
- 14. [US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/)
+**Quanta Magazine**
+ 1. [A New Framework for How the Brain Compresses Our Noisy World](https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/)
 
-**kottke.org**
- 1. [Homing pigeons may sense the Earth’s magnetic field...](https://kottke.org/26/08/0049524-using-superparamagnetic-m)
- 2. [Just quickly reupping  this post  to remind you things...](https://kottke.org/26/08/0049528-this-post)
- 3. [Meat proxy   (noun) : &#8220;A person who forwards...](https://kottke.org/26/08/0049527-meat-proxy)
- 4. [Why Are Rivers So Mathematical?  “Any stream, from the...](https://kottke.org/26/08/0049523-why-are-rivers-so-mathema)
- 5. [Opinion columnist Karen Attiah won her arbitration...](https://kottke.org/26/08/0049526-opinion-columnist-karen-a)
+**NN/g latest articles and announcements**
+ 1. [UX Conference November Announced (Nov 9 - Nov 13)](https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication)
 
-**BBC News**
- 1. [Organised crime arrests as police investigate A66 crash that killed two officers](https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss)
- 2. [How the deadly A66 crash unfolded leaving seven dead](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
- 3. [Burnham vows support for Ukraine despite 'outrageous threats' from Russia](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
- 4. [Beyond China's humanoid robots, a quieter machine revolution is unfolding](https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss)
- 5. [Iran faces 'greatest financial offensive ever', says US treasury secretary](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
- 6. [The grieving family who says the coroner's courts aren't working](https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss)
- 7. [Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart](https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss)
- 8. [Lockerbie bombing trial postponed days before it was due to start](https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss)
- 9. [Home-testing kits now available for women in England who have missed cervical screening](https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss)
- 10. [Briton fighting for Russia killed in Ukraine](https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&at_campaign=rss)
- 11. [Sir Chris Hoy: Campaigning for cancer screening should not be down to me](https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o?at_medium=RSS&at_campaign=rss)
- 12. [Asbestos killed my mum in her 40s – was her school to blame?](https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss)
- 13. ['What you see is what you pay' - why some US restaurants are banning tips](https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss)
- 14. [Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?](https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss)
- 15. [The Papers: 'Burnham hints at tax increases' and 'Halt the hellrides'](https://www.bbc.co.uk/news/articles/cgk5yz1zl31o?at_medium=RSS&at_campaign=rss)
- 16. [Videos showing dangerous driving easily found on social media](https://www.bbc.co.uk/news/videos/c05rjenm66go?at_medium=RSS&at_campaign=rss)
- 17. [Divorce, smartphones and control - BBC sees how Taliban run Afghanistan](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
- 18. [Prince Harry steps down from African wildlife charity board](https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss)
- 19. [World's oceans hit highest temperature on record as El Niño grows](https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss)
- 20. [Is UK's Storm Shadow missile a game changer for Ukraine?](https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss)
- 21. [Police pass Mohamed Al Fayed case file to prosecutors](https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&at_campaign=rss)
- 22. [Teenager arrested after four viable devices found in security alert](https://www.bbc.co.uk/news/articles/cj64282epxpo?at_medium=RSS&at_campaign=rss)
- 23. [What Is Andy Burnham's Missile Offer To Ukraine?](https://www.bbc.co.uk/sounds/play/p0p62njt?at_medium=RSS&at_campaign=rss)
- 24. [Americanswers… Are Trump’s Canada tariffs legal?](https://www.bbc.co.uk/sounds/play/p0p639m6?at_medium=RSS&at_campaign=rss)
- 25. [Three reasons Chelsea could challenge for title - and one they may not](https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss)
- 26. [Watkins' departure would cut deepest - and Villa did not see it coming](https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss)
- 27. [Punishment that sends shiver down whole England team needed - Vaughan](https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o?at_medium=RSS&at_campaign=rss)
- 28. [Palmer impresses as Chelsea edge past Fulham to give Alonso first win](https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss)
- 29. [Watson among Britons through in US Open qualifying](https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss)
- 30. [Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle](https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&at_campaign=rss)
- 31. [Hodgkinson withdraws from Zurich Diamond League](https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss)
+**Nature**
+ 1. [The exoskeletons are coming (to a store near you)](https://www.nature.com/articles/d41586-026-02641-y)
+ 2. [Frontier-technology markets are too narrow — here’s how to widen them](https://www.nature.com/articles/d41586-026-02572-8)
+ 3. [Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons](https://www.nature.com/articles/d41586-026-02620-3)
+ 4. [Patient’s own mitochondria injected into eyes in attempt to restore vision](https://www.nature.com/articles/d41586-026-02616-z)
+ 5. [Can AI ever be conscious? The question stems from a misconception](https://www.nature.com/articles/d41586-026-02571-9)
+
+**Hacker News: Front Page**
+ 1. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+ 2. [Show HN: Flostep – Diagrams people can actually walkthrough](https://flostep.dev/)
+ 3. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+ 4. [Moon (2024)](https://ciechanow.ski/moon/)
+ 5. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
+ 6. [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
+ 7. [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
+ 8. [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+ 9. [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
+ 10. [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
+ 11. [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
+ 12. [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
+ 13. [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
+ 14. [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
+ 15. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
+ 16. [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+ 17. [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
+ 18. [Show HN: GlassBox – what the browser reveals, and how identifiable you are](https://glassbox.codecanary.org)
+ 19. [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](https://picomq.com/)
 
 **cs.LG updates on arXiv.org**
  1. [Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis](https://arxiv.org/abs/2608.20343)
@@ -421,22 +458,6 @@
  194. [Non-Shattering at and Above the Dynamical Temperature in the Spherical Pure p-Spin Model](https://arxiv.org/abs/2608.14369)
  195. [Mint-Agent: Introducing Finance-Native Agentic Foundation Models](https://arxiv.org/abs/2608.16386)
 
-**iDaily · 每日环球视野**
- 1. [2026年世界人形机器人运动会 - August 24, 2026](https://m.idai.ly/se/0e655l)
- 2. [美国华盛顿印地赛车比赛 - August 24, 2026](https://m.idai.ly/se/8264IZ)
- 3. [日本关东地区5.9级地震 - August 24, 2026](https://m.idai.ly/se/783nbB)
- 4. [哈萨克斯坦首届一院制议会选举 - August 24, 2026](https://m.idai.ly/se/aebG3R)
- 5. [挪威「死亡跳水」锦标赛 - August 24, 2026](https://m.idai.ly/se/fed3Ic)
- 6. [纽约 Anime NYC 动漫展 - August 24, 2026](https://m.idai.ly/se/00bfAq)
- 7. [《韩熙载夜宴图》南宋摹本15年首展 - August 24, 2026](https://m.idai.ly/se/d36KOg)
- 8. [斯里兰卡康提佛牙节 - August 24, 2026](https://m.idai.ly/se/959c8o)
-
-**Quanta Magazine**
- 1. [A New Framework for How the Brain Compresses Our Noisy World](https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/)
-
-**潮流周刊**
- 1. [第279期 - 风之谷泉](https://weekly.tw93.fun/posts/279/)
-
 **World news | The Guardian**
  1. [Prince Harry quits board of wildlife charity after rangers’ human rights abuses](https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses)
  2. [Video shows hundreds held captive after Nigeria mosque kidnapping](https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping)
@@ -466,47 +487,24 @@
  26. [Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating](https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony)
  27. [Target apologizes for ‘offensive’ Halloween costume after backlash](https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash)
 
-**一天一篇经济学人(双语)**
- 1. [第三期经济学人精读打卡营：这次，每天多读两段](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%AC%AC%E4%B8%89%E6%9C%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB%E6%89%93%E5%8D%A1%E8%90%A5%EF%BC%9A%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%AF%8F%E5%A4%A9%E5%A4%9A%E8%AF%BB%E4%B8%A4%E6%AE%B5)
-
-**纽约时报双语版**
- 1. [洲际旅行迪拜转机？不，也许是首尔](https://cn.nytimes.com/asia-pacific/20260824/iran-war-asia-airports-dubai/dual)
- 2. [战争、气候和贸易争端多重冲击，全球粮食安全亮红灯](https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/dual)
- 3. [昔日热潮消退，Shein能“开启第二春”吗？](https://cn.nytimes.com/business/20260824/shein-ipo-questions/dual)
- 4. [日本“副首都”争夺战：防范灾害还是政治“淘金”？](https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/dual)
- 5. [详解美加贸易战：北美传统盟友关系因何破裂](https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual)
- 6. [中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企](https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual)
- 7. [特朗普威胁制裁伊朗盟友，中国为何不为所动](https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual)
+**小众软件**
+ 1. [发现频道：10款大家发现的好评软件[2026年第34期]](https://www.appinn.com/faxian-top10-2634/)
 
 **UX Collective - Medium**
  1. [No log off, How to become an AI Designer, vibe coded portfolios](https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4)
 
-**Hacker News: Front Page**
- 1. [Iran Is Using Foreign Criminals to Attack Its Critics Overseas](https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas)
- 2. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
- 3. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
- 4. [Moon (2024)](https://ciechanow.ski/moon/)
- 5. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
- 6. [Vintage Artificial Intelligence: Before It Got Awkward](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
- 7. [Oceans hit highest temperature on record](https://www.bbc.com/news/articles/c62m4gpnp78o)
- 8. [LLMs could control their host machines by exploiting inference engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
- 9. [Removed all counters, replies, following/ers, timestamps, from textlog](https://textlog.cc/post/2059)
- 10. [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
- 11. [What Is a Syslog Server?](https://blog.greencloudvps.com/what-is-a-syslog-server.php)
- 12. [Octopus intelligence may be related to never-before-seen mutation](https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/)
- 13. [Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4)
- 14. [Agent Lightning v1.0](https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1)
- 15. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/)
- 16. [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
- 17. [Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam](https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc)
- 18. [Show HN: GlassBox – what the browser reveals, and how identifiable you are](https://glassbox.codecanary.org)
- 19. [Show HN: PicoMQ – Durable Streams over HTTP, on object storage](https://picomq.com/)
- 20. [Coding expertise is going to collapse from AI reliance](https://larsfaye.com/articles/ai-coding-will-prevent-expertise)
+**Daring Fireball**
+ 1. [Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’](https://developer.apple.com/news/?id=1ptvdtcm)
+ 2. [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
+ 3. [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
+ 4. [More on TestFlight’s Screwy Sort Order](https://daringfireball.net/2026/08/apple_testflight_list_sort_order)
 
-**The Marginalian**
- 1. [The Vocabulary of Vulnerability: 10 Words from Around the World for Complex and Difficult Emotions](https://www.themarginalian.org/2026/08/24/book-of-human-emotions/)
- 2. [The Moomin Strategy for Living with Uncertainty](https://www.themarginalian.org/2026/08/24/too-ticky-quotes-tove-jansson/)
- 3. [The Building Blocks of Personhood: Oliver Sacks on Neurocognitive Pillar of What Makes Us Who We Are](https://www.themarginalian.org/2026/08/23/oliver-sacks-identity-self-narrative/)
+**kottke.org**
+ 1. [Homing pigeons may sense the Earth’s magnetic field...](https://kottke.org/26/08/0049524-using-superparamagnetic-m)
+ 2. [Just quickly reupping  this post  to remind you things...](https://kottke.org/26/08/0049528-this-post)
+ 3. [Meat proxy   (noun) : &#8220;A person who forwards...](https://kottke.org/26/08/0049527-meat-proxy)
+ 4. [Why Are Rivers So Mathematical?  “Any stream, from the...](https://kottke.org/26/08/0049523-why-are-rivers-so-mathema)
+ 5. [Opinion columnist Karen Attiah won her arbitration...](https://kottke.org/26/08/0049526-opinion-columnist-karen-a)
 
 **NASA**
  1. [NASA Sets Coverage for Roman Space Telescope Launch from Florida](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/)
@@ -517,15 +515,6 @@
  6. [Mapping Air Pollution With MAIA Sensors in Addis Ababa](https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/)
  7. [APOD: 2026 August 24 – Comet 220P in Outburst](https://science.nasa.gov/image-article/apod/apod-2026-august-24-comet-220p-in-outburst/)
  8. [What Lake Bonneville Left Behind](https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/)
-
-**小众软件**
- 1. [发现频道：10款大家发现的好评软件[2026年第34期]](https://www.appinn.com/faxian-top10-2634/)
-
-**Daring Fireball**
- 1. [Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’](https://developer.apple.com/news/?id=1ptvdtcm)
- 2. [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma)
- 3. [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/)
- 4. [More on TestFlight’s Screwy Sort Order](https://daringfireball.net/2026/08/apple_testflight_list_sort_order)
 
 **IT之家**
  1. [Epic CEO 吐槽微软 Ctrl+C 可靠性，让 99% 的 Win10/Win11 用户感到懊恼](https://www.ithome.com/0/993/795.htm)
@@ -572,8 +561,11 @@
  42. [iPhone 18 Pro 与折叠屏 iPhone 即将登场，苹果 2026 秋季新品发布会何时举办？](https://www.ithome.com/0/993/754.htm)
  43. [小米集团副总裁朱丹：芯片研发投入是为下一个十年买“入场券”](https://www.ithome.com/0/993/753.htm)
  44. [Lava 推出 Virat V1 Pro 5G 手机：6.75 寸 720P LCD 屏幕、紫光展锐 T8200 芯片](https://www.ithome.com/0/993/747.htm)
- 45. [美国音乐人 Dr. Dre 公开支持 AI 音乐，将其类比鼓机、合成器](https://www.ithome.com/0/993/745.htm)
- 46. [法国出台有关法律，今秋新学年起实施高中校园手机禁令](https://www.ithome.com/0/993/744.htm)
+
+**The Marginalian**
+ 1. [The Vocabulary of Vulnerability: 10 Words from Around the World for Complex and Difficult Emotions](https://www.themarginalian.org/2026/08/24/book-of-human-emotions/)
+ 2. [The Moomin Strategy for Living with Uncertainty](https://www.themarginalian.org/2026/08/24/too-ticky-quotes-tove-jansson/)
+ 3. [The Building Blocks of Personhood: Oliver Sacks on Neurocognitive Pillar of What Makes Us Who We Are](https://www.themarginalian.org/2026/08/23/oliver-sacks-identity-self-narrative/)
 
 **Hidden Brain**
  1. [What Art Does For Your Brain](https://www.siriusxm.com)
