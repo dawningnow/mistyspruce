@@ -5,6 +5,7 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 from bs4 import BeautifulSoup
+from zoneinfo import ZoneInfo
 
 
 requests.packages.urllib3.disable_warnings()
@@ -13,7 +14,7 @@ today = datetime.datetime.now().strftime("%Y-%m-%d")
 
 def update_today(data: list=[]):
     """更新today"""
-    hour = datetime.datetime.now().hour
+    hour = datetime.now(ZoneInfo("Asia/Shanghai")).hour
     root_path = Path(__file__).absolute().parent # 获取当前文件所在路径
     today_path = root_path.joinpath('today.md')
     if hour < 18:
