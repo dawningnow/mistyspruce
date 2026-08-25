@@ -16,7 +16,7 @@ jobs:
       - name: Update README Date
         run: |
           DATE=$(date +"%Y-%m-%d")
-          sed -i "s/Daily News([0-9]{4}-[0-9]{2}-[0-9]{2})/Daily News(${DATE})/" README.md
+          sed -i -E "s|Daily News\([0-9]{4}-[0-9]{2}-[0-9]{2}\)|Daily News(${DATE})|" README.md
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
