@@ -14,7 +14,7 @@ today = datetime.datetime.now().strftime("%Y-%m-%d")
 
 def update_today(data: list=[]):
     """更新today"""
-    hour = datetime.now(ZoneInfo("Asia/Shanghai")).hour
+    hour = datetime.datetime.now(ZoneInfo("Asia/Shanghai")).hour
     root_path = Path(__file__).absolute().parent # 获取当前文件所在路径
     today_path = root_path.joinpath('today.md')
     if hour < 18:
