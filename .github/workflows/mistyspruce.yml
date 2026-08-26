@@ -26,7 +26,7 @@ jobs:
           chmod +x install.sh
           ./install.sh
 
-      - name: Push articles
+      - name: Get articles
         run: python main.py
 
       - name: Commit

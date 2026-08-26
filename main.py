@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 
 requests.packages.urllib3.disable_warnings()
-today = datetime.datetime.now().strftime("%Y-%m-%d")
+today = datetime.datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d")
 
 
 def update_today(data: list=[]):
