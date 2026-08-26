@@ -56,7 +56,7 @@ def parseThread(url: str):
             yesterday = datetime.date.today() + datetime.timedelta(-1)  # -1:日期往前推一天，也就是昨天
             pubday = datetime.date(d[0], d[1], d[2]) # 获取发布日期
             if pubday == yesterday:
-                item = {entry.title: entry.link} # 保存标题和链接
+                item = {entry.title.replace('\n', '').replace('\r', ''): entry.link} # 保存标题和链接
                 result |= item
     except Exception as e:
         print(f'[-] failed: {url}')
