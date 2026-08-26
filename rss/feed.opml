@@ -80,5 +80,29 @@
     <outline xmlUrl="https://feeds.science.org/rss/science.xml"/>
     <outline xmlUrl="https://github.blog/feed/"/>
     <outline xmlUrl="https://www.atredis.com/blog?format=RSS"/>
+    <outline xmlUrl="http://www.zhihu.com/rss"/>
+    <outline xmlUrl="http://app.cntgol.com/?app=rss&controller=index&action=feed&catid=7"/>
+    <outline xmlUrl="http://app.cntgol.com/?app=rss&controller=index&action=feed&catid=3"/>
+    <outline xmlUrl="http://app.cntgol.com/?app=rss&controller=index&action=feed&catid=2"/>
+    <outline xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8b1dd624-a026-43e9-8b57-ae2b00130066/podcast.rss"/>
+    <outline xmlUrl="https://www.ximalaya.com/album/3183792.xml"/>
+    <outline xmlUrl="https://feed.xyzfm.space/mq4vpcjvhgry"/>
+    <outline xmlUrl="https://coachingkelly.com/feed/podcast/"/>
+    <outline xmlUrl="https://feeds.megaphone.fm/allearsenglish"/>
+    <outline xmlUrl="https://feed.xyzfm.space/wb39te6k9gqw"/>
+    <outline xmlUrl="https://s2.proxy.wavpub.com/exitfm.xml"/>
+    <outline xmlUrl="https://s1.proxy.wavpub.com/aftercine.xml"/>
+    <outline xmlUrl="https://c.qingting.fm/podcast/v1/vchannels/503797"/>
+    <outline xmlUrl="https://feed.xyzfm.space/dtg83vljdukh"/>
+    <outline xmlUrl="http://www.i21st.cn/rss/story.xml"/>
+    <outline xmlUrl="http://elt.i21st.cn/rss/elt.xml"/>
+    <outline xmlUrl="https://feeds.feedburner.com/businessenglishpod"/>
+    <outline xmlUrl="https://kaiyuanbang.cn/zh-cn/rss/weekly-picks.xml"/>
+    <outline xmlUrl="https://kaiyuanbang.cn/zh-cn/rss/weekly.xml"/>
+    <outline xmlUrl="https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xzytq/default_22205.xml"/>
+    <outline xmlUrl="https://www.cma.gov.cn/2011xwzx/2011xmtjj/default_22205.xml"/>
+    <outline xmlUrl="https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xtpxw/default_22205.xml"/>
+    <outline xmlUrl="https://rss.feedspot.com/c_programming_rss_feeds/"/>
+    <outline xmlUrl="https://rss.feedspot.com/c_programming_rss_feeds/"/>
   </body>
 </opml>
