@@ -1,24 +1,7 @@
 # Daily News(2026-08-26)
 
-**10天推荐排行 - 博客园**
- 1. [AI 编程时代，.NET 的机会在哪里？](https://www.cnblogs.com/shanyou/p/22667854)
-
 **Hacker News Daily**
  1. [Daily Hacker News for 2026-08-24](https://www.daemonology.net/hn-daily/2026-08-24.html)
-
-**Hacker News: Front Page**
- 1. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
- 2. [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
- 3. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
- 4. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
- 5. [Clara (YC P26) is hiring a growth engineer to bring AI doctors to market](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
- 6. [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
- 7. [Nitter and XCancel receive cease and desist notices](https://github.com/zedeus/nitter/issues/1442)
- 8. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
- 9. [Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)
-
-**一天一篇经济学人(双语)**
- 1. [读完一篇《经济学人》，第二天还能留下什么？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E8%AF%BB%E5%AE%8C%E4%B8%80%E7%AF%87%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%BF%98%E8%83%BD%E7%95%99%E4%B8%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
 
 **Nature**
  1. [Addendum: Sea level much higher than assumed in most coastal hazard assessments](https://www.nature.com/articles/s41586-026-11017-1)
@@ -38,21 +21,31 @@
  15. [These rodent OnlyFans stars are helping to fund scientific research](https://www.nature.com/articles/d41586-026-02550-0)
  16. [More than 18,000 questionable images found in antibody catalogues of 15 companies](https://www.nature.com/articles/d41586-026-02635-w)
 
+**一天一篇经济学人(双语)**
+ 1. [读完一篇《经济学人》，第二天还能留下什么？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E8%AF%BB%E5%AE%8C%E4%B8%80%E7%AF%87%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%A4%A9%E8%BF%98%E8%83%BD%E7%95%99%E4%B8%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
+
+**Android Police**
+ 1. [I disabled Android background location access for non-essential apps, adding two full hours of daily charge](https://www.androidpolice.com/disabled-android-background-location-access-non-essential-apps-add-charge/)
+ 2. [I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see](https://www.androidpolice.com/built-android-journal-app-google-ai-studio-ai-spots-patterns-never-see/)
+ 3. [Android 17 gets a tested way to end motion sickness but you don’t have to wait for an update to try it](https://www.androidpolice.com/android-17-gets-a-tested-way-to-end-motion-sickness-but-you-dont-have-to-wait-for-an-update-to-try-it/)
+
 **纽约时报双语版**
  1. [详解AI自主攻击事件：五项令人担忧的人工智能能力](https://cn.nytimes.com/science/20260825/openai-huggingface-alarming-capabilities/dual)
  2. [加拿大对美国说“不”](https://cn.nytimes.com/opinion/20260825/mark-carney-tariffs-canada-america/dual)
  3. [特朗普政府拟对H-1B签证征收逾10万美元费用](https://cn.nytimes.com/usa/20260825/h1b-visas-fees-proposal-trump/dual)
  4. [美国中期选举：民主党夺回参议院的胜算正在增加？](https://cn.nytimes.com/usa/20260825/democrats-republicans-midterms-senate-majority/dual)
 
-**Android Police**
- 1. [I disabled Android background location access for non-essential apps, adding two full hours of daily charge](https://www.androidpolice.com/disabled-android-background-location-access-non-essential-apps-add-charge/)
- 2. [I built an Android journal app in Google AI Studio; its AI spots patterns I'd never see](https://www.androidpolice.com/built-android-journal-app-google-ai-studio-ai-spots-patterns-never-see/)
- 3. [Android 17 gets a tested way to end motion sickness but you don’t have to wait for an update to try it](https://www.androidpolice.com/android-17-gets-a-tested-way-to-end-motion-sickness-but-you-dont-have-to-wait-for-an-update-to-try-it/)
- 4. [This 65W Anker charger does the job of three, and it's down to $24](https://www.androidpolice.com/this-24-anker-charger-is-an-absolute-must/)
- 5. [I built a ridiculously simple productivity system using only Google Keep](https://www.androidpolice.com/built-simple-productivity-system-using-only-google-keep/)
-
 **小众软件**
  1. [电脑用久了，到底会留下多少没用的东西？](https://www.appinn.com/krokiet/)
+
+**少数派**
+ 1. [社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
+ 2. [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
+ 3. [App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
+ 4. [派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
+
+**新闻发布-国家发展和改革委员会**
+ 1. [国家发展改革委召开“六网协同”协调推进工作会 研究“六张网”投融资机制和支持政策](https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260825_1407189.html)
 
 **奇客Solidot–传递最新科技情报**
  1. [因保安可能罢工 Anthropic 通知员工远程办公](https://www.solidot.org/story?sid=85194)
@@ -67,30 +60,15 @@
  10. [15 年前库克接替乔布斯担任苹果 CEO](https://www.solidot.org/story?sid=85185)
  11. [Protocol Labs 停止资助星际文件系统的核心维护团队](https://www.solidot.org/story?sid=85184)
 
-**经济学人最新报道**
- 1. [唐纳德·特朗普是否应因制造业的复苏而获得赞誉？](https://www.economist.com/united-states/2026/08/25/does-donald-trump-deserve-credit-for-a-manufacturing-revival)
- 2. [马克·卡尼必须警惕全面贸易战](https://www.economist.com/leaders/2026/08/25/mark-carney-must-beware-an-all-out-trade-war)
- 3. [随着其总统任期陷入困境，唐纳德·特朗普比以往任何时候都更危险](https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever)
- 4. [宇宙很奇特。但这种情况或许很快就会有所改变。](https://www.economist.com/science-and-technology/2026/08/25/the-universe-is-peculiar-but-it-may-soon-become-less-so)
- 5. [什么样的投资者才算优秀？](https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor)
- 6. [胡塞武装是如何成为伊朗最令人畏惧的盟友的](https://www.economist.com/middle-east-and-africa/2026/08/25/how-the-houthis-have-become-the-most-fearsome-of-irans-allies)
- 7. [《Blighty》通讯：通往进步的护照](https://www.economist.com/britain/2026/08/25/blighty-newsletter-the-passport-to-progress)
- 8. [你的工资能买多少个巨无霸？](https://www.economist.com/graphic-detail/2026/08/25/how-many-big-macs-does-your-salary-buy)
- 9. [《战情室》通讯：唐纳德·特朗普对海军舰艇设计的奇怪痴迷](https://www.economist.com/united-states/2026/08/25/the-war-room-newsletter-donald-trumps-strange-obsession-with-naval-design)
-
 **虫部落**
  1. [有没有下载无损音乐的网站](https://www.chongbuluo.com/thread-25088-1-1.html)
  2. [薛之谦 母带合集 【55首】需要的及时保存，链接失效不补。](https://www.chongbuluo.com/thread-25087-1-1.html)
  3. [终于升到一级了！](https://www.chongbuluo.com/thread-25084-1-1.html)
 
-**新闻发布-国家发展和改革委员会**
- 1. [国家发展改革委召开“六网协同”协调推进工作会 研究“六张网”投融资机制和支持政策](https://www.ndrc.gov.cn/xwdt/xwfb/202608/t20260825_1407189.html)
-
-**少数派**
- 1. [社区速递 155 | 适马千元人像神头与七月派友剁手清单](https://sspai.com/post/113828)
- 2. [台湾打工换宿｜用人与人的喜好串起淡水的地图](https://sspai.com/post/113673)
- 3. [App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙](https://sspai.com/post/112442)
- 4. [派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等](https://sspai.com/post/113813)
+**Vista看天下**
+ 1. [俞敏洪从董宇辉们手里拿回“半条命”，转手又给了抖音](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E4%BF%9E%E6%95%8F%E6%B4%AA%E4%BB%8E%E8%91%A3%E5%AE%87%E8%BE%89%E4%BB%AC%E6%89%8B%E9%87%8C%E6%8B%BF%E5%9B%9E%E2%80%9C%E5%8D%8A%E6%9D%A1%E5%91%BD%E2%80%9D%EF%BC%8C%E8%BD%AC%E6%89%8B%E5%8F%88%E7%BB%99%E4%BA%86%E6%8A%96%E9%9F%B3)
+ 2. [硅谷抢AI天才花了1个亿，最后被一群没上大学的电工“卡住了脖子”](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E7%A1%85%E8%B0%B7%E6%8A%A2AI%E5%A4%A9%E6%89%8D%E8%8A%B1%E4%BA%861%E4%B8%AA%E4%BA%BF%EF%BC%8C%E6%9C%80%E5%90%8E%E8%A2%AB%E4%B8%80%E7%BE%A4%E6%B2%A1%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%94%B5%E5%B7%A5%E2%80%9C%E5%8D%A1%E4%BD%8F%E4%BA%86%E8%84%96%E5%AD%90%E2%80%9D)
+ 3. [全网吵翻的“火车零食占座”有结论了，但乘客最苦的痛点还没解决](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E5%85%A8%E7%BD%91%E5%90%B5%E7%BF%BB%E7%9A%84%E2%80%9C%E7%81%AB%E8%BD%A6%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E2%80%9D%E6%9C%89%E7%BB%93%E8%AE%BA%E4%BA%86%EF%BC%8C%E4%BD%86%E4%B9%98%E5%AE%A2%E6%9C%80%E8%8B%A6%E7%9A%84%E7%97%9B%E7%82%B9%E8%BF%98%E6%B2%A1%E8%A7%A3%E5%86%B3)
 
 **NASA**
  1. [New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network](https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/)
@@ -102,25 +80,24 @@
  7. [Astronauts Anil Menon and Sophie Adenot on Spacewalk](https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/)
  8. [Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/)
 
-**物种日历**
- 1. [听AI的话打农药，150亩芝麻一夜枯萎丨环境小喇叭](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E5%90%ACAI%E7%9A%84%E8%AF%9D%E6%89%93%E5%86%9C%E8%8D%AF%EF%BC%8C150%E4%BA%A9%E8%8A%9D%E9%BA%BB%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E%E4%B8%A8%E7%8E%AF%E5%A2%83%E5%B0%8F%E5%96%87%E5%8F%AD)
- 2. [今年秋天，不推荐吃大闸蟹的理由，只有一个！（不是贵）](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%A4%A9%EF%BC%8C%E4%B8%8D%E6%8E%A8%E8%8D%90%E5%90%83%E5%A4%A7%E9%97%B8%E8%9F%B9%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%EF%BC%81%EF%BC%88%E4%B8%8D%E6%98%AF%E8%B4%B5%EF%BC%89)
-
-**Vista看天下**
- 1. [俞敏洪从董宇辉们手里拿回“半条命”，转手又给了抖音](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E4%BF%9E%E6%95%8F%E6%B4%AA%E4%BB%8E%E8%91%A3%E5%AE%87%E8%BE%89%E4%BB%AC%E6%89%8B%E9%87%8C%E6%8B%BF%E5%9B%9E%E2%80%9C%E5%8D%8A%E6%9D%A1%E5%91%BD%E2%80%9D%EF%BC%8C%E8%BD%AC%E6%89%8B%E5%8F%88%E7%BB%99%E4%BA%86%E6%8A%96%E9%9F%B3)
- 2. [硅谷抢AI天才花了1个亿，最后被一群没上大学的电工“卡住了脖子”](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E7%A1%85%E8%B0%B7%E6%8A%A2AI%E5%A4%A9%E6%89%8D%E8%8A%B1%E4%BA%861%E4%B8%AA%E4%BA%BF%EF%BC%8C%E6%9C%80%E5%90%8E%E8%A2%AB%E4%B8%80%E7%BE%A4%E6%B2%A1%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%94%B5%E5%B7%A5%E2%80%9C%E5%8D%A1%E4%BD%8F%E4%BA%86%E8%84%96%E5%AD%90%E2%80%9D)
- 3. [全网吵翻的“火车零食占座”有结论了，但乘客最苦的痛点还没解决](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E5%85%A8%E7%BD%91%E5%90%B5%E7%BF%BB%E7%9A%84%E2%80%9C%E7%81%AB%E8%BD%A6%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E2%80%9D%E6%9C%89%E7%BB%93%E8%AE%BA%E4%BA%86%EF%BC%8C%E4%BD%86%E4%B9%98%E5%AE%A2%E6%9C%80%E8%8B%A6%E7%9A%84%E7%97%9B%E7%82%B9%E8%BF%98%E6%B2%A1%E8%A7%A3%E5%86%B3)
-
 **People of Print**
  1. [Whose Memory Is a Place? Shir Daniel&#8217;s RIVERSIDE](https://peopleofprint.com/illustration-2/whose-memory-is-a-place-shir-daniels-riverside/)
  2. [A Relic of Something Which No Longer Exists: Scarlett McAdam&#8217;s Pieces](https://peopleofprint.com/graphic-design/a-relic-of-something-which-no-longer-exists-scarlett-mcadams-pieces/)
 
+**经济学人最新报道**
+ 1. [唐纳德·特朗普是否应因制造业的复苏而获得赞誉？](https://www.economist.com/united-states/2026/08/25/does-donald-trump-deserve-credit-for-a-manufacturing-revival)
+ 2. [马克·卡尼必须警惕全面贸易战](https://www.economist.com/leaders/2026/08/25/mark-carney-must-beware-an-all-out-trade-war)
+ 3. [随着其总统任期陷入困境，唐纳德·特朗普比以往任何时候都更危险](https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-donald-trump-is-more-dangerous-than-ever)
+ 4. [宇宙很奇特。但这种情况或许很快就会有所改变。](https://www.economist.com/science-and-technology/2026/08/25/the-universe-is-peculiar-but-it-may-soon-become-less-so)
+ 5. [什么样的投资者才算优秀？](https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor)
+ 6. [胡塞武装是如何成为伊朗最令人畏惧的盟友的](https://www.economist.com/middle-east-and-africa/2026/08/25/how-the-houthis-have-become-the-most-fearsome-of-irans-allies)
+ 7. [《Blighty》通讯：通往进步的护照](https://www.economist.com/britain/2026/08/25/blighty-newsletter-the-passport-to-progress)
+ 8. [你的工资能买多少个巨无霸？](https://www.economist.com/graphic-detail/2026/08/25/how-many-big-macs-does-your-salary-buy)
+ 9. [《战情室》通讯：唐纳德·特朗普对海军舰艇设计的奇怪痴迷](https://www.economist.com/united-states/2026/08/25/the-war-room-newsletter-donald-trumps-strange-obsession-with-naval-design)
+
 **老左笔记**
  1. [RackNerd服务商再次入选Inc. 5000 连续三年业绩增长](https://www.laozuo.org/33375.html)
  2. [HHOST 上线日本VPS方案 4G内存起步配置年付30美元](https://www.laozuo.org/33371.html)
-
-**Axios每日简报**
- 1. [Axios每日简报 2026-08-25](https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20260825.md)
 
 **十点读书**
  1. [恢复孩子灵性最好的方法：3个字](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E6%81%A2%E5%A4%8D%E5%AD%A9%E5%AD%90%E7%81%B5%E6%80%A7%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%9A3%E4%B8%AA%E5%AD%97)
@@ -129,24 +106,64 @@
  4. [微信最新潜规则，正在杀死你的朋友圈](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E5%BE%AE%E4%BF%A1%E6%9C%80%E6%96%B0%E6%BD%9C%E8%A7%84%E5%88%99%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88)
  5. [这个睡觉姿势太伤腰，90%的人都在犯！](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E8%BF%99%E4%B8%AA%E7%9D%A1%E8%A7%89%E5%A7%BF%E5%8A%BF%E5%A4%AA%E4%BC%A4%E8%85%B0%EF%BC%8C90%25%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%8A%AF%EF%BC%81)
 
+**Hacker News: Front Page**
+ 1. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+ 2. [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+ 3. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+ 4. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+ 5. [Run OpenBSD on DigitalOcean for $4/month](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
+ 6. [Nitter and XCancel receive cease and desist notices](https://github.com/zedeus/nitter/issues/1442)
+ 7. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
+
+**X博士**
+ 1. [牛 来 拳 打 冯 小 刚（未来学）](http://weixin.sogou.com/weixin?type=2&query=X%E5%8D%9A%E5%A3%AB+%E7%89%9B%20%E6%9D%A5%20%E6%8B%B3%20%E6%89%93%20%E5%86%AF%20%E5%B0%8F%20%E5%88%9A%EF%BC%88%E6%9C%AA%E6%9D%A5%E5%AD%A6%EF%BC%89)
+
+**10天推荐排行 - 博客园**
+ 1. [AI 编程时代，.NET 的机会在哪里？](https://www.cnblogs.com/shanyou/p/22667854)
+
+**物种日历**
+ 1. [听AI的话打农药，150亩芝麻一夜枯萎丨环境小喇叭](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E5%90%ACAI%E7%9A%84%E8%AF%9D%E6%89%93%E5%86%9C%E8%8D%AF%EF%BC%8C150%E4%BA%A9%E8%8A%9D%E9%BA%BB%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E%E4%B8%A8%E7%8E%AF%E5%A2%83%E5%B0%8F%E5%96%87%E5%8F%AD)
+ 2. [今年秋天，不推荐吃大闸蟹的理由，只有一个！（不是贵）](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%A4%A9%EF%BC%8C%E4%B8%8D%E6%8E%A8%E8%8D%90%E5%90%83%E5%A4%A7%E9%97%B8%E8%9F%B9%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%EF%BC%81%EF%BC%88%E4%B8%8D%E6%98%AF%E8%B4%B5%EF%BC%89)
+
 **中国国家地理**
  1. [去德格，赴一场草原之约！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+%E5%8E%BB%E5%BE%B7%E6%A0%BC%EF%BC%8C%E8%B5%B4%E4%B8%80%E5%9C%BA%E8%8D%89%E5%8E%9F%E4%B9%8B%E7%BA%A6%EF%BC%81)
  2. [中国最争气小镇，直接“跳级”成地级市](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BA%89%E6%B0%94%E5%B0%8F%E9%95%87%EF%BC%8C%E7%9B%B4%E6%8E%A5%E2%80%9C%E8%B7%B3%E7%BA%A7%E2%80%9D%E6%88%90%E5%9C%B0%E7%BA%A7%E5%B8%82)
  3. [抬头！一起来看星星呀～](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+%E6%8A%AC%E5%A4%B4%EF%BC%81%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E6%98%9F%E6%98%9F%E5%91%80%EF%BD%9E)
 
-**The GitHub Blog**
- 1. [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)
-
 **吴晓波频道**
  1. [8月是“垃圾时间”，反攻信号出现前别乱动](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+8%E6%9C%88%E6%98%AF%E2%80%9C%E5%9E%83%E5%9C%BE%E6%97%B6%E9%97%B4%E2%80%9D%EF%BC%8C%E5%8F%8D%E6%94%BB%E4%BF%A1%E5%8F%B7%E5%87%BA%E7%8E%B0%E5%89%8D%E5%88%AB%E4%B9%B1%E5%8A%A8)
  2. [消费贷贴息优化方案公布，机器人再次打破世界纪录 | 财经日日评](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+%E6%B6%88%E8%B4%B9%E8%B4%B7%E8%B4%B4%E6%81%AF%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E5%85%AC%E5%B8%83%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%86%8D%E6%AC%A1%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%20%7C%20%E8%B4%A2%E7%BB%8F%E6%97%A5%E6%97%A5%E8%AF%84)
+
+**Axios每日简报**
+ 1. [Axios每日简报 2026-08-25](https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20260825.md)
 
 **青年文摘**
  1. [最好的抵达](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E6%9C%80%E5%A5%BD%E7%9A%84%E6%8A%B5%E8%BE%BE)
  2. [别再乱买保温杯了！](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E5%88%AB%E5%86%8D%E4%B9%B1%E4%B9%B0%E4%BF%9D%E6%B8%A9%E6%9D%AF%E4%BA%86%EF%BC%81)
  3. [花300多块体验一次短剧主角，横店“落地签”火到一号难求](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E8%8A%B1300%E5%A4%9A%E5%9D%97%E4%BD%93%E9%AA%8C%E4%B8%80%E6%AC%A1%E7%9F%AD%E5%89%A7%E4%B8%BB%E8%A7%92%EF%BC%8C%E6%A8%AA%E5%BA%97%E2%80%9C%E8%90%BD%E5%9C%B0%E7%AD%BE%E2%80%9D%E7%81%AB%E5%88%B0%E4%B8%80%E5%8F%B7%E9%9A%BE%E6%B1%82)
- 4. [“看动画片的那批人长大了”，怀念小时候的那个自己](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E2%80%9C%E7%9C%8B%E5%8A%A8%E7%94%BB%E7%89%87%E7%9A%84%E9%82%A3%E6%89%B9%E4%BA%BA%E9%95%BF%E5%A4%A7%E4%BA%86%E2%80%9D%EF%BC%8C%E6%80%80%E5%BF%B5%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E9%82%A3%E4%B8%AA%E8%87%AA%E5%B7%B1)
- 5. [还没进大学，他们已开始准备考研](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E8%BF%98%E6%B2%A1%E8%BF%9B%E5%A4%A7%E5%AD%A6%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94)
+
+**The GitHub Blog**
+ 1. [How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)
+
+**WIRED**
+ 1. [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)
+ 2. [The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)](https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/)
+ 3. [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+ 4. [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)
+ 5. [The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/)
+ 6. [Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date](https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/)
+ 7. [I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)](https://www.wired.com/story/home-composters-buying-guide/)
+ 8. [The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil](https://www.wired.com/story/best-car-phone-mounts-and-holders/)
+ 9. [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)
+ 10. [Optoma GT2400HDR Review: Ace Projector for Golf Simulation](https://www.wired.com/review/optoma-gt2400hdr/)
+ 11. [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)
+ 12. [It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)
+ 13. [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
+ 14. [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
+ 15. [Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)
+
+**国家人文历史**
+ 1. [明朝一共16位皇帝，为啥画像只有14幅？](http://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2+%E6%98%8E%E6%9C%9D%E4%B8%80%E5%85%B116%E4%BD%8D%E7%9A%87%E5%B8%9D%EF%BC%8C%E4%B8%BA%E5%95%A5%E7%94%BB%E5%83%8F%E5%8F%AA%E6%9C%8914%E5%B9%85%EF%BC%9F)
 
 **InfoQ 推荐**
  1. [主要前沿模型提供商采用水印技术以满足欧盟法规要求](https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST)
@@ -155,21 +172,95 @@
  4. [Snowflake Summit 2026：Whatnot 如何将超高速增长中的数据转化为清晰的业务洞察 | 技术趋势](https://www.infoq.cn/article/9a0qIhdK6QBwSEh1KQyY)
  5. [SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot](https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ)
 
-**X博士**
- 1. [牛 来 拳 打 冯 小 刚（未来学）](http://weixin.sogou.com/weixin?type=2&query=X%E5%8D%9A%E5%A3%AB+%E7%89%9B%20%E6%9D%A5%20%E6%8B%B3%20%E6%89%93%20%E5%86%AF%20%E5%B0%8F%20%E5%88%9A%EF%BC%88%E6%9C%AA%E6%9D%A5%E5%AD%A6%EF%BC%89)
+**安全客-有思想的安全新媒体**
+ 1. [Zoom高危漏洞曝光：你的屏幕共享正在被黑客远程接管](https://www.anquanke.com/post/id/316016)
 
-**国家人文历史**
- 1. [明朝一共16位皇帝，为啥画像只有14幅？](http://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2+%E6%98%8E%E6%9C%9D%E4%B8%80%E5%85%B116%E4%BD%8D%E7%9A%87%E5%B8%9D%EF%BC%8C%E4%B8%BA%E5%95%A5%E7%94%BB%E5%83%8F%E5%8F%AA%E6%9C%8914%E5%B9%85%EF%BC%9F)
+**DeeplearningAI**
+ 1. [The Batch: 972｜Grok 的 Cursor 联盟获得回报](https://mp.weixin.qq.com/s?__biz=MzIxNzI0ODE4Nw==&mid=2247498795&idx=1&sn=c373bfedb01c9ceca0d16dfc80a08217)
 
 **掘金本周最热**
  1. [走进 AI Agent 第二篇：决定 AI Agent 能力上限的关键技术](https://juejin.cn/post/7677562804154531890)
+
+**花叔**
+ 1. [中美做Work类产品的路径还挺不一样的。  Anthropic算是这场产品变革的发起者，从Claude Code延伸出了Claude Cowork，直接激发了国内外各...](https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247491651&idx=1&sn=fcaa26f151474aaf9c782c4442bfc171)
 
 **槽边往事**
  1. [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html)
  2. [可能会是播客](https://www.hecaitou.com/2026/08/might-be-a-podcast.html)
 
+**Simon Willison's Weblog**
+ 1. [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)
+
+**架构师之路**
+ 1. [我被现实打过两次脸：一次百度，一次58](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651981481&idx=1&sn=351cd67df6bd9cba179fe3d473bf9fbd)
+
+**山行AI**
+ 1. [一边扛住 429，一边收录 3294+：DSH 生态开始成形](https://mp.weixin.qq.com/s?__biz=MzU2NzkxNDY0Ng==&mid=2247490990&idx=1&sn=9b540746ea367ee324b0e1dc24e7be47)
+
+**夕小瑶科技说**
+ 1. [2026新款Mac mini来了！价格上涨2000，AI性能最高提升 4倍](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247619887&idx=1&sn=4cb62ad12e9bf05971d9d90a9adaa550)
+
 **愛旅誌**
  1. [ESLEAD HOTEL｜艾思利德酒店：專營大阪難波，在地風格與價格親民的多人日式公寓](https://itravelblog.net/eslead-hotel/)
+
+**No Priors: AI, Machine Learning, Tech, & Startups**
+ 1. [Can We Build New Senses?](https://www.youtube.com/shorts/DWOekbnWISA)
+
+**机器之心SOTA模型**
+ 1. [阿里云上线Wan3.0视频生成模型，Pi发布v0.84.3增强终端编程Agent与本地模型支持](https://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&mid=2247503421&idx=1&sn=cdf1c8515ccd5266be1df9b933195bbf)
+
+**OpenAI**
+ 1. [How to Manage Your Workspace With ChatGPT Work](https://www.youtube.com/watch?v=29SyCndnMZs)
+ 2. [Build agent-ready sites with WebMCP](https://www.youtube.com/watch?v=Is2NHa7awWY)
+ 3. [Codex, but make it weird. Hahahacks.](https://www.youtube.com/watch?v=2f9bBlGOuX4)
+ 4. [No Limits on Text Chats with ChatGPT](https://www.youtube.com/watch?v=9MIkJHcMtVA)
+
+**AI Engineer**
+ 1. [Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI](https://www.youtube.com/watch?v=mMNkdYnIVC4)
+ 2. [Building GTM AI Agents: Lessons from Deploying to 6,000 Users — Sait Izmit, Snowflake](https://www.youtube.com/watch?v=DrTdD-ttjCY)
+ 3. [Reverse-Engineering the AI Buyer — Aliisa Rosenthal, Acrew Capital](https://www.youtube.com/watch?v=wdTRsfw0KG0)
+
+**暗涌Waves**
+ 1. [前剪映负责人入局AI设计：拿近亿天使轮，让“特朗普”给你打工](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNDUxOQ==&mid=2247498234&idx=1&sn=2bab31277e84f598bfd9aa49951d26a3)
+ 2. [100位投资人，对未来的10次辩论——暗涌下午茶·上海站](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNDUxOQ==&mid=2247498234&idx=2&sn=bcdb5bc5cc305053115951390ec79603)
+
+**魔搭ModelScope社区**
+ 1. [DiffSynth-WebUI：本地可视化复现魔搭 AIGC 专区 LoRA 训练引擎，24GB 显存 4-bit 训 10B+ 模型](https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512303&idx=1&sn=f58ac433ac2475238aa8983ea327c226)
+ 2. [成果展示 | 中科天机×魔搭社区「天气智能体创造营」圆满收官！](https://mp.weixin.qq.com/s?__biz=Mzk3NTc1NTU0Mw==&mid=2247512303&idx=2&sn=4f2840333c75e574b45062c11bacca59)
+
+**十字路口Crossing**
+ 1. [两个人类，三个 Agent，一个没有冲突的下午](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649111100&idx=1&sn=db263fa280056c3e4276641f8a4a59eb)
+
+**Sequoia Capital**
+ 1. [Rich Sutton: synthetic data is "just a big mistake"](https://www.youtube.com/shorts/y3JQehe9q-o)
+ 2. [Agents Will Use The Web 1,000x More Than We Do | Parag Agrawal, Parallel Web Systems](https://www.youtube.com/shorts/qLJRcnaEAA4)
+ 3. [Parallel’s Parag Agrawal: Building a New Web for AI Agents](https://www.youtube.com/watch?v=fUcnE6pjq5w)
+
+**向阳乔木推荐看**
+ 1. [「豆包工作」现教现学：从一份日文 PDF 到官网、视频、PPT 全搞定，打通飞书后太爽了！](https://mp.weixin.qq.com/s?__biz=MzAwODIyOTQ4Mw==&mid=2649448228&idx=1&sn=f415e249a362e309e3008abeba11c21e)
+
+**Dwarkesh Patel**
+ 1. [Why AI labs are shelving their best models - Dylan Patel](https://www.youtube.com/shorts/LooFKIOAVqY)
+ 2. [Dylan Patel – Two labs will soon control most of the world's workforce](https://www.youtube.com/watch?v=aV26V1UvkJw)
+
+**Y Combinator**
+ 1. [Max Junestrand: You Need The Willingness To Learn Faster Than Anyone Else](https://www.youtube.com/watch?v=o0ORPbSEgd8)
+
+**a16z**
+ 1. [How AI Changes the Economics of Innovation](https://www.youtube.com/watch?v=GHPB1MwlKU0)
+
+**硅基观察Pro**
+ 1. [AI4S的“DeepSeek时刻”？剂泰半年营收大幅超过去年全年，Biological AI新王加冕](https://mp.weixin.qq.com/s?__biz=MzkyNTY1MjE2OA==&mid=2247494318&idx=1&sn=870ecc0915305fc5e8db007e3b41b855)
+
+**晚点LatePost**
+ 1. [两年，国内跑出第一家光互连独角兽](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247538318&idx=1&sn=4317d6362c56e6cf76efe96d4b436459)
+ 2. [联影医疗：垂类市占率第一之后，集团的战略才刚开始](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247538318&idx=2&sn=8745c1e5cf77eb84728a352d3523cf35)
+
+**Latent.Space**
+ 1. [[AINews] Andrew Ng gets into AI Engineering](https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering)
+
+**freeCodeCamp.org**
+ 1. [Stop Building AI Slop – Build High-End Web Apps with AI](https://www.youtube.com/watch?v=g3X8JauSWTM)
 
 **虎嗅**
  1. [潮玩文创店，冰火两重天](https://www.huxiu.com/article/4885987.html?f=rss)
@@ -180,6 +271,72 @@
  6. [手艺还在，手工生产已不再是中心：程序员能力的三次上移](https://www.huxiu.com/article/4885979.html?f=rss)
  7. [当AI开始抽佣：下一代入口的商业模式困局](https://www.huxiu.com/article/4885978.html?f=rss)
  8. [斗胆聊聊阿里老板们的8亿](https://www.huxiu.com/article/4885977.html?f=rss)
+
+**逛逛GitHub**
+ 1. [用下这 3 个 GitHub 上的超精简 Skill，内容只有几句话，却很好用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536168&idx=1&sn=3b28f7bc3a53dc9183ff4d8940a12761)
+
+**Stripe**
+ 1. [Canva cofounder and COO Cliff Obrecht in conversation with John Collison](https://www.youtube.com/watch?v=4GmHpHyoKmo)
+
+**LangChain**
+ 1. [Why the Harness Matters More Than the Model](https://www.youtube.com/shorts/lAmHFHEwJgc)
+
+**TED**
+ 1. [Burnout shouldn’t be the price of your success #TEDTalks](https://www.youtube.com/shorts/JOcnvPZSt8E)
+ 2. [How Citizens (Not Politicians) Are Building the Future | Jon Alexander | TED](https://www.youtube.com/watch?v=tXZs2NuLFRA)
+
+**AICodeKing**
+ 1. [Ox Alpha DESIGNER: THIS SHOULD NOT BE FREE!!](https://www.youtube.com/watch?v=Yovu6GhiEK8)
+
+**All-In Podcast**
+ 1. ["Fauci hurt science than anyone in modern history."](https://www.youtube.com/shorts/2GTgVP81G2M)
+ 2. [David Sacks: If Dario Got His Way on AI Regulation, It Would Destroy Anthropic](https://www.youtube.com/shorts/J0QFTXCabGQ)
+ 3. [Flock CEO on Catching Bad Cops: “It’s a Ton. It’s More Than I Ever Would’ve Hoped.”](https://www.youtube.com/shorts/r9QIYJ-xh68)
+
+**Lenny's Podcast**
+ 1. [Never Demo to a Room You Haven't Scouted](https://www.youtube.com/shorts/yrrDBrXQ6Rk)
+ 2. [TAM is the last thing YC worries about?](https://www.youtube.com/shorts/F13zwLCIIkg)
+
+**Product School**
+ 1. [Why Org Charts Existed, and What AI Changes About Them](https://www.youtube.com/shorts/xWF-nEV7epY)
+
+**卡尔的AI沃茨**
+ 1. [Codex 5小时限制回来了还有新bug和Tibo访谈](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw==&mid=2247509900&idx=1&sn=10bad475b01986ecb9aed35e57970d66)
+
+**The Diary Of A CEO Clips**
+ 1. [The SIMPLE Way To FIX Your Low Energy (Science Backed)](https://www.youtube.com/watch?v=b-6Gb1rnzNU)
+
+**Tina Huang**
+ 1. [My FULL Hermes Agent Setup (HermesOS)](https://www.youtube.com/watch?v=1CLc-VeEivk)
+
+**Datawhale**
+ 1. [斯坦福最新课程发布：教 AI Agent 自我进化！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247725639&idx=1&sn=1575ba7f714a95487e439faf3d5186bd)
+
+**Matt Wolfe**
+ 1. [This AI Found Money I Was Wasting](https://www.youtube.com/shorts/f74JmwXm-sQ)
+
+**My First Million**
+ 1. [Gym equipment to $100M+ DTC](https://www.youtube.com/shorts/d_by0ua9R70)
+ 2. [The $2B brand built on nostalgia](https://www.youtube.com/shorts/UaeDD2zrVH0)
+
+**Spring I/O**
+ 1. [Secure-by-Default Spring Apps: Zero Trust, OAuth2, and Runtime Policies by Ivan Šarić @ Spring I/O](https://www.youtube.com/watch?v=M_WpViL-_cI)
+ 2. [REST is for Agents: Rediscovering Spring HATEOAS by Adib Saikali @ Spring I/O 2026](https://www.youtube.com/watch?v=WZK_r87m5bw)
+ 3. [Reduce LLM calls with Vector Search Design Patterns by Raphael De Lio @ Spring I/O 2026](https://www.youtube.com/watch?v=2EPsjM0mrf8)
+ 4. [Get The Most Out of Virtual Threads in Java 25 -A Deep Dive into the Latest Achievements of Virtual](https://www.youtube.com/watch?v=4_UpZv21D3k)
+
+**AI Master**
+ 1. [How to Make AI Receptionist & Sell It for $497 Per Client](https://www.youtube.com/watch?v=v741K7gBIq8)
+
+**少数派**
+ 1. [iOS、Android、PC 近期值得关注的 6 个 App](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247629654&idx=1&sn=fc5c1f6d3275282a8b1485d5ec4f89e4)
+ 2. [阿里云视频生成模型 Wan3.0 上线 / 小米发布三款玄戒芯片 / 惠普 HyperX 发布系列外设产品](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247629654&idx=2&sn=95b22cd58467a714d8aa25051d6ef3f3)
+
+**三五环**
+ 1. [No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达](https://www.xiaoyuzhoufm.com/episode/6a8db32d1352af56ff3bf384)
+
+**无人知晓**
+ 1. [E46 我们从未看见彼此](https://www.xiaoyuzhoufm.com/episode/6a8bfde1ef65145dfcc47d26)
 
 **热门文章 - 日榜 - 人人都是产品经理**
  1. [规范化你的AI对话：基于Vibe Design的markdown“设计说明书”实践](https://www.woshipm.com/ai/6454313.html)
@@ -212,6 +369,118 @@
  28. [DeepSeek Harness来了：AI开始制造AI了？](https://www.woshipm.com/ai/6453545.html)
  29. [Seedance 2.5来了，但行业真的准备好了吗？](https://www.woshipm.com/ai/6451200.html)
  30. [内部系统 Agent 化生产实战：从自动生成 CLI 到跑通 Skill Eval](https://www.woshipm.com/ai/6453421.html)
+
+**网易科技**
+ 1. [WRC观察：当世界模型遇上中国式创新，谁来定义具身智能的下半场](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650539451&idx=1&sn=3dd5d4dfe5b0b9c466c4c3f22740dba8)
+
+**ChatGPT(@ChatGPTapp)**
+ 1. [Basically: if it’s something you’d normally have to open a browser and click through yourself, try a...](https://x.com/ChatGPT/status/2092366556584153249)
+ 2. [ChatGPT Work can now use its computer and browser to sign in to websites on web and mobile, without ...](https://x.com/ChatGPT/status/2092366554965107164)
+ 3. [Every weekday afternoon, find unanswered questions, approval requests, and commitments where someone...](https://x.com/ChatGPT/status/2092335334554259835)
+ 4. [Review my recent email inbox for opportunities to save money: https://t.co/Tj6MceJNTr](https://x.com/ChatGPT/status/2092335333404971318)
+ 5. [Sharing a few of our favorites for you to try ⤵️
+
+Look at Slack, Github, Email and Linear and summar...](https://x.com/ChatGPT/status/2092335330976497830)
+ 6. [A few updates to scheduled tasks in ChatGPT Work on web and mobile: Plus and Pro users can now set t...](https://x.com/ChatGPT/status/2092335329110004140)
+ 7. [ICYMI (sound on)](https://x.com/ChatGPT/status/2092303511031894338)
+
+**Microsoft Research(@MSFTResearch)**
+ 1. [We treat the way the world works now as normal. It isn't. Doug Burger, Amy Luers &amp; Ishai Menache...](https://x.com/MSFTResearch/status/2092280842802331729)
+
+**OpenAI Developers(@OpenAIDevs)**
+ 1. [Ready to hack?
+
+Join us at the WebMCP Challenge kickoff livestream.
+
+We’ll talk through the WebMCP o...](https://x.com/OpenAIDevs/status/2092371220507533344)
+ 2. [https://t.co/puqPBJhX9z](https://x.com/OpenAIDevs/status/2092366668072931527)
+ 3. [Rounding out the winners is Sentinel by Malik Bashaar Javaid, which takes second place in Developer ...](https://x.com/OpenAIDevs/status/2092366601169654107)
+ 4. [Kevin Yang’s Echo Canvas takes first place in Developer Tools.
+
+The browser workbench lets you desig...](https://x.com/OpenAIDevs/status/2092366536107503741)
+ 5. [AirBridge for Windows by Adam Tarantino takes second place in Apps for Your Life.
+
+The app streams P...](https://x.com/OpenAIDevs/status/2092366491975073797)
+ 6. [Next up is Dấu by Robert Huynh, which took second place in Education.
+
+The app makes Vietnamese tone...](https://x.com/OpenAIDevs/status/2092366259614822792)
+ 7. [We’re excited to announce the OpenAI Build Week winners 🥁
+
+Meet the builders behind the eight winni...](https://x.com/OpenAIDevs/status/2092366121408311600)
+ 8. [Tune in to the kickoff livestream today at 3pm PT for product demos, example builds, prizes, and mor...](https://x.com/OpenAIDevs/status/2092344971210952954)
+ 9. [We’re adding support for WebMCP in the ChatGPT desktop app’s built-in browser and ChatGPT Sites.
+
+Wh...](https://x.com/OpenAIDevs/status/2092344959248761263)
+ 10. [Build a web experience we haven’t seen before using WebMCP.
+
+Start from scratch or add WebMCP to a s...](https://x.com/OpenAIDevs/status/2092344897550549281)
+ 11. [WebMCP is an experimental open standard that lets web apps expose tools that agents can use directly...](https://x.com/OpenAIDevs/status/2092344885676495197)
+ 12. [The WebMCP Challenge is here.
+
+We’ve teamed up with @ChromiumDev, @CloudflareDev, @ShopifyDevs, @ver...](https://x.com/OpenAIDevs/status/2092344873764704345)
+ 13. [The ChatGPT extension now supports more of the browsers you already use.
+
+Bring open tabs into a tas...](https://x.com/OpenAIDevs/status/2092343177634017655)
+
+**卫诗婕｜漫谈Light the Star**
+ 1. [84.49 家央企采买进场，史上最热WRC：泡沫被挤压，具身行业进入实战阶段｜14 年从业者的行家鉴别指南](https://www.xiaoyuzhoufm.com/episode/6a8d09c5ef65145dfcc4e8f5)
+
+**Greg Brockman(@gdb)**
+ 1. [you can now have chatgpt work securely sign into accounts:](https://x.com/gdb/status/2092376258030211281)
+ 2. [by popular demand, $100 business seat now available in chatgpt! no 5-hour limit, more usage, etc..](https://x.com/gdb/status/2092353210635915695)
+ 3. [inference numbers published for jalapeno, team did an amazing job https://t.co/WNJIA2dESm](https://x.com/gdb/status/2092273740239552780)
+
+**Matthew Berman**
+ 1. [Your Mac can get a job](https://www.youtube.com/shorts/KpH-VLrcoQI)
+ 2. [AI, AGI, and ASI](https://www.youtube.com/shorts/81TlmeCIDWA)
+
+**Andrew Ng(@AndrewYNg)**
+ 1. [OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just...](https://x.com/AndrewYNg/status/2092315079576555806)
+
+**Lovable(@lovable_dev)**
+ 1. [Explorations with our design team](https://x.com/Lovable/status/2092265258916495617)
+
+**Google AI(@GoogleAI)**
+ 1. [https://t.co/LJGIbM3Ksy](https://x.com/GoogleAI/status/2092275116503707733)
+
+**Thomas Wolf(@Thom_Wolf)**
+ 1. [Today we are launching the "Rare Disease, Real Kid" Hackathon together with @sagebio in which you ca...](https://x.com/Thom_Wolf/status/2092272678430253086)
+
+**Rowan Cheung(@rowancheung)**
+ 1. [The full interview: https://t.co/LfPfJfG9EO](https://x.com/rowancheung/status/2092276664860569876)
+ 2. [I interviewed Sundar Pichai, and he made an interesting prediction for where we'll be in 3 years:
+
+"...](https://x.com/rowancheung/status/2092276652944593257)
+
+**Replit ⠕(@Replit)**
+ 1. [In Free Mode you can actually do more, while worrying about less. It’s really that simple.](https://x.com/Replit/status/2092312646099861650)
+ 2. [Free Mode + Routines in Replit (Live Deep Dive) https://t.co/RGBVHur9Yj](https://x.com/Replit/status/2092281060235366691)
+
+**Sam Altman(@sama)**
+ 1. [we made a chip and it is fast](https://x.com/sama/status/2092339694210040187)
+
+**clem 🤗(@ClementDelangue)**
+ 1. ["Two labs will soon control most of the world’s compute"](https://x.com/ClementDelangue/status/2092292371123740838)
+ 2. [Who's excited? https://t.co/jiKFk0vwJn](https://x.com/ClementDelangue/status/2092275117539655835)
+
+**奇点折射**
+ 1. [“大脑在硅谷，身体全靠中国！”机器人泰斗揭秘真相：后空翻只是杂耍，端起咖啡才是真AI](https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247590490&idx=1&sn=d79c5e52853eb7fbacec5c361f0ddb3d)
+
+**OpenAI(@OpenAI)**
+ 1. [Introducing ChatGPT Business Premium Seats
+
+The new $100 Premium seat is a game changer for small bu...](https://x.com/OpenAI/status/2092335305366069305)
+ 2. [Jalapeño means faster ChatGPT responses, more responsive Codex sessions and agents, and reliable acc...](https://x.com/OpenAI/status/2092300848483143735)
+ 3. [We plan to begin deploying Jalapeño in OpenAI’s compute infrastructure by year-end.
+
+It’s the first ...](https://x.com/OpenAI/status/2092300851482108064)
+ 4. [Since announcing Jalapeño, our first custom inference chip, we’ve been testing it and the system aro...](https://x.com/OpenAI/status/2092300846675505602)
+
+**跨国串门儿计划**
+ 1. [#688.OpenAI 内部视角：从算力重置、超快模式到人手一个个人 AGI 的演进路线](https://www.xiaoyuzhoufm.com/episode/6a8db7041352af56ff3bf5e8)
+
+**DeepLearning.AI(@DeepLearningAI)**
+ 1. [Building reliable AI out of unpredictable components requires a new playbook: continuous iteration a...](https://x.com/DeepLearningAI/status/2092356978651668834)
 
 **资讯早7点**
  1. [0826 马云增持阿里、大众汽车计划裁员5万人、网易严选推出带薪宠物陪护假、亚马逊宣布涨价、苹果发布新款](https://www.xiaoyuzhoufm.com/episode/6a8da7c61352af56ff3bedfa?utm_source=rss)
