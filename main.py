@@ -50,7 +50,7 @@ def parseThread(url: str):
     try:
         r = requests.get(url, timeout=36, headers=headers)
         r = feedparser.parse(r.content)
-        title = r.feed.title # 保存订阅源的名称
+        title = r.feed.title.replace('\n', '').replace('\r', '') # 保存订阅源的名称
         for entry in r.entries:
             d = entry.get('published_parsed') or entry.get('updated_parsed')
             yesterday = datetime.date.today() + datetime.timedelta(-1)  # -1:日期往前推一天，也就是昨天
