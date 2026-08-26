@@ -18,7 +18,7 @@ def update_today(data: list=[]):
     root_path = Path(__file__).absolute().parent # 获取当前文件所在路径
     today_path = root_path.joinpath('today.md')
     if hour < 18:
-        archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today.split("-")[1]}/{today}-daytime.md')
+        archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today.split("-")[1]}/{today}-morning.md')
     else:
         archive_path = root_path.joinpath(f'archive/{today.split("-")[0]}/{today.split("-")[1]}/{today}-evening.md')
     archive_path.parent.mkdir(parents=True, exist_ok=True) # 创建 archive/year/mons目录
