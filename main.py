@@ -103,7 +103,9 @@ async def job():
                 results.append({title: result})
             else:
                 false_feeds.append({'title':title, 'url':url})
-    print(f'[+] {len(results)} feeds, {numb} articles')
+    print(f'[+] {len(results)} success, {numb} articles')
+    print(f'[+] {len(false_feeds)} false')
+    print(f'[+] {len(feeds)} feeds')
 
     update_today(results)
 
