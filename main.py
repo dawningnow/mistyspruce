@@ -49,6 +49,7 @@ def parseThread(url: str):
     result = {}
     try:
         r = requests.get(url, timeout=36, headers=headers)
+        r.raise_for_status()
         r = feedparser.parse(r.content)
         title = r.feed.title.replace('\n', '').replace('\r', '') # 保存订阅源的名称
         for entry in r.entries:
