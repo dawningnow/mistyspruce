@@ -54,11 +54,12 @@ def parseThread(url: str):
         title = r.feed.title.replace('\n', '').replace('\r', '') # 保存订阅源的名称
         for entry in r.entries:
             d = entry.get('published_parsed') or entry.get('updated_parsed')
-            yesterday = datetime.date.today() + datetime.timedelta(-1)  # -1:日期往前推一天，也就是昨天
-            pubday = datetime.date(d[0], d[1], d[2]) # 获取发布日期
-            if pubday == yesterday:
-                item = {entry.title.replace('\n', '').replace('\r', ''): entry.link} # 保存标题和链接
-                result |= item
+            if d:
+                yesterday = datetime.date.today() + datetime.timedelta(-1)  # -1:日期往前推一天，也就是昨天
+                pubday = datetime.date(d[0], d[1], d[2]) # 获取发布日期
+                if pubday == yesterday:
+                    item = {entry.title.replace('\n', '').replace('\r', ''): entry.link} # 保存标题和链接
+                    result |= item
     except Exception as e:
         print(f'[-] failed: {url}')
         print(e)
