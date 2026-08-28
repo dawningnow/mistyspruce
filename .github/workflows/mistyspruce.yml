@@ -17,6 +17,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          
       - name: Update README Date
         run: |
           DATE=$(date -d "yesterday" +"%Y-%m-%d")
