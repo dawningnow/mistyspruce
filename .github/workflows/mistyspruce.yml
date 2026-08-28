@@ -1,16 +1,19 @@
 name: Update dailynews
 
 on:
+  workflow_dispatch: # 手动触发
   schedule:
     - cron: '0 22 * * *'  # 北京时间 06:00
     - cron: '0 10 * * *'  # 北京时间 18:00
-  workflow_dispatch: # 手动触发
 
 jobs:
   build:
+    name: mistyspruce
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     # concurrency可在workflow级别和job级别配置，分别配置不同job实例之间的并发与相同job实例间的并发
-    concurrency: 
+    concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: false # 如果有job在运行，则新job放入队列等待（仅能放入一个，多个使用queue配置）
     

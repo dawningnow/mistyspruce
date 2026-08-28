@@ -10,7 +10,14 @@ on:
 
 jobs:
   cleanup:
+    name: Clean Workflows
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    concurrency:
+      group: cleanworkflow
+      cancel-in-progress: false
+      
     permissions:
       actions: write
     
