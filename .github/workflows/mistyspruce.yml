@@ -14,9 +14,9 @@ jobs:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: false # 如果有job在运行，则新job放入队列等待（仅能放入一个，多个使用queue配置）
     
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
           fetch-depth: 1
           
@@ -24,10 +24,12 @@ jobs:
         run: |
           DATE=$(date -d "yesterday" +"%Y-%m-%d")
           sed -i -E "s|Daily News\([0-9]{4}-[0-9]{2}-[0-9]{2}\)|Daily News(${DATE})|" README.md
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: |
           chmod +x install.sh
