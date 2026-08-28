@@ -104,5 +104,8 @@
     <outline xmlUrl="https://www.wired.com/feed/rss"/>
     <outline xmlUrl="https://api.anquanke.com/data/v1/rss"/>
     <outline xmlUrl="https://blog.python.org/feeds/posts/default"/>
+    <outline xmlUrl="https://rss.cnki.net/knavi/rss/GKSX?pcode=CJFD,CCJD"/>
+    <outline xmlUrl="https://rss.cnki.net/knavi/rss/JSJY?pcode=CJFD,CCJD"/>
+    <outline xmlUrl="https://rss.cnki.net/knavi/rss/XDDJ?pcode=CJFD,CCJD"/>
   </body>
 </opml>
