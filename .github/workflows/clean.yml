@@ -2,8 +2,11 @@ name: Cleaning workflows
 
 on:
   workflow_dispatch: # 手动触发
-  schedule:
-    - cron: '0 22 * * *'  # 北京时间 06:00
+  workflow_run:
+    # 这里必须精确匹配被依赖工作流的 name
+    workflows: ["Update dailynews"] 
+    types:
+      - completed # 当 "Update dailynews" 工作流完成时触发
 
 jobs:
   cleanup:
