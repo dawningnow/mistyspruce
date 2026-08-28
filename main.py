@@ -51,7 +51,7 @@ def parseThread(url: str):
         r = requests.get(url, timeout=36, headers=headers)
         r.raise_for_status()
         r = feedparser.parse(r.content)
-        title = r.feed.title.replace('\n', '').replace('\r', '') # 保存订阅源的名称
+        title = r.feed.get('title').replace('\n', '').replace('\r', '') # 保存订阅源的名称
         for entry in r.entries:
             d = entry.get('published_parsed') or entry.get('updated_parsed')
             if d:
