@@ -22,6 +22,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
+          sparse-checkout: |
+            rss/
+            README.md
+            install.sh
+            main.py
+            requirements.txt
+            today.md
+            today_false.md
           
       - name: Update README Date
         run: |
