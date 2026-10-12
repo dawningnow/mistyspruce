@@ -1,3 +1,3 @@
-## Daily News(2026-10-10)
+## Daily News(2026-10-11)
 - [today](/today.md)
 - [today_false](/today_false.md)
