@@ -1,1402 +1,1323 @@
 # Daily News(2026-11-15)
 
-**极客公园**
- 1. [端侧 AI 迎来「高智能」时刻，比肩云端模型](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116438&idx=1&sn=2e18630683ad7644a8f2695d8f2e4255)
- 2. [黄仁勋宣布辞职，特朗普：库克适合接任；微信「看一看」测试短剧入口；《GTA 6》还没发售就狂卖近千万份｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116381&idx=1&sn=d0224c19324c5791bc29f2bb53dba06a)
-
-**稀土掘金技术社区**
- 1. [黄仁勋辞任：33年之后，英伟达的下一道题](https://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&mid=2247548476&idx=1&sn=bbd02cac877a2f9112ebefa91356bb87)
- 2. [Gemini 叒发新模型了](https://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&mid=2247548475&idx=1&sn=cd2c1cfc135e78a578b788c05ca8c2d2)
-
-**深思圈**
- 1. [22 岁成了世界上最年轻的白手起家亿万富翁，他们做的是什么生意？](https://mp.weixin.qq.com/s?__biz=Mzg3NDc2MjQxMg==&mid=2247495765&idx=1&sn=540ed61578082625760fd7b0d04bfb5e)
-
-**DeepSeek**
- 1. [DeepSeek 发布全家桶应用 API](https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485910&idx=1&sn=529f50ba3b37e39319dad1faf7a122cf)
-
-**AINLP**
- 1. [黄仁勋的英伟达33年。](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650456956&idx=1&sn=f133f966868bbd09e62b1ff9dc824ae1)
- 2. [Tibo: Codex 如何改进？网友：雇佣老黄！](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650456947&idx=1&sn=733534bcd9985513259192716b57cc65)
-
-**百度AI**
- 1. [Omdia发布重磅报告《从日活智能体到智能组织》，百度入选全球标杆](https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670725&idx=1&sn=c81779088a0c33248bf7b0da27adef11)
- 2. [全球首个数字人专访，开口就要代替李彦宏？](https://mp.weixin.qq.com/s?__biz=MzI5NzUyMzM1Mg==&mid=2247670725&idx=2&sn=a4d8872fc8fe5c16d66f1772e9a87465)
-
-**腾讯科技**
- 1. [英伟达“下架”一号位，一个敢于押注的人](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691574126&idx=1&sn=ee880ec6c533d39330c93b2c229aa1a8)
- 2. [黄仁勋离场，科技股躲过“分手费”](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691574121&idx=1&sn=63625dda4ce9e7282ef217cb20014f71)
-
-**橘AI**
- 1. [AI 它写的东西终归是它的](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NzU2Nw==&mid=2247490985&idx=1&sn=1127f3b29bba9e204d92154308525d21)
-
-**机器之心SOTA**
- 1. [Google发布Gemini 4 Hydrogen模型，阿里推出Qwen4-Max-Preview，xAI发布Grok Bot 1.0](https://mp.weixin.qq.com/s?__biz=MzkyMzcwMDIyMQ==&mid=2247504105&idx=1&sn=68ca5bec22beaa0370615ff0a4438ec8)
-
-**硅基观察Pro**
- 1. [被围剿的黄仁勋，暴露了AI投资的最大风险](https://mp.weixin.qq.com/s?__biz=MzkyNTY1MjE2OA==&mid=2247494688&idx=1&sn=1ad3d215bc55b878bcbe3ff4b084eed4)
-
-**前端早读课**
- 1. [软件工程师当下该做什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651279673&idx=1&sn=87286e4c2163a4e63b7b7e00e04310e4)
-
-**智东西**
- 1. [88比12！在攻克癌症这件事上，垂类AI比国际主流通用大模型和人类医生都在行？](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813948&idx=1&sn=66ece538089ad5603a297d0b09aac9da)
- 2. [为Agent全生命周期量身定制！海光掏出全家桶方案，打通Agent落地每一层](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652813948&idx=2&sn=ed0ef81e5a3a520e1da740e7904bce0f)
-
-**腾讯研究院**
- 1. [该不该让 AI 替你做人生重大决定？](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999568&idx=1&sn=0069edce30610b4119ad53ec4000afde)
-
-**腾讯混元**
- 1. [实时语音模型 Hy Realtime 发布：能说会唱、还能调用工具](https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ==&mid=2247498965&idx=1&sn=fc0a8fa819b333cf16814ae46d6ccd4f)
-
-**笔记侠**
- 1. [突发！黄仁勋辞任，英伟达4天跌掉一个腾讯](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654909899&idx=1&sn=042cb80910ddeddb37f5903a50094be7)
- 2. [AI时代，员工变快了，公司却没变强？](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654909899&idx=2&sn=f1119e63e407ae36dbcf0998a3e2a276)
-
-**人人都是产品经理**
- 1. [走向智能组织，百度搭子为什么选择开放？](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651934403&idx=1&sn=959146db897ade1e0e36815e1f31b3a1)
- 2. [朋友想转 AI 产品经理，我劝他先别急着改简历](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651934403&idx=2&sn=9dc4fad5c6573f46705811bd96338283)
- 3. [FDE 驻场被怼三年，我总结的现场排坑法](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651934403&idx=3&sn=cc568d722c97058b11e612eb47e5d9aa)
-
-**InfoQ**
- 1. [码上 2027，AI Coding 等你一起定义](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297201&idx=1&sn=f4953fe79894da81b02be8f3c961e2f9)
- 2. [奥运史上第一次，一朵云整体留给了举办国](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297181&idx=1&sn=913847eeb5801c4e810a1136841b0fb2)
- 3. [智能互动 Agent 在快手商业场景的落地实践](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297181&idx=2&sn=99a3272a1cd987cc96e9be0941de758f)
- 4. [Cloudflare 推出面向 AI 应用程序的 Web Search API](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297181&idx=3&sn=85e5a9f6502386a8e00ef958b48a4094)
-
-**AI前线**
- 1. [超越OpenRouter，百度盯上AI模型交易：不只比价格，还要给供应商算信用账](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247669466&idx=1&sn=3df4fd1077634eba31802683a3372ad0)
-
-**Z Potentials**
- 1. [Z Potentials | 对话 InfiMaker 谢博文：从原生五轴到自研CAM，为什么专业与易用不必对立？](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519308&idx=1&sn=0c6200b2f76f5b819a595352787426a2)
- 2. [速递｜AI云计算公司Nscale更新IPO招股书：季度营收增长13倍，净亏损扩大至16.9亿美元](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519308&idx=2&sn=d10d67ddd758a535077733677e6e537f)
- 3. [速递｜黑石支持的数据中心开发商Rowan获得约15亿美元融资，加速AI基础设施建设](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519308&idx=3&sn=35a06c2895342d149dcb4c4bba039d30)
-
-**谷歌开发者**
- 1. [Gemini 4 Hydrogen 发布](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652163357&idx=1&sn=a14f07c6ef009230435a7dd5f0d30148)
- 2. [新工具，新性能｜助力您更高效地构建高品质 Android 应用](https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652163357&idx=2&sn=0e0e8e81387473af2d4be91b09ace860)
-
-**51CTO技术栈**
- 1. [AI工程师不够用了！吴恩达谈AI工程师的四项能力：开发者的基础能力不够，看不懂Agent做了那些取舍](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655943739&idx=1&sn=5894d31264a568793e141a6a8207470b)
-
-**AI科技评论**
- 1. [黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247749051&idx=1&sn=cd7448e4a65c3315641176066fd7d70f)
-
-**Datawhale**
- 1. [重磅！Claude Code的Harness实战教程来了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247730045&idx=1&sn=2580121ff467f292a96a18d7ea42b245)
- 2. [游戏也能做公益？他用开源做到了！](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247730029&idx=1&sn=5e56c8f0be718861ffbf18d4870c1a3a)
- 3. [华为专家教你“AI Naive”软件开发](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247730028&idx=1&sn=024e54c397fcc6605aa652cdfe1efc5a)
- 4. [COSCon'26｜王琦：开源如何改变科研？](https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247730027&idx=1&sn=62f6d6515eedd86168addf27af8e9c24)
-
-**AI寒武纪**
- 1. [刚刚，谷歌发布Gemini 4 Hydrogen：全免费上线，可能是迄今为止最好的日常模型](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247520204&idx=1&sn=c777e05e09ffbe4e28705f3bf96bc151)
-
-**沃垠AI**
- 1. [全球第二的视频模型来了！我一口气实测了13条片子](https://mp.weixin.qq.com/s?__biz=MzIwMTU5OTQ1Nw==&mid=2653730655&idx=1&sn=29554b50e02d8035dab6dcdf82a3ee21)
-
-**甲子光年**
- 1. [联想给词元经济定了新玩法｜甲子光年](https://mp.weixin.qq.com/s?__biz=MzU5OTI0NTc3Mg==&mid=2247560250&idx=1&sn=983f0e86eb5932563b710fac2862e2cc)
-
-**新智元**
- 1. [破局硅谷头号难题！中国AI「魂穿」老电影，神器全民开放](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742948&idx=1&sn=b9d8b5c8eea7cc5f8acc951b97820b36)
- 2. [刚刚，Fable 5.2登顶RoboColiseum新榜单](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742948&idx=2&sn=7dfc6b86f6e570b6bc432b0de10712ec)
- 3. [以智能体视角，清华首发具身智能综述：从端到端策略到自主系统](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652742948&idx=3&sn=1819844003572b95633483e1da825ebb)
-
-**十字路口Crossing**
- 1. [【年终复盘②】RSI 可能是 NeoLab 的机会、Personal Agent 真的有用、创业要造灭火器还是砖头？｜对话谷雨：AI 带给我的10个 Aha Moments](https://mp.weixin.qq.com/s?__biz=MzAxMDMxOTI2NA==&mid=2649113115&idx=1&sn=5d0928c72b758bccea81eb26e1d7146e)
-
-**向阳乔木推荐看**
- 1. [Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！](https://mp.weixin.qq.com/s?__biz=MzAwODIyOTQ4Mw==&mid=2649448729&idx=1&sn=325a50aac0045cdbe68c0f4f44b96e21)
-
-**腾讯云开发者**
- 1. [腾讯云开发者社区携 WorkBuddy 出海，拓展马来西亚 AI 生态](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247698201&idx=1&sn=92c32716a3bd11e5e409531bae435ae3)
-
-**少数派**
- 1. [大疆官宣将调整部分产品的建议零售价](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247639997&idx=1&sn=cd4af7fe01497649322e29e5f3f1fda1)
- 2. [iOS、Android、PC 近期值得关注的 6 个 App](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247639981&idx=1&sn=6846848b077cb943b05ed304b49a0e01)
- 3. [英伟达 CEO 黄仁勋宣布辞职 / 火山引擎推出 Seedance 2.5 flash 视频模型 / Apex Compute 推出跨平台 AI 帧生成技术 ANR](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247639981&idx=2&sn=b911bbd8307bc2f3cda7838f3b8fa697)
- 4. [一键呼出，解锁屏幕翻译自由](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247639955&idx=1&sn=bfe03789bae1a6352a0503f7dc348b3d)
- 5. [特斯拉 Cybertruck 停产时间推迟至明年夏末](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247639966&idx=1&sn=9ad0b4f6306e7bbd5045b9baaa538f81)
-
-**架构师之路**
- 1. [架构师被蒸馏后，给AI看的架构规范](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651981889&idx=1&sn=e43eb84278e49d4f17b7ab361375dbe0)
-
-**大模型智能**
- 1. [DeepInfer 后，社区推理框架何去何从？](https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247557734&idx=1&sn=f04d25c011cf4dda6637e82fdfaa3ba8)
-
-**刘小排r**
- 1. [致创业者：压力是一种特权](https://mp.weixin.qq.com/s?__biz=MzI1MTUxNzgxMA==&mid=2247503617&idx=1&sn=847b4a215fed58a053e64f47f2a8d8c3)
-
-**夕小瑶科技说**
- 1. [Claude 被封号后我找到了新的办公搭子](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247623408&idx=1&sn=bf12230c1cb55313544ac10f53314d8f)
-
-**猫笔刀**
- 1. [啧啧，全是套路](https://mp.weixin.qq.com/s?__biz=MzE5ODk2NjUwOA==&mid=2247498903&idx=1&sn=9f123438e8f58671f064ccf485451dde)
-
-**CSDN**
- 1. [昇腾Jev开源决策模型适配与调优大赛启动招募](https://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&mid=2247838495&idx=1&sn=b2a650bb39b04cb3f20b79535413df3e)
- 2. [只用了10行AI代码修Bug，就整个被判“出局”？独立游戏《Big Walk》遭19名评委联合抵制：凡是用过AI，一票不投！](https://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&mid=2247838495&idx=2&sn=ab4344403e361171786f5f6781b8fb15)
-
-**得物技术**
- 1. [Jev实战：为AI工作流引入轻量决策层](https://mp.weixin.qq.com/s?__biz=MzkxNTE3ODU0NA==&mid=2247547712&idx=1&sn=a848c96b1a7c2708b8e7ce689faf4aa2)
-
-**有新Newin**
- 1. [一家英国芯片公司估值半年涨超 6 倍，押注更快的大模型推理](https://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247503003&idx=1&sn=08a6951b5a498df9b85040a131e5d5b7)
-
-**印记中文**
- 1. [Node 中文周刊 #249 - Node.js 安全发布与「绿色线程」实验](https://mp.weixin.qq.com/s?__biz=MzIzOTkwMjM0OQ==&mid=2247550552&idx=1&sn=bfaf2d9547c0bbd26f819bbac2f0a12d)
-
-**腾讯技术工程**
- 1. [不只是Memory：Ontology如何让Coding Agent越用越懂项目？](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649808188&idx=1&sn=9493b80e2a1e4c6ab409e77f2ac57584)
-
-**赛博禅心**
- 1. [我做了一个《高级战争》的精神续作：潮汐战线](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247522863&idx=1&sn=c0f2933c8ce8d2b3b98aab7f079e7553)
-
-**深网腾讯新闻**
- 1. [直板手机的背屏，这次有点不一样｜深网](https://mp.weixin.qq.com/s?__biz=MzIwMTY1NDg4Nw==&mid=2247526131&idx=1&sn=c001a5a7ec1eb8da119d0f75ad8a727a)
-
-**创业邦**
- 1. [首发丨国内头部医疗上市公司创始家族下场做AI4S，获博裕创投天使轮投资](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650896972&idx=1&sn=ae16fd52cc0a0141374f471fee522a06)
-
-**槽边往事**
- 1. [起立一下是应该的](https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652812536&idx=1&sn=21200a1ca607558e50b4971292ca45a2)
-
-**白鲸出海**
- 1. [「卖idea」卖出400万，国内2人团队的另类创业路](https://mp.weixin.qq.com/s?__biz=MzYzNTkyMTI2Ng==&mid=2247578542&idx=1&sn=50de06e748c15ce2798a10fbad1eb8fc)
- 2. [伊朗闭门造AI](https://mp.weixin.qq.com/s?__biz=MzYzNTkyMTI2Ng==&mid=2247578542&idx=2&sn=54d11a0d8068d6ea3fe555afedd125fb)
- 3. [OpenAI亲自下场做游戏了](https://mp.weixin.qq.com/s?__biz=MzYzNTkyMTI2Ng==&mid=2247578542&idx=3&sn=f0bbe7028c5e71f736be72856f3f9d8a)
- 4. [沙画+挪车，国内团队新品月流水近2000万](https://mp.weixin.qq.com/s?__biz=MzYzNTkyMTI2Ng==&mid=2247578527&idx=1&sn=aeae2c8870161d0dd110fdfd8baf1b28)
-
-**刘润**
- 1. [未来5年，酒店业的变化可能超出你的想象](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789881&idx=1&sn=4a9d84a03b85f1b8173937b2b1a50939)
- 2. [刘润：催婚可能会成为历史](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789881&idx=2&sn=09e0a45dc8db2b3f22bb25532e70a227)
- 3. [把时间具象化，让每一天都有迹可循](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789881&idx=3&sn=afddb910b9caee832c7f40366f22f42f)
- 4. [11月13日（勤商日历卡片）：抖音、小红书、B站等6大平台生存报告（下）](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789881&idx=4&sn=549ff4194f8876b382a7439fae154824)
-
-**华尔街见闻**
- 1. [AI对医生88比12：医疗AI临床决策破局，垂类模型迎来估值重估](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247649799&idx=1&sn=11de5abdd6b322b4571d544c82ffa68a)
- 2. [一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247649799&idx=2&sn=c56cae218d1c2ab0ba66323b8959d2d4)
- 3. [史上最大IPO蓄势待发：Anthropic IPO据称获约六倍超额认购](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247649799&idx=3&sn=a99b4ba6e33216a151f37ac5fa84a2cd)
- 4. [段永平：目前不会卖出英伟达，未来黄仁勋或以“影子CEO”回归](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247649799&idx=4&sn=38b308d71743e339e9ce31fe88cf0645)
-
-**吴晓波频道**
- 1. [无人可替黄仁勋](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173523&idx=1&sn=fb297eda0fb90fe93fccd8454ac37ed7)
- 2. [吴晓波对谈牟笑迎：中国AI基建在三五年内有可能超过美国吗？](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173523&idx=2&sn=7af9c810f98b2b36386219cbf4ff74a6)
- 3. [央行发布货币政策报告，离岸信托个税申报超1600亿 | 财经日日评](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173523&idx=3&sn=a4873c537d2257df8d3fcd10eebc6124)
-
-**快手技术**
- 1. [FRecSys 2026议程公布｜从快手生产实践出发，探讨下一代推荐系统基础架构](https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247501630&idx=1&sn=11eb54ed2b7ae76e764761c74c0901dc)
-
-**网易科技**
- 1. [对话六位AI漫剧人：每天上万部漫剧提交，只有30部赚钱](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650541946&idx=1&sn=9ea9595d32b08a61e7b4a570ed07b0c4)
-
-**SaaS白夜行**
- 1. [昨晚中国AI大会辩论赛，正方观点“AI工作平台会取代企业软件”竟然输了。我听了评委们的观点大跌眼镜。昨晚我提了一个问题——“30年来，...](https://mp.weixin.qq.com/s?__biz=MzIxNjc2MTc2MQ==&mid=2247489446&idx=1&sn=e9edcbbb01b3b7cff16c74d9bc48cf67)
-
-**AI异类弗兰克**
- 1. [双11，印象里高冷的WorkBuddy也来送福利了](https://mp.weixin.qq.com/s?__biz=MzU2Njg0OTEyNQ==&mid=2247498143&idx=1&sn=04937c5971ea8b504b4e7f3d678e6b87)
-
-**晚点LatePost**
- 1. [一辆车的十五亿](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247539894&idx=1&sn=76b6aa84d3814b405654d3e125d47258)
- 2. [因私人关系退位的大公司CEO们丨晚点小数据](https://mp.weixin.qq.com/s?__biz=MzU3Mjk1OTQ0Ng==&mid=2247539893&idx=1&sn=a0073e5f56a4dde280a52e27284fa267)
-
-**周国平**
- 1. [孩子休学潮正在蔓延，一旦成瘾，终身买单](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368259&idx=1&sn=6fb3d554c1f60cd77f7d2e898fe74241)
- 2. [一个人之所以不爱自己，是因为缺乏精神性](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368177&idx=1&sn=92bbf3cd6a6569ccae5feb09d1eb54d8)
- 3. [人到中年，最清醒的活法：把选择权留给自己](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368177&idx=2&sn=fc730d70fea9a0593cf13222017759fd)
- 4. [变老之前，你需要知道的人生真相](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368202&idx=1&sn=8e703b7e9764394e0775d17c2318fb82)
-
-**晚点再听LaterCast**
- 1. [AI自动化之后，人类工作的新图景丨Every](https://mp.weixin.qq.com/s?__biz=MzcxMDA5NTI0OA==&mid=2247489477&idx=1&sn=5d74172d51a69a8e21038e5b250f3a58)
-
-**古典古少侠**
- 1. [AI时代，你赚不到心力以外的钱](https://mp.weixin.qq.com/s?__biz=MzA4NTM2MTQzOA==&mid=2650673611&idx=1&sn=1e75d70cdb59c929f6178d9d256a358e)
-
-**AI产品阿颖**
- 1. [豆包工作接入DeepSeek，实测成本居然比DeepSeek Harness低一截。](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247588521&idx=1&sn=2c873388979eb1f9b4062abf42e09104)
-
-**经纬创投**
- 1. [AI的万亿账单：技术革命继续，美国算力投资见顶了？|【经纬低调分享】](https://mp.weixin.qq.com/s?__biz=MzA3ODk5OTEzOA==&mid=2962189121&idx=1&sn=a563355d81c431acc380fb1077c1bcd6)
-
-**世界银行**
- 1. [第七届“全球减贫案例征集活动”推荐案例揭晓 第八届启动](https://mp.weixin.qq.com/s?__biz=MzIxODU5NTI3NA==&mid=2247503170&idx=1&sn=ebb04dd5799488d1a9f5aa40dceb4546)
-
-**硅星人Pro**
- 1. [这一次，李彦宏看到的下一幕是“智能组织”](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635361&idx=1&sn=ca08de722cb65f7e09be7594b911d279)
- 2. [Harness大战](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635361&idx=2&sn=12fa876ece15e0d6f4ddbcdec6f25b33)
- 3. [如果你最近在看触觉，那大概率绕不过我们这篇的Knowhow。](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635361&idx=3&sn=0cd8aa0e96d381bc4ccd30e70f5a2ad1)
-
-**机器之心**
- 1. [后GPT-6时代，具身数据怎么做？Ropedia发布Xperience 2，给出下一代数据基石金标准](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=1&sn=c3ceac43168f01cb87b9bb3c28fa9877)
- 2. [斯坦福让GPT-6 Astra直接修改机器人参数：只动65行词嵌入，修复一类指令失灵](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=2&sn=5a8b2bef8739a7443d5e57b276c4d80a)
- 3. [ICSE 2027 | 清华提出CoACT：降低Coding Agent 33% Token开销](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074362&idx=3&sn=da18bc335c6b6345ee976e60b4009347)
-
-**财新**
- 1. [黄乐的算力生意 从75美元到29亿美元再到千亿](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=1&sn=4e2d6c6d83dd6bc66414d53b7cc33599)
- 2. [莲华资管洪灏：AI再跌一半是大概率事件 黄金信仰不会改变](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=2&sn=b1adde91b312e67792401cc1df05cbeb)
- 3. [“人和组织都要做大调整” 马化腾再提降本增效](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=3&sn=144d29186095921741cd371f8a256605)
- 4. [汇丰精简新加坡架构 引发“降低对华依赖”揣测](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=4&sn=e12f57bc0592e25654b336a5dc809d5c)
- 5. [湖北荆州“争抢”广州服装产业 工人返乡意愿为何不高？](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=5&sn=6aa2b5a28f3909b0b0d0d64318d46060)
- 6. [张军扩谈应对K型分化：短期稳增长 长期促共享](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333595&idx=6&sn=c7a0b854cdba7f3bda06fe7654021742)
-
-**蚂蚁技术AntTech**
- 1. [期待和你们一起，用 AI 解决最值得的问题](https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247538657&idx=1&sn=71ac1756326ea0624ee05605a47efc0d)
-
-**36氪**
- 1. [一位墨尔本华人外卖员之死](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909518&idx=1&sn=cd6dd3d13256a773219baa2a05bd67c1)
- 2. [失去黄仁勋，英伟达会怎样？](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909518&idx=2&sn=fa06a703f0389cb0e0f4b9dba641566c)
- 3. [中产在山姆疯抢始祖鸟](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909518&idx=3&sn=85935b721a68218b1491f04a54e899bb)
- 4. [越南迈入「发达国家」](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909518&idx=4&sn=2625577be4a72b35ac076a775f53dfc3)
- 5. [推动日元升值的「贝森特炮」不灵了？](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909518&idx=5&sn=1d42de504f9d5a6bdeb2a05e5a4722a4)
- 6. [这个双11，商家和AI商量着做生意](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909494&idx=1&sn=821e65eea1cc76111f7094458cd5c84c)
- 7. [近百家企业带着真实场景，直接在WISE现场聊合作](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909494&idx=2&sn=04b2a68b3927c49fe8eacc2482b8b35f)
-
-**PaperAgent**
- 1. [杀疯了，DeepSeek又开源了](https://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&mid=2247513721&idx=1&sn=fc22da3753ae95445d4bf1d9fcb4e7cc)
- 2. [南大Skill Adapter：一款自适应Skill神器](https://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&mid=2247513721&idx=2&sn=eb007f6933acaf9267fb85a0eabe1e33)
- 3. [黄仁勋突发离职！英伟达2篇新作却暴露更大AI布局](https://mp.weixin.qq.com/s?__biz=Mzk0MTYzMzMxMA==&mid=2247513665&idx=1&sn=953b2d309a36b0cc8f1d080830669699)
-
-**支付宝体验科技**
- 1. [百灵语言基座负责人张志强确认出席 SEE Conf，并带来主题演讲！](https://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247521719&idx=1&sn=ff98c87f88748a0ad372294fec4892ee)
-
-**PM圈子**
- 1. [软考证书到底有什么用？这3层价值，很多人只看到一半](https://mp.weixin.qq.com/s?__biz=MzI2NTE3NTgyNA==&mid=2650959849&idx=1&sn=4fd515e24f954b4ddd77ea712ad5e65f)
- 2. [图解项目经理需要掌握的必备知识](https://mp.weixin.qq.com/s?__biz=MzI2NTE3NTgyNA==&mid=2650959849&idx=2&sn=e5c991fca6d2ffef9cfdfe7855aeebe5)
-
-**南方周末**
- 1. [60岁肌肉比30岁还强，这位老年病学家说：能够老去是一种幸运](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704855&idx=1&sn=56f948a2e6430366e1a118a726aa1221)
- 2. [大凉山里来了平安订单](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704855&idx=2&sn=f4f06c704512cd6158775089e7f51885)
- 3. [为什么你爱看短剧，却羞于承认](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704853&idx=1&sn=98cb58a8f83192e83b4ab5c92a739207)
- 4. [AI时代，公司将是哪种形态？](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704853&idx=2&sn=4a1a3852d412836a36b6b4a96de687aa)
- 5. [年龄不该是枷锁，但我不敢说自己35岁了](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704827&idx=2&sn=cf26aa35398ebd5f0d678071570bb97c)
- 6. [拘留最长期限有望缩短，部分案件能少10天](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704795&idx=1&sn=b7acbf24a5ecda940e9dd90eac53486f)
- 7. [海拔五千米之上，一群银行人的金融戍边](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704795&idx=2&sn=51175e1328368b78de47a0afcd082792)
-
-**丁香医生**
- 1. [酒店的洗衣机，能放心用吗？](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094567&idx=1&sn=58caadf5787233e56d9990bc9383fae3)
- 2. [这种好主食，竟然巨胖人、升糖巨快！很多人都吃错了](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094465&idx=1&sn=a501479aa43d5c06186e94861d1b4ec0)
- 3. [折磨 2.4 亿人！鼻炎越治越严重，你可能中了这个用药误区](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094465&idx=2&sn=b0252a721c9ad591f5816460ff734be7)
- 4. [一种帮你抵抗长胖的食物，建议减肥、控糖人常吃（不是燕麦](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094465&idx=3&sn=2e15f2f83fe968bcfba0a007aeb7c8b8)
-
-**张佳玮写字的地方**
- 1. [方丈被揭私情，自尽啦！](https://mp.weixin.qq.com/s?__biz=MzA5NjY2NTcxOA==&mid=2650428177&idx=1&sn=5aa6b29fbde82d7dbe364a0443f9c9cd)
-
-**香帅的金融江湖**
- 1. [看到黄仁勋辞职的那一刻，除了震惊外，其实有点五味杂陈，说不上什么感觉。  其实教主曝出第二桩绯闻的时候，我有点感觉，这是不死不休的...](https://mp.weixin.qq.com/s?__biz=MzU5MzA3ODIyMw==&mid=2247544544&idx=1&sn=52876786501dba2a8340cde099a5e351)
-
-**投资界**
- 1. [DeepSeek无人创业](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745095&idx=1&sn=a4d494128109118daba97346beaa639a)
- 2. [国民火腿肠要被卖了](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745095&idx=2&sn=b508976a1360939d7454a632dd748526)
- 3. [AI作弊指南](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745095&idx=3&sn=c0f47586b60b27026ec78e89143c28fd)
- 4. [第一批返乡创业的中产](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745095&idx=4&sn=587686fdf5546509c8ceac055c90b87d)
-
-**HelloSREAgent**
- 1. [作为自然风景爱好者，推荐下这本日历](https://mp.weixin.qq.com/s?__biz=MjM5MzYzMzkyMQ==&mid=2649827999&idx=1&sn=2c09d7e864a8725788b581714e65c1b9)
-
-**哈佛商业评论**
- 1. [贝壳彭永东发起变革：专业的定义，已经被AI时代重写](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650154083&idx=1&sn=95b6f3ded45265bc35b427c474cbeac5)
- 2. [想靠事业部提速，有哪些看不见的隐性门槛？](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650154083&idx=2&sn=f2e4a200927c3653e518165936841453)
-
-**千问AI平台**
- 1. [智能体 Skill 调优“焚诀”——业务逻辑之外的胜负手](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247562689&idx=1&sn=e48b34b83266f63e8b791887839b8133)
-
-**KnowYourself**
- 1. [这些不起眼的小事，都是慢性炎症的根源！](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247939428&idx=1&sn=45a5766b86ba440e8e7edd8eb3b47cbd)
-
-**人物**
- 1. [贝壳掀起50万房产经纪人的专业风暴](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653258269&idx=1&sn=49bb5953706bdab6a8cf7ec90f0a61dd)
- 2. [一个女人的十二段关系](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653258267&idx=1&sn=4d7607161a28ac64245f212cb6f13347)
-
-**麻省理工科技评论APP**
- 1. [数据中心之争，无非是电力之争](https://mp.weixin.qq.com/s?__biz=MzI5MTcxMTA3Mw==&mid=2247511559&idx=1&sn=7f08999289926740371e3176ff5ace0b)
-
-**武志红**
- 1. [“12岁女孩打赏主播，掏空家里积蓄”，出事前，她发出过这3个求助信号](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020573&idx=1&sn=0152fb2584421da5cc6a5afa871f0c8e)
- 2. [工作干不下去的人，建议先弄清楚这4件事](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020573&idx=2&sn=e65e374562c06eae4d55b18c56a1ec48)
- 3. [全网爆火的“纯过日子人”，治好了我的中年焦虑](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020573&idx=3&sn=a4fbce0adc808f463711d888afd25f74)
-
-**公安部网安局**
- 1. [净网专项行动 | 编造传播“51万和平饭店吃顿饭”网络谣言，15人被抓，其中4人被采取刑事强制措施](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247584750&idx=1&sn=84859bc1a62229689d934374b29eebcc)
-
-**三联生活周刊**
- 1. [花上万元进名企实习，被“求职陷阱”围猎的二本大学生](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614240&idx=1&sn=4b139784c594cb84e3e9cf63e449e869)
- 2. [把日常故事搬进巴黎大皇宫，这是华为影像大赛的十年](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614240&idx=2&sn=c4aa1d5b438e2922c22006e098b533b9)
- 3. [眼痒硬扛一年的我，终于查出了螨虫](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614214&idx=1&sn=ebd1732a0bf3e4d9e1829e21d405d1a4)
- 4. [中产父母的新难题：孩子读大学，每月给2000少不少？](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614214&idx=2&sn=f7b91baf44bd061ce08fa40174a77001)
- 5. [好好吃饭，怎么变难了？](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614103&idx=1&sn=2b7155d25ae45454cd6fa738116b4a15)
- 6. [这可能是去新加坡之前，你最应该知道的事情](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614103&idx=2&sn=80dc99f37b12bc236dbf27e5628317b8)
-
-**每日豆瓣**
- 1. [普通人最简单的省钱方式是控糖](https://mp.weixin.qq.com/s?__biz=MjM5MTM5MTAyMA==&mid=2651064257&idx=1&sn=82e2778f07e986d5c7c402c2b4cc3ac0)
- 2. [做家务是打工人最好的运动](https://mp.weixin.qq.com/s?__biz=MjM5MTM5MTAyMA==&mid=2651064257&idx=2&sn=84b077338465382f5a6dace9e9acf0b9)
- 3. [太牛了！这件90白鹅绒的T恤，拒水又耐脏，薄薄一件比羊毛衫还暖！](https://mp.weixin.qq.com/s?__biz=MjM5MTM5MTAyMA==&mid=2651064257&idx=3&sn=83b2fca015e9cbe24ed161b5ecfb9178)
- 4. [这个“弹弹珠”，我劝你冬天多吃！](https://mp.weixin.qq.com/s?__biz=MjM5MTM5MTAyMA==&mid=2651064257&idx=4&sn=ed823eb00a6f5b52783f2f433f9b3ef4)
-
-**虎嗅APP**
- 1. [老黄辞职24小时，硅谷大佬们在X上炸锅了](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219949&idx=1&sn=be1846cea32c6e26722f56c137b87751)
- 2. [失去本地人的景区，正在批量死去](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219942&idx=1&sn=43e29d3c4e40cc5ad8dc82b3084e8cdc)
- 3. [7万人的全球科技峰会，中国公司正在结束硅谷叙事](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219942&idx=2&sn=13deb6047490e138611fbfe4a4261ec3)
- 4. [AI正在杀死廉价劳动力](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219942&idx=3&sn=2f589387215fa553ed63f717081dd3b7)
- 5. [中国餐饮正在进入“地方菜时代”](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219942&idx=4&sn=bcd7f465dc37c34fec8e1c853a0f54c4)
- 6. [每一家车企都在合法量产“近光刺客”](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219879&idx=1&sn=79f19719f858de5a625f6f38042afa7f)
- 7. [黄仁勋的瓜是吃不完的，但钱能亏完](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656219879&idx=2&sn=ae33344f207c9da89d31babb69e39f62)
-
-**通往AGI之路**
- 1. [刘慈欣来WaytoAGI科梦OPC社区串门了！](https://mp.weixin.qq.com/s?__biz=MzkzMzQ5MDA5Ng==&mid=2247511054&idx=1&sn=bf9fb60e44e809524802df21b8a90811)
- 2. [延期至11.15！电影智能体展示日等你投稿](https://mp.weixin.qq.com/s?__biz=MzkzMzQ5MDA5Ng==&mid=2247511031&idx=1&sn=21bfd8a4b02825472da25819a7938c56)
-
-**快刀青衣**
- 1. [卡帕西嫌YouTube推荐太烦，让AI重做了一个](https://mp.weixin.qq.com/s?__biz=MjM5NjQyMjE1NA==&mid=2650745219&idx=1&sn=b2796077a56b61c78f84f6de91d197e6)
- 2. [给微信小程序大赛当了一天评委：AI让哪些「小需求」变成了产品？](https://mp.weixin.qq.com/s?__biz=MjM5NjQyMjE1NA==&mid=2650745193&idx=1&sn=546e6beb9957381c46041c3fd69d3b73)
-
-**阿里技术**
- 1. [基于本体的 AI 数据研发落地：淘宝行业经营分析实战](https://mp.weixin.qq.com/s?__biz=Mzg4NTczNzg2OA==&mid=2247512497&idx=1&sn=82924a5a7f2f62006617c12080a83fc2)
-
-**网信中国**
- 1. [第一观察｜不断赋予“振兴中华”新的时代意义和内涵](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545528&idx=1&sn=3ea2a9e4dc34ee354fa8235579a21dd7)
- 2. [习言道｜同心协力共襄中华民族伟大复兴盛举](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545528&idx=2&sn=3e14d4ced27e5ba526b01f7aa716012f)
- 3. [习近平对国有企业党的建设工作作出重要指示](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545519&idx=1&sn=c18ef0c83fcf915b11a2d5cd18d5d995)
- 4. [拾光纪·实现孙中山先生“振兴中华”理想，总书记指明必由之路](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545502&idx=1&sn=c802160b33fa03792bf9611e9cda4cb6)
- 5. [【央视快评】同心协力共襄中华民族伟大复兴盛举](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545502&idx=2&sn=855119913e8237e84b87427eb32188b5)
-
-**硅谷101**
- 1. [硅谷创业“修道院”HF0与OpenRouter早期故事](https://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247500777&idx=1&sn=36f859a3a5e561ed26baa1ca3bef1f1d)
-
-**小林coding**
- 1. [工资到账119587.68元，爱你字节！](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247566414&idx=1&sn=d2e60dd021ba6f3bc577b1bbeb47007e)
-
-**凤凰网财经**
- 1. [谢志峰谈黄仁勋：英伟达崛起，台积电功不可没](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839148&idx=1&sn=815a29539807f0f8b1921750426f9df3)
- 2. [离岸信托个人所得税到底怎么征？财政部解答来了](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839148&idx=2&sn=82e5ec057e47ded1d3dbdc1c4914bbd5)
- 3. [Anthropic：围猎黄仁勋的幕后黑手](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839148&idx=3&sn=f2f3c189d72f96966092b4a58d3cc927)
- 4. [物业扎堆跑路，这门生意该推倒重来了](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839148&idx=4&sn=8b4e3bbdfcbec240f1a12cfca0a357e6)
-
-**果壳**
- 1. [脑部手术后，他在人脸上看到了自家猫的眼睛](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382501&idx=1&sn=6cac044a2b3f295351018ddf9060327e)
- 2. [为什么黄仁勋出轨直接下台，马斯克孩子都生了4个了也没事？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382471&idx=1&sn=9f67743892059ae1b25c67b7cd86a7ab)
- 3. [潮汕牛肉丸：牛肉丸里没有牛肉，你们疯了吧？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382471&idx=2&sn=cc28f6553a6c6038b0b497b0bb5cbe1e)
- 4. [这也能投毒？我每天都在被投毒，却从未见过凶手……](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382427&idx=1&sn=3059b904c47c84f45a596e1cf4839971)
- 5. [“处女作”正式退场，这是全体女性的胜利](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382427&idx=2&sn=b404a44ec7023ceee4a34e94a2f678f7)
-
-**大淘宝技术**
- 1. [Skill 自进化：基于执行轨迹与评测反馈的多代优化实践](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650547008&idx=1&sn=88ed890da980cee1caa6c9c21b90e773)
-
-**谷雨实验室**
- 1. [在墨尔本，一个中国外卖员之死 | 谷雨](https://mp.weixin.qq.com/s?__biz=MzU2MDEwMTIwMg==&mid=2247657020&idx=1&sn=97b5119b71884c43980efbf81a3ef8c6)
-
-**雷峰网**
- 1. [GAIR 见证人工智能回到物理世界丨GAIR 2026](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759557&idx=1&sn=b70534411c9978c0a117b973372d5b53)
- 2. [谁来帮助企业走向「智能组织」？](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759556&idx=1&sn=ff488a23d6ae131c26583387cb210f3d)
- 3. [黄仁勋离场，临时CEO的内部信里没有「战略」](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759556&idx=2&sn=db2ca95d554836f4621b89609e4ad30b)
- 4. [黄仁勋辞职后续：美国司法部对英伟达启动多项调查，包括反垄断调查；腾讯裁员50%谣言催生神图！高管回应；百度推出大模型交易平台词元所](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759502&idx=1&sn=af12e8070d2558eb501c3f27d9a3294e)
- 5. [AI 已经进入企业，为什么组织还没有进化？](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759502&idx=2&sn=e0f44130fdaa71a299a330255df00f03)
-
-**乱翻书**
- 1. [突然看到陈亮卸任蚂蚁CMO的新闻，很意外](https://mp.weixin.qq.com/s?__biz=MjM5MDczODM3Mw==&mid=2653035175&idx=1&sn=8baa900592ab61a864abdf92b579f0bf)
- 2. [为什么哪怕双十一了，品牌依然不肯给你最低价？](https://mp.weixin.qq.com/s?__biz=MjM5MDczODM3Mw==&mid=2653035154&idx=1&sn=f784498dc0b00fc5c17ee78b021eba52)
-
-**脑极体**
- 1. [AI为笔，江淮为卷：安徽与华为共绘一幅产业智能化的长卷](https://mp.weixin.qq.com/s?__biz=MzUxNTUyMjE4Mw==&mid=2247539384&idx=1&sn=c81c10bf038a0ea962c92e513cba3046)
-
-**砺石商业评论**
- 1. [关于黄仁勋事件的一些深层思考](https://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247638776&idx=1&sn=672dce6b50d8f075b7b96c097810ef41)
- 2. [跳出戏谑调侃，关于黄仁勋事件的一些深层思考](https://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247638745&idx=1&sn=835e87123e8f5aa0a4b2754832322a28)
- 3. [张瑞敏的《道德经》智慧 | 每日视频](https://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247638745&idx=2&sn=65d4dc553b364d31989fadd51b1a880e)
-
-**写代码的宝哥**
- 1. [每周见闻第73期：工作提效了，为什么加班时间更长了？](https://mp.weixin.qq.com/s?__biz=Mzg5MTk4MDU2Nw==&mid=2247497145&idx=1&sn=d3ccf3f125733a89b08b470ad6db087f)
-
-**腾讯NBA**
- 1. [0失误砍52+11！坎宁安成NBA历史首人 奇才三人合砍97分仍输给他](https://mp.weixin.qq.com/s?__biz=MjM5MTc3OTQ0MQ==&mid=2652052654&idx=1&sn=b9d04dbd805700c14fd3ab0fbd2f5386)
- 2. [四巨头合砍80分！无詹姆斯76人逆转猛龙 恩比德强忍伤势连献关键跳投](https://mp.weixin.qq.com/s?__biz=MjM5MTc3OTQ0MQ==&mid=2652052654&idx=2&sn=c4faab9c7438e008240c2f2e41ac09fd)
- 3. [活塞双加时双杀奇才：坎宁安52+11生涯新高 吹杨37+14引3人30+](https://mp.weixin.qq.com/s?__biz=MjM5MTc3OTQ0MQ==&mid=2652052654&idx=3&sn=179b7ffd075b2381fe3d19766c99fc6f)
-
-**东方财富网**
- 1. [黄仁勋离开，麻烦才刚刚开始](https://mp.weixin.qq.com/s?__biz=MzA5NDMxMzQxMA==&mid=2651695237&idx=1&sn=427d6fb40866cb177fe1653607d48608)
- 2. [英伟达跌跤，“银伟达”新高！](https://mp.weixin.qq.com/s?__biz=MzA5NDMxMzQxMA==&mid=2651695237&idx=2&sn=397762c3d5bf7b02a2b1f96ec9180adf)
- 3. [同是“私生活”风波：为何马斯克没事、黄仁勋辞职？](https://mp.weixin.qq.com/s?__biz=MzA5NDMxMzQxMA==&mid=2651695237&idx=3&sn=1730fc620d6dd637586b91a30175c8f6)
- 4. [AI影视降本提速！一图梳理相关概念股](https://mp.weixin.qq.com/s?__biz=MzA5NDMxMzQxMA==&mid=2651695237&idx=4&sn=1a3d92193d5a7c11ed6a6441f99a5e01)
-
-**篮球先锋报**
- 1. [双加时逆转，坎宁安打出生涯最强一战](https://mp.weixin.qq.com/s?__biz=MzAxNjc1MjE2NA==&mid=2650840507&idx=1&sn=0b1a27900e86f3ae4b49f1e6c7ff91de)
- 2. [公牛新星伤了，最佳一阵的水平啊](https://mp.weixin.qq.com/s?__biz=MzAxNjc1MjE2NA==&mid=2650840507&idx=2&sn=1979ec6eb1cf8bf3393c7010aa630afe)
-
-**网信北京**
- 1. [北京市征集IPv6技术创新和融合应用典型案例活动公告](https://mp.weixin.qq.com/s?__biz=MzIwMTU5MzM0OQ==&mid=2653794976&idx=1&sn=db5ad29814989f28d1372bbfb1814a85)
- 2. [【e企“京”彩】| 赓续伟大长征精神 奋进网络新征程——58集团党委组织百余名管理人员赴长沙开展红色学习](https://mp.weixin.qq.com/s?__biz=MzIwMTU5MzM0OQ==&mid=2653794969&idx=1&sn=bffa5538bffe237b61bfe785376ef678)
- 3. [【e企“京”彩】| 首都互联网协会党委举办学习贯彻党的二十届五中全会精神宣讲报告会](https://mp.weixin.qq.com/s?__biz=MzIwMTU5MzM0OQ==&mid=2653794932&idx=1&sn=84f63780199f71ba2344b1016d59694f)
-
-**海豚研究**
- 1. [新云“靓仔”Nebius：光鲜外面下也满是“虱子”](https://mp.weixin.qq.com/s?__biz=MzE5MTU3MzA2OQ==&mid=2247579754&idx=1&sn=16562eed8ddac50bca146efa23835154)
-
-**新周刊**
- 1. [“科技预言家”李彦宏，看到AI的下一个十年？](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917474&idx=1&sn=937060715341e8d9b431c42074e156b0)
- 2. [2006年的大学生活，有多遥远](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917474&idx=2&sn=3496b8d7dee9b345bab65b6d1d19006d)
- 3. [9.6元生成的“AI探店博主”，骗人进难吃餐馆](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917474&idx=3&sn=bf0ff644f94d3fc3cbdf7ba14bbd66e0)
- 4. [孤单北漂，都在11月短暂原谅北京](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917469&idx=1&sn=db80f77dfc431e734426de50c4f6494c)
-
-**南京发布**
- 1. [国内金饰价格全线下跌](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997165&idx=1&sn=1cd76bc0a5f9d59d339b97958d1bc039)
- 2. [今天都来南京了！陈宝国、何政军、宋春丽、王馥荔、肖荣生、臧金生……](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997161&idx=1&sn=bd341b430073da7562349a67eb34db0c)
- 3. [身上出现这种“小黑点”要小心](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997146&idx=1&sn=52eb000ad66728ac9ecd2eb0dd76f4d4)
- 4. [南京地铁牵手苏州地铁](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997139&idx=1&sn=a6edb7be159e51a8173f46da85171b01)
- 5. [关于春秋假！江苏省教育厅最新消息](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997138&idx=1&sn=03dee33a708b72785e4b954405d34e45)
-
-**雪球**
- 1. [执掌33年闪电卸任！黄仁勋，辞职！最后几小时痛骂自己“是个混蛋”！马斯克火速展开招募！](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652394981&idx=1&sn=0a7c4dafbc0465ce171526355ac99fc9)
- 2. [景气度投资是散户的坟墓](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652394981&idx=2&sn=e8a15696abc0a0a35c33868ebcd62f14)
- 3. [今年量化跑输主观多头超10个点了？](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652394981&idx=3&sn=d9ead2d88ea918b34751cd2a8a1a3276)
-
-**凤凰网**
- 1. [超97%投票员工希望黄仁勋回归：“英伟达就是黄仁勋！”](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248148812&idx=1&sn=30a3f6df69aa713450bbd175a7bd63bc)
- 2. [“中国温网小镇”，实现0元打网球](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248148812&idx=2&sn=04f17a9b6a7454e7e315ced15f9519e9)
- 3. [七分原料，三分工艺](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248148812&idx=3&sn=6b29937d0555dbf662b76167fb3e8a3d)
-
-**体坛周报**
- 1. [热议 | 送齐祖执教法国首败！曼奇尼回归后意大利真的不一样了？](https://mp.weixin.qq.com/s?__biz=MjM5NTE2NDM5Mg==&mid=2661905267&idx=1&sn=9900cf13091beb7a31db1e08f98c0bca)
- 2. [亚洲金球奖开启新篇章：体坛周报携手国际体育记者协会启动2026年度评选](https://mp.weixin.qq.com/s?__biz=MjM5NTE2NDM5Mg==&mid=2661905267&idx=2&sn=a72ba7e76c9fde0b1b9c318eec30267f)
- 3. [观察 | 76人又一次赢了逆风局，开局慢热顽疾怎么解？](https://mp.weixin.qq.com/s?__biz=MjM5NTE2NDM5Mg==&mid=2661905267&idx=3&sn=f23f79ad003dae6a9b7165e2f365ee69)
-
-**澎湃运动家**
- 1. [13年花了一亿炒帅，降本增“笑”的曼联，波叔救得了吗](https://mp.weixin.qq.com/s?__biz=Mzg5MzgyMTA5Mg==&mid=2247512035&idx=1&sn=c3e465df8bd3df29630d6957e088bce9)
-
-**王吉伟**
- 1. [一年关了十几家 Agent 平台，为什么工作流反而更重要了](https://mp.weixin.qq.com/s?__biz=MzA5NjMzODEwNQ==&mid=2650597850&idx=1&sn=796d70624d3dc226c1f25ce3ada72c40)
-
-**央视网体育**
- 1. [库里倒下了！勇士遭遇重创，真正的麻烦才刚刚开始](https://mp.weixin.qq.com/s?__biz=MjM5NjM4ODQwMQ==&mid=2651030397&idx=1&sn=c98bacf6d36e5b2390ce8ed020fb1994)
-
-**网球之家**
- 1. [科博利爆料曾想请费雷罗进团队，鲁内称学德约发泄情绪明年目标前五](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286382&idx=1&sn=4c37fd9a4713569bdea3aececae2ae72)
- 2. [近十年谁入选年终次数最多？一人仅缺席一次！](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286382&idx=2&sn=b22d77fbc02994a9c5e531f33493a004)
- 3. [米拉·安德烈耶娃成为21世纪跻身年终总决赛四强最年轻选手之一](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286382&idx=3&sn=8d8fe9ce9935bee51c94cf5257c554f7)
-
-**足球报**
- 1. [卡里克脱离苦海，曼联“从头再来”](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750189&idx=1&sn=92e1a1b07e718edf0354241f5857a2a5)
- 2. [奥预赛“复刻”亚运会对手！中国女足搏出线，中韩两战是关键](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750189&idx=2&sn=af0a2258d43bfad7f17e9418feefbf6a)
- 3. [招聘 | 2026，《足球》报等待你的加入！](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750189&idx=3&sn=3fc713e3a3b73808e994696e8a3cb753)
-
-**方伟看十年**
- 1. [英伟达的技术、泡泡玛特的运营都不是看十年的护城河](https://mp.weixin.qq.com/s?__biz=MzU5NzAzMDg1OQ==&mid=2247490548&idx=1&sn=0dd1fec442bd46d723915e52ddd32504)
-
-**麦肯锡**
- 1. [麦肯锡《2026全球能源展望》：五大情景，推演未来25年全球能源发展新格局](https://mp.weixin.qq.com/s?__biz=MzA4MDUzOTIxNA==&mid=2653869538&idx=1&sn=e8f6f6374351bcaf862757205560a3f4)
-
-**财经早餐**
- 1. [【财经早餐】2026.11.14星期六](https://mp.weixin.qq.com/s?__biz=MjM5ODUxMjExMA==&mid=2650614848&idx=1&sn=5cba3944cd7c4af45f8b5e50e356d0e9)
- 2. [黄仁勋下台，影响到底有多大？](https://mp.weixin.qq.com/s?__biz=MjM5ODUxMjExMA==&mid=2650614848&idx=2&sn=2bfa0ac8809cebf83e0a8fd0816af028)
-
-**zartbot**
- 1. [[随笔]谈谈Nvidia](https://mp.weixin.qq.com/s?__biz=MzUxNzQ5MTExNw==&mid=2247499881&idx=1&sn=860cfdaf5d94b883d1937f913727bd9e)
-
-**CCTV生活圈**
- 1. [家里有老人的注意：冬天守住这3道防线](https://mp.weixin.qq.com/s?__biz=MzA3MjAzMDMwMg==&mid=2654601107&idx=1&sn=12f1a3d5c3b5de8854434eb6ee15a9fc)
- 2. [快让爸妈换盐！这种盐可以帮助控制血压～](https://mp.weixin.qq.com/s?__biz=MzA3MjAzMDMwMg==&mid=2654601107&idx=2&sn=60961002b797ad7dc03929018eb06243)
- 3. [高血压日常调理：记住3不要、4不急、2不宜](https://mp.weixin.qq.com/s?__biz=MzA3MjAzMDMwMg==&mid=2654601107&idx=3&sn=9a806958e4fe83b91fe308d189c0743e)
-
-**张湧说财经**
- 1. [黄仁勋辞职，谁哭了，谁笑了？](https://mp.weixin.qq.com/s?__biz=MzUwOTg4NjY0MA==&mid=2247547171&idx=1&sn=2aec146abda602574fd74d1a2a354c3a)
-
-**五星体育**
- 1. [卡里克发文 全文未谢管理层](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020187&idx=1&sn=695cc1df212385f1f7d6bcbc57f96d64)
-
-**科技美学**
- 1. [华为新旗舰真机曝光，本月多款手机新品你期待哪款？](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225807&idx=1&sn=0129dc97158afcdb867e1c878d249726)
- 2. [荣耀700系列官宣定档，新品预约已开启](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225807&idx=2&sn=4000e9787a554163aa805eae046437f2)
- 3. [售价26.99万元起，腾势N8正式上市](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225807&idx=3&sn=d7498eb0b7aa0e7b670baf8c82af11fd)
-
-**天下足球**
- 1. [离谱！金球凯恩破纪录，无缘最佳阵容！](https://mp.weixin.qq.com/s?__biz=MjM5NTI3ODUwMg==&mid=2650642382&idx=1&sn=95d71c6840a9257059e7030d9e6458a8)
- 2. [巨人杀手，虚假繁荣，对米兰任意球破门](https://mp.weixin.qq.com/s?__biz=MjM5NTI3ODUwMg==&mid=2650642382&idx=2&sn=66b4468f4ef4104e46144707def634e2)
-
-**科普中国**
- 1. [100% 聚酯纤维=纯塑料衣服？没毛病啊，但是关注点错了！](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153529&idx=1&sn=c8c67583babbf4a3e810b236a282ce75)
- 2. [我国北方旱区首次发现的 “精灵圈”，是个啥？](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153529&idx=2&sn=04b64f0dfa4b671fe01db83e14f5ebc9)
- 3. [1 马力=1 匹马的力气吗？](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153471&idx=1&sn=2ccc253253416b43dec36745c174daeb)
- 4. [我国首个！全程只需 5 分钟！中石化成功研发！](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153471&idx=2&sn=3536af8dcb304d8f3843f4e01af7c49c)
-
-**见实**
- 1. [腾讯混元发布全新实时语音模型](https://mp.weixin.qq.com/s?__biz=MzU3NTU5NDc0NA==&mid=2247610746&idx=1&sn=d2386a1b4912b48785b3b0dfc7782938)
- 2. [嘉宾来了｜40人近千万营收：渝欧数智怎么把内容种草分配给3-4人小组和AI？](https://mp.weixin.qq.com/s?__biz=MzU3NTU5NDc0NA==&mid=2247610746&idx=2&sn=b8e374665cb473439225a01cbbf4b4d2)
-
-**NOV心理**
- 1. [“我不喜欢你，但我希望你有了女朋友也永远不要停止喜欢我”](https://mp.weixin.qq.com/s?__biz=MzYzMzA3NDg5Nw==&mid=2247485729&idx=1&sn=f1164d997fdc8cce2ff386a54067a42c)
-
-**Wind万得**
- 1. [陆家嘴财经早餐2026年11月14日星期六](https://mp.weixin.qq.com/s?__biz=MjM5ODQ4MjgyMQ==&mid=2651355259&idx=1&sn=3fcee97ad043a0e3d76790d853b7397c)
-
-**南风窗**
- 1. [“天才女孩”陨于美国，真相令人脊背生寒](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533444&idx=1&sn=26d53798072b4828ba08dfc3adcb29b9)
- 2. [儿童肺炎疫苗，距离免费还有多远？](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533444&idx=2&sn=68cb801e430a5ef6fdd7a09bb493db33)
- 3. [校内有人在高空走钢丝，百色学院通报](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533444&idx=3&sn=f03ea38cbe0cf29fb0ade3e559fd85cb)
- 4. [没想到是冰箱，遭大规模攻击](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533434&idx=1&sn=5d0f9696b84e3ebd92ad30f0d0c40a83)
- 5. [国家卫健委：我国严禁任何形式代孕](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533434&idx=2&sn=76c384c90f55ad9cb2f6db11521493b5)
- 6. [日本无印良品道歉](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533434&idx=3&sn=642fb8fad7dadf8653942b005772264f)
-
-**生命时报**
- 1. [运动是天然“降糖药”！6种运动降糖化效果排名](https://mp.weixin.qq.com/s?__biz=MjM5OTgyODIwMQ==&mid=2653273938&idx=1&sn=b1d923f56e147f3b3c5e227ea2a3a05f)
- 2. [甲状腺能“预报”健康程度，尤其关注这些指标](https://mp.weixin.qq.com/s?__biz=MjM5OTgyODIwMQ==&mid=2653273934&idx=1&sn=1aa6c0f7975ea9b0ec693a3d28815eab)
-
-**经济观察报**
- 1. [山姆在浙东南的新一站，为什么是台州？](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670402443&idx=1&sn=f265252e6a77a587e945259ccb4f68e7)
- 2. [一季度暴涨、三季度大跌，燃气重卡市场为何骤然“崩塌”](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670402443&idx=2&sn=951128c6e5b277420e499730106dfb1e)
- 3. [无实控人公司的“明牌”之战](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670402443&idx=3&sn=7990059e44a4422df3db48caf65ca759)
-
-**非凡产研**
- 1. [把小巨蛋卖到千万台之后，他把团队砍到了一个人](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247523259&idx=1&sn=c91f0ff48088cfdc7bcac33b3f5de75e)
-
-**格隆汇APP**
- 1. [国产算力链，机会更确定了](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878860&idx=1&sn=cfb802a53734d8aac4c20bfe9eab69a7)
- 2. [港股压力何时缓解？](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878860&idx=2&sn=3a2f5cbeb919136544ddf114531f718c)
- 3. [突发黑天鹅！段永平：我不会卖出](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878860&idx=3&sn=36c2b4a671ae0399bd3a4b6f208433de)
- 4. [山东青岛半导体设备公司冲击IPO，为北方华创、拓荆科技的同行](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878860&idx=4&sn=431611feb467e7b887af037b7e00379a)
-
-**梅斯医学**
- 1. [给医护撑腰的三甲主任辞职了！曾直言：不信任请出院！公立医院也要创收了？国际部和特需医疗是刚需吗？绩效上不去，靠社会捐赠行得通吗](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247723033&idx=1&sn=f1e8e68b0861dbb18d82d442b92eda0a)
- 2. [医院交班，要求背诵患者3天数据！甚至要求全英语交班？交班有其必要性，但不能流于形式！82%的医疗事故都违反核心安全制度](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247723033&idx=2&sn=e16f8de57bc36d4ee54722a15bf429ba)
- 3. [Science｜肿瘤把肝脏里本该休眠的“胎儿造血程序”重新打开了！靶向这条通路能抑制肝转移](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247723033&idx=3&sn=8915875068f698beb6918704d584004f)
- 4. [担心做不了医生，留有案底，首都医科大学大一新生被诈骗180万元](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247723033&idx=4&sn=a700752c8fb24b172b4b2ea7f8bd2b7c)
- 5. [中国医学科学院肿瘤医院发布讣告：著名肿瘤免疫学专家张友会逝世！](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247723033&idx=5&sn=1b0c564e93e97c71d6de3bae8338bf60)
-
-**懂球娘娘**
- 1. [噩梦！骨折伤缺6周，这赛季又废了](https://mp.weixin.qq.com/s?__biz=MjM5OTc2MDY5NQ==&mid=2653159079&idx=1&sn=c4b12f56b620985dce441411d338bc54)
- 2. [硬抗零下20℃！1号位防到4号位的4面防羽绒裤火了！](https://mp.weixin.qq.com/s?__biz=MjM5OTc2MDY5NQ==&mid=2653159079&idx=2&sn=d4d5c5648ee419331e225c514e62acf6)
- 3. [官方禁赛3场！还停薪，这拳不值吧](https://mp.weixin.qq.com/s?__biz=MjM5OTc2MDY5NQ==&mid=2653159079&idx=3&sn=ca82e18805a93af43c57cc42bce0662e)
-
-**区块链头条**
- 1. [香港代币化正式从试点走向商业落地](https://mp.weixin.qq.com/s?__biz=MzI5MTk2NDQ3NQ==&mid=2247521115&idx=1&sn=801ec9101b17b3633ea034c19522a98b)
-
-**中金点睛**
- 1. [CGI视点 | “AI+”的产业重构逻辑初探：以汽车为例](https://mp.weixin.qq.com/s?__biz=MzI3MDMzMjg0MA==&mid=2247869225&idx=1&sn=a446f56a511ed61eb9c4e44b13b4ba5f)
- 2. [中金：“滤镜”消散，资管信托回归本源——《资产管理信托管理办法》正式稿点评](https://mp.weixin.qq.com/s?__biz=MzI3MDMzMjg0MA==&mid=2247869225&idx=2&sn=8171adcd316bbc3b35698ba63254806b)
-
-**i食色摇闲情**
- 1. [冬天的河水不易靠近，哪怕看起来翠绿明亮清澈见底，漂浮着密密麻麻的浮萍还有小鱼在缓慢游荡](https://mp.weixin.qq.com/s?__biz=MzYzMjEyNTYxMg==&mid=2247585003&idx=1&sn=43204670dedc69811451966a0f568935)
-
-**乒乓世界**
- 1. [明星大调查 | 国乒队员为你推荐燃脂运动](https://mp.weixin.qq.com/s?__biz=MjM5ODYzMjYwMA==&mid=2650449232&idx=1&sn=9a09cf758b3f97fdf9eb6baf06328484)
- 2. [学体联2026年全国大学生乒乓球锦标赛甲组（总决赛）正式打响](https://mp.weixin.qq.com/s?__biz=MjM5ODYzMjYwMA==&mid=2650449232&idx=2&sn=9ce10049568de0dee57e8fe98aa08fa4)
-
-**晚点AI**
- 1. [评价 Personal Agent，灵光为什么选择了 “托管量”？](https://mp.weixin.qq.com/s?__biz=MzkzMzM4NTIyNQ==&mid=2247485702&idx=1&sn=2d4c62b884f042f5f91fc336ea30bfa9)
-
-**青稞AI**
- 1. [下一代 Agent 到底需要什么能力？UIUC、Google、斯坦福等联合推出 Proactive AI 综述](https://mp.weixin.qq.com/s?__biz=MzI1MzEwMzIwOQ==&mid=2247520978&idx=1&sn=441fde9e381dc35a0b1092512dcea4f7)
-
-**中国国家地理**
- 1. [从海底到宇宙，人类的脑洞有多大？](https://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653188203&idx=1&sn=14c24bb384722f5078a3fd64d9e418fe)
- 2. [巫山红叶正迎来最佳观赏期！](https://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653188203&idx=2&sn=b3084d6f506198dee478e344e2bf1b1f)
-
-**混知**
- 1. [美国中期选举，选的是啥？选完会咋样？](https://mp.weixin.qq.com/s?__biz=MjM5Mjg3MTIzMQ==&mid=2659006705&idx=1&sn=943b059b5deade3c0a976497ead5bdd8)
- 2. [同样的年龄，为啥你老得比别人快？](https://mp.weixin.qq.com/s?__biz=MjM5Mjg3MTIzMQ==&mid=2659006705&idx=2&sn=ebe46176d7b6ae3b744b0cd743c3b308)
-
-**半导体行业观察**
- 1. [亚科鸿禹与思尔芯重组：新禹思正式成立！](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838812&idx=1&sn=f611af7d9a93e0efb128fbc71e87e137)
- 2. [存储大变局，长鑫亮剑](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838742&idx=1&sn=26fa9ae9363cc23a8813924b68ce252e)
-
-**AIBase基地**
- 1. [AI日报：黄仁勋卸任英伟达总裁职位；星火语音大模型SparkAudio 1.0正式上线API服务；Google推出Gemini4Hydrogen](https://mp.weixin.qq.com/s?__biz=MzIzNjg3NTUzOA==&mid=2247504645&idx=1&sn=d8e302d2024d29a013cae35f475f2529)
-
-**刘备教授**
- 1. [补一篇鸡汤...](https://mp.weixin.qq.com/s?__biz=MzIxNzYxMTU0OQ==&mid=2247504942&idx=1&sn=3b62883b9858ad08c436774ca43777c3)
- 2. [聊下我的花钱计划...](https://mp.weixin.qq.com/s?__biz=MzIxNzYxMTU0OQ==&mid=2247504937&idx=1&sn=44da640306f011e9f32d7c3df30f0f73)
-
-**单读**
- 1. [这个时代的恐怖，是从群体无意识中产生的](https://mp.weixin.qq.com/s?__biz=MzA3MzYzNjMyMA==&mid=2650287830&idx=1&sn=0ee20a92826c5c17c592bdd2f811a2c4)
-
-**大力如山**
- 1. [国泰海通何以科技，它与华泰证券究竟谁才真正站在证券业的AI浪潮之巅？](https://mp.weixin.qq.com/s?__biz=MzIxNTg2MTA5NQ==&mid=2247497125&idx=1&sn=1435df021e2bd7c5e74bf1fcff2011c6)
-
-**集智俱乐部**
- 1. [自然·方法：Multi-Embed——给病理形态与分子图谱造一个“共同语言空间”](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738293&idx=1&sn=b27215387b8ccaa52b736d597539b53f)
- 2. [罗家德成都线下·新书签售｜社会计算方法论：AI如何改造社科研究｜计算人口学读书会第九期](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738293&idx=2&sn=78c265f82e6d7dd9c717080fddef6fcc)
- 3. [见证未来：AI加速中的人类科技演化｜未来学读书会第九期](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738293&idx=3&sn=93f89308215629600324e4e8dfc78413)
- 4. [标准经济学的局限性｜《理解混沌》读书会第 3 期](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738293&idx=4&sn=17fd70752888ccf2dc1b0a5d18dc9d44)
-
-**罗辑思维**
- 1. [马江博：广东最不缺人，为什么还在疯狂抢人？](https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009375918&idx=1&sn=6f3488587d53559a2e835c1b63610622)
- 2. [你以为晒太阳只补钙？它还关系到肌肉健康](https://mp.weixin.qq.com/s?__biz=MjM5NjAxOTU4MA==&mid=3009375918&idx=2&sn=fb373c6ad619c9cd1e711c95d6894aa0)
-
-**星球研究所**
- 1. [“印光术”，启动！](https://mp.weixin.qq.com/s?__biz=MzIyOTQ1OTYzMw==&mid=2247952921&idx=1&sn=c79de78ca3fc095d2ac6ad9994a74009)
-
-**腾讯财经**
- 1. [中年人依赖的减肥“神药” 或致永久失明 全球药企还在疯狂押注](https://mp.weixin.qq.com/s?__biz=MjM5OTA0Mzc2MA==&mid=2651477737&idx=1&sn=07e329014acd2c9c47187f0895044206)
- 2. [梁建章又来“催生”了：给上海博士生发5万元育儿补贴](https://mp.weixin.qq.com/s?__biz=MjM5OTA0Mzc2MA==&mid=2651477732&idx=1&sn=3ceca294f4dae75a092a57276c85762f)
- 3. [蚂蚁集团陈亮卸任首席市场官 转任资深顾问](https://mp.weixin.qq.com/s?__biz=MjM5OTA0Mzc2MA==&mid=2651477727&idx=1&sn=466bd93ee47debe453fc8e6132faa582)
- 4. [搜“花呗”跳出别家贷款广告，蚂蚁将百度告上法庭](https://mp.weixin.qq.com/s?__biz=MjM5OTA0Mzc2MA==&mid=2651477712&idx=1&sn=40a44f1d9f3427e48b0d3ce91cea3cec)
-
-**杨毅侃球**
- 1. [成都崩盘，主要是不讲政治](https://mp.weixin.qq.com/s?__biz=MjM5NTAzMjY2NQ==&mid=2656299823&idx=1&sn=c39a456cc88d6e45cb478f2dcde7cf1f)
- 2. [中产阶级，也开始穿百元级外套了？](https://mp.weixin.qq.com/s?__biz=MjM5NTAzMjY2NQ==&mid=2656299823&idx=2&sn=d722596ee22b2003840ab06b3f5cd6b1)
- 3. [这家瑞士公司，100年只为做好一个杯子！](https://mp.weixin.qq.com/s?__biz=MjM5NTAzMjY2NQ==&mid=2656299823&idx=3&sn=8ea897cdeea91e1d83da6d7267f5ead5)
-
-**神经现实**
- 1. [下一次神经美学奠基人来到中国，还不知道是什么时候｜参加这次课程，能获得什么？](https://mp.weixin.qq.com/s?__biz=MzkxNzg2MzkxNg==&mid=2247548895&idx=1&sn=0e1bcefdd9f7a2e1bd5f83560c5ad74a)
-
-**格兰投研**
- 1. [一场对黄仁勋的围剿](https://mp.weixin.qq.com/s?__biz=Mzk1NzE1NjgyMA==&mid=2247511517&idx=1&sn=6442e36f12d8cbcc621202386462c153)
-
-**老张投研**
- 1. [大超预期！](https://mp.weixin.qq.com/s?__biz=MzY4ODQ0OTA4Mg==&mid=2247506708&idx=1&sn=c2db3b71e4c7c27f2a7a3b326bcf45c2)
-
-**看理想**
- 1. [幸好遇到这本豆瓣9.1，淡人年度之书](https://mp.weixin.qq.com/s?__biz=MzA3MDM3NjE5NQ==&mid=2650999847&idx=1&sn=1562f7b64242987ed7a218be9d029df1)
- 2. [海洋的尺度：从亿年叠层石到万盏鱿鱼灯｜前方是自然](https://mp.weixin.qq.com/s?__biz=MzA3MDM3NjE5NQ==&mid=2650999847&idx=2&sn=e8a4927157d4f7d9b8686ec29cbc4be3)
-
-**游戏研究社**
- 1. [《影之刃零》在抖音的热度，有点夸张了](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247759674&idx=1&sn=a143e5c34c66f3bc2d1978ccdabec684)
- 2. [为了买回《质量效应》，BioWare创始人已经改了51版Excel](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247759674&idx=2&sn=46ec6912dd148674e4f91f4c99d5c79a)
- 3. [2026《黑神话：悟空》全球音乐会最后两站！西安、南京两站现已开票！](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247759674&idx=3&sn=b303f6dc994bac0efb8419b7c46e3624)
- 4. [XBOX CEO发布致全员信](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247759631&idx=1&sn=6d2e13d30a6680a326ab312857e699db)
-
-**聪明投资者**
- 1. [AI会改变世界，投资它却未必赚钱！一位杰出投资者重新审视数万亿美元的豪赌……](https://mp.weixin.qq.com/s?__biz=MzA4NTQ1MzEyNQ==&mid=2663505067&idx=1&sn=85257c572868884ea6beca5283d00246)
-
-**罗西的思考**
- 1. [【轻量化复刻大模型 / KIMI K3】Stable LatentMoE 梳理](https://mp.weixin.qq.com/s?__biz=MzI4OTA3NjQxNA==&mid=2247490127&idx=1&sn=b30f1883e0f77944a4692534afb91ad6)
-
-**智族Life**
- 1. [你是后会友期里的谁？](https://mp.weixin.qq.com/s?__biz=MzkwODY5MDQ2Nw==&mid=2247528935&idx=1&sn=96c90bcafa1114af1ecccbb7fbc7bf3a)
-
-**苏群**
- 1. [库里伤停！勇士准备怎样过苦日子](https://mp.weixin.qq.com/s?__biz=MzA4NzI1OTkzNQ==&mid=2654654587&idx=1&sn=5b0ffff844e95b5710d8351510b02d87)
- 2. [比某迪某克便宜，比某瑟士舒服，这个跑鞋界的路虎到底多牛  ！！](https://mp.weixin.qq.com/s?__biz=MzA4NzI1OTkzNQ==&mid=2654654587&idx=2&sn=77ee3ca940c3e36657da646c53915e90)
- 3. [天冷了，保温杯早就升级成纯钛的了](https://mp.weixin.qq.com/s?__biz=MzA4NzI1OTkzNQ==&mid=2654654587&idx=3&sn=e90ddd0df8a356cb9e407642950d6f19)
- 4. [把“睡在云端”的享受搬回家，万元总统房羊毛被，1折抢！](https://mp.weixin.qq.com/s?__biz=MzA4NzI1OTkzNQ==&mid=2654654587&idx=4&sn=bf370926a529baef3bb9d99a89785161)
-
-**知乎日报**
- 1. [崔添翼、维果…… 新答主入驻知乎](https://mp.weixin.qq.com/s?__biz=MjM5MDM4MDExNQ==&mid=2832658362&idx=1&sn=a9b831051b872c1c0f0108ba450b377c)
- 2. [有人在打车的时候偶遇过我们吗？ 👀](https://mp.weixin.qq.com/s?__biz=MjM5MDM4MDExNQ==&mid=2832658361&idx=1&sn=a0caa1f0bd547dac875b393a7f677298)
-
-**洞见**
- 1. [《后会友期》许飞、厉娜刷屏：你遇见谁，最后遇见的都是自己](https://mp.weixin.qq.com/s?__biz=MjM5MDc0NTY2OA==&mid=2651901417&idx=1&sn=2cd18d54ba7da3e1b10202938e4af68a)
- 2. [比跑鞋舒服，比皮鞋时尚！2位数入手专柜品牌鞋，狂走不累脚，好穿到不想脱！](https://mp.weixin.qq.com/s?__biz=MjM5MDc0NTY2OA==&mid=2651901417&idx=2&sn=aaf4ce370de27bd4dc306009aec2bd9a)
- 3. [人可以穷，但不要有穷相](https://mp.weixin.qq.com/s?__biz=MjM5MDc0NTY2OA==&mid=2651901417&idx=3&sn=37ab4abb92457f71f2a9af8234730396)
- 4. [热爱，是生活的最好解药](https://mp.weixin.qq.com/s?__biz=MjM5MDc0NTY2OA==&mid=2651901417&idx=4&sn=093d6633421ab329665c23fee4934c19)
- 5. [中年以后，没人把你当回事，其实是好事](https://mp.weixin.qq.com/s?__biz=MjM5MDc0NTY2OA==&mid=2651901417&idx=5&sn=4d6785b0c4236829b9cb8ec104a17cf8)
-
-**界面新闻**
- 1. [苹果股价再创新高](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998419&idx=1&sn=e6d991f3bfcc31cfff5ce96a1732c46d)
- 2. [苹果一年内第七次调整以旧换新价格，并且开始回收三星折叠屏](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998406&idx=1&sn=bcbeb1f46cd84a99c867b476a55052ed)
- 3. [虾米音乐关停五年后，阿里上线快乐虾米APP](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998403&idx=1&sn=e96aecda9c186eb0a3faf53511bc54cc)
- 4. [XREAL回应X1芯片自研质疑，披露双方研发分工](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998402&idx=1&sn=cd2a799082c31884a7ff41be83454e06)
- 5. [退货商品二次销售？消费者花1600元网购的北面冲锋衣有陌生人身份证和浓烈香水味](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998401&idx=1&sn=acf4ed89fc0236247a0a0ea699031e17)
- 6. [德国小厂拿下马斯克光伏订单，中国设备商为何未在列？](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998401&idx=2&sn=d7b2661138afa283bae05087680cf147)
-
-**混沌学园**
- 1. [“云南菜顶流”一坐一忘的20年](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247616918&idx=1&sn=c7b6eae0b20024c65aa8fe2d490db449)
-
-**原理**
- 1. [血脑屏障，不只是一道屏障](https://mp.weixin.qq.com/s?__biz=MzA4NDU1MDY5OA==&mid=2653247315&idx=1&sn=19262939be65d14d52f491d888731f9b)
-
-**九边**
- 1. [业务骨干混成了劳务派遣](https://mp.weixin.qq.com/s?__biz=MzUzMjY0NDY4Ng==&mid=2247505029&idx=1&sn=719b123f4fa797d52a34bde1d7cc1fa6)
-
-**钛媒体**
- 1. [黄仁勋辞职，对中国企业影响几何？](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661080296&idx=1&sn=2f92cd04850d74f9adc0a80318872897)
- 2. [李彦宏的考题，发给了所有CEO](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661080296&idx=2&sn=6e12bc4a097efa7eea56e8ed11fd2357)
- 3. [黄仁勋辞职英伟达市值蒸发1.2万亿；长安汽车拟转让阿维塔10%股权 | 科股快报](https://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=2661080296&idx=3&sn=f3187f82c14c11299cf09333fe75d04d)
-
-**标志情报局**
- 1. [Apple Music 古典乐也黑化了！](https://mp.weixin.qq.com/s?__biz=MjM5OTEyNjY0MA==&mid=2650643689&idx=1&sn=14cc98d05b93141f118ff8c7f25ff2cc)
- 2. [潮州博物馆联盟发布全新LOGO，融合「潮」「博」与水纹](https://mp.weixin.qq.com/s?__biz=MjM5OTEyNjY0MA==&mid=2650643689&idx=2&sn=878920e97cc86b789f00cb214fad0b42)
- 3. [塞甘岛新艺术中心全新视觉形象亮相](https://mp.weixin.qq.com/s?__biz=MjM5OTEyNjY0MA==&mid=2650643689&idx=3&sn=427b697bad8090cdce56550766669cc8)
-
-**利维坦**
- 1. [持续不断的监控正在对孩子造成什么影响](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MTUwNQ==&mid=2650533978&idx=1&sn=6d77e30516d05086ab3a92459f61ef61)
-
-**孤独大脑**
- 1. [没有黄仁勋的英伟达，还会伟大吗？](https://mp.weixin.qq.com/s?__biz=MjM5ODAyMjg3Ng==&mid=2650760256&idx=1&sn=320f41f334211c22f0a6f67566e84c34)
-
-**环球科学**
- 1. [66年前，《科学》杂志预言人类会在今天灭绝](https://mp.weixin.qq.com/s?__biz=MjM5NDA1Njg2MA==&mid=2652098651&idx=1&sn=470ca27cba5a91a2b5e9cc611d8ec7e3)
- 2. [世界上最早的梗，竟是为了上岸生孩子？](https://mp.weixin.qq.com/s?__biz=MjM5NDA1Njg2MA==&mid=2652098651&idx=2&sn=6cd607aad2e6e63bda30c258a5aad373)
- 3. [黄仁勋辞职，英伟达宣布临时接任人；猫频繁发出声音，是为了吸引人类的注意力和沟通  | 环球科学要闻](https://mp.weixin.qq.com/s?__biz=MjM5NDA1Njg2MA==&mid=2652098639&idx=1&sn=f574d2796c0d8f627251807e2c807821)
-
-**地球知识局**
- 1. [国内的豺狼虎豹，越来越多了，是好事儿么？](https://mp.weixin.qq.com/s?__biz=MzkyNzIwODI3OA==&mid=2247687320&idx=1&sn=7dfe756f2eef4a0d5f165a62602eb681)
- 2. [一年81亿的三文鱼垄断，快不行了](https://mp.weixin.qq.com/s?__biz=MzkyNzIwODI3OA==&mid=2247687320&idx=2&sn=8889f2017ffbf6d3d43ac1fb9bae41f5)
-
-**集思录**
- 1. [复刻桥水中国全天候策略](https://mp.weixin.qq.com/s?__biz=MzAwNzA0MTkxOQ==&mid=2664925507&idx=1&sn=446eed6d05b4c0a11bf724ea5315f427)
- 2. [本周热点：假如滚IC是开一家工厂](https://mp.weixin.qq.com/s?__biz=MzAwNzA0MTkxOQ==&mid=2664925507&idx=2&sn=153a5c9e360a3e5b5972c9672338c61e)
-
-**人民日报评论**
- 1. [技能，正从“手”的延伸走向“脑”的延展](https://mp.weixin.qq.com/s?__biz=MzA4OTIyMjUyOQ==&mid=2654720181&idx=1&sn=4d981e8f2bc0f9140ec9f8dc32f75d61)
-
-**读者**
- 1. [浙江一家三口坐摩天轮，不料工作人员忘记关舱门，升到50米高空大喊“靠里面坐”，一家愣是坐完全程。网友：光退钱就行了？](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142070&idx=1&sn=fa9bea29e38693db9859606fa879f6d0)
- 2. [把日子过好的一大心法：不接别人的“剧本”](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142070&idx=2&sn=2845ac89487677ed13658b1d819d60fc)
- 3. [“小姨，你微信有钱吗？我用‘谢谢’跟你换……”哈哈哈哈哈](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142070&idx=3&sn=d2f4c87aa4703ad2d6433b71585ca7f2)
- 4. [晚安一句话](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142070&idx=4&sn=d3895d1673a3322484943eb0b4ad51b2)
-
-**半月谈**
- 1. [十年未见，我们依旧是知己](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053282&idx=1&sn=370ee258e2a38ee1c01e3b704b7ecee3)
- 2. [国产剧，咋这稀罕东北那圪垯？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053280&idx=1&sn=837c1c5602ffd44937ffa94e1328e6a9)
- 3. [见面课、推门课、微课……现在中小学公开课花样越来越多了？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053278&idx=1&sn=40dc4f7602c34927e68ce2f81725bacf)
- 4. [习近平对国有企业党的建设工作作出重要指示](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053269&idx=1&sn=7f04b35d3c76dbcaf9ed36a42f0c0869)
- 5. [羊杂、烧麦，进课堂？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053265&idx=1&sn=61fded1ccfb9dcce610d405e0c0c9632)
- 6. [打卡 | 如何体悟“振兴中华”新的时代意义和内涵？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053265&idx=2&sn=0d14a37cfbefdbc7544349c92b3ba544)
-
-**PaperWeekly**
- 1. [近70年经典算法大升级！Meta改写K-Means，聚类提速45倍](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247723888&idx=1&sn=1fd040975e2ba88feeb6b9de02737abf)
- 2. [直播预告 | UIUC金海波博士：智能体走向真实世界的最后一公里](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247723888&idx=2&sn=cc3e03d1b6ca98a0f97dbab8770c1745)
-
-**APPSO**
- 1. [刚刚，DeepSeek 开放全家桶 API，人人都能打造自己的超级 App](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651116569&idx=1&sn=db40cad36a667fd4f65bfe90041725c7)
- 2. [黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651116465&idx=1&sn=fe7ef749359a17b783ec78e28bf09bc4)
- 3. [特朗普：能接替黄仁勋的只有库克/腾讯辟谣「裁员50%」传言/微信「看一看」测试短剧入口](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651116391&idx=1&sn=35da6f23c63d2efd7b5561f651f5165b)
-
-**理想国imaginist**
- 1. [成为“切·格瓦拉”之前](https://mp.weixin.qq.com/s?__biz=MjM5NzIwMTIyMQ==&mid=2650541175&idx=1&sn=8154c3aaa012f8bcb8f4e972daea1a80)
- 2. [昆山活动招募｜《废墟是一座桥》新书分享会](https://mp.weixin.qq.com/s?__biz=MjM5NzIwMTIyMQ==&mid=2650541175&idx=2&sn=f4e4826ba212540aee1c78e986ace2bc)
-
-**ETF进化论**
- 1. [突发黑天鹅！段永平：我不会卖出](https://mp.weixin.qq.com/s?__biz=MzU5NDYzNzUxMA==&mid=2247520460&idx=1&sn=ccfab03c08cec7e4121dc4d69fe6a2a2)
-
-**六神磊磊读金庸**
- 1. [看了这个，唐长老都忍不住](https://mp.weixin.qq.com/s?__biz=MzA4NDEzNTMyMA==&mid=2650334818&idx=1&sn=3bc613d98abc543951a8fc286ea63f2f)
-
-**真实故事计划**
- 1. [「我生命中的厉娜」](https://mp.weixin.qq.com/s?__biz=MzIwNzM2MjA4OA==&mid=2247596790&idx=1&sn=bd6b1f610e238e0dcd1c92437fe847cd)
- 2. [超14万女性被偷拍背后](https://mp.weixin.qq.com/s?__biz=MzIwNzM2MjA4OA==&mid=2247596790&idx=2&sn=81a56afdb0c41a0c63cd394369aa7e39)
-
-**南方人物周刊**
- 1. [逛了两百多个菜市场后，更理解爸妈的生活](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651376333&idx=1&sn=5070568031429d0242ab830890450f86)
- 2. [《朱砂掌》里的虚构与非虚构 | 记者眼](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651376333&idx=2&sn=9c71541ec2fefe39eef2407b168f2cfc)
-
-**新京报书评周刊**
- 1. [重读《社戏》：鲁迅是怎样用文字“拍”电影的？| 重新遇见语文课⑲‌](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656145&idx=1&sn=44e00c1fd7c56578302b432938ab2221)
- 2. [董树宝X汪民安：通过福柯参与的广播节目，重新理解他的思想](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656145&idx=2&sn=4bc4995220dc3ec16c678852200071c6)
- 3. [美国著名法学家理查德·波斯纳逝世，享年87岁](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656145&idx=3&sn=77801dbf927ebdad4204be73dd7d15f1)
-
-**银行螺丝钉**
- 1. [[11月13日]指数估值数据(大盘下跌回到4.9星；黄金下跌创新低到低估了么；港股指数估值表更新；抽奖福利)](https://mp.weixin.qq.com/s?__biz=MzAwNzQ5ODk3Nw==&mid=2651100392&idx=1&sn=c50f97cb5d189105dac075b472a007dd)
- 2. [长期定投的钱，从哪里来？｜投资小知识](https://mp.weixin.qq.com/s?__biz=MzAwNzQ5ODk3Nw==&mid=2651100392&idx=2&sn=d2c80fcb3910badd7d8e59b71367fad4)
- 3. [每日钉一下(机构买入的指数基金，会怎样卖出？)](https://mp.weixin.qq.com/s?__biz=MzAwNzQ5ODk3Nw==&mid=2651100392&idx=3&sn=6e193b182dd40c585533c219b398226c)
- 4. [如何通过指数基金，投资全球股市｜直播预告](https://mp.weixin.qq.com/s?__biz=MzAwNzQ5ODk3Nw==&mid=2651100331&idx=1&sn=e0b41e73fd90a341e2c4fe93a4b9f273)
-
-**刀法研究所**
- 1. [内容花生CEO、联合创始人大喜出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660726&idx=1&sn=03c4b86fb662a37cffeffe9b47c04389)
- 2. [本原进化联合创始人程学会确认出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660727&idx=1&sn=52dbd0760866fe4f37262fd79005ba58)
- 3. [二麻公关主理人大轩确认出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660725&idx=1&sn=c93b4e30040fcc524673b1d8d3125cf7)
- 4. [金橡树总裁马冠琪确认出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660724&idx=1&sn=8f047e2034d83f4744c420c0c185dc08)
- 5. [亿滋大中华区销售副总裁黄新峰出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660723&idx=1&sn=b98e9d0fa3eb5c0454770d2ff7cdd018)
-
-**设计癖**
- 1. [奥妙“去污表”，里面有小笼包……](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjQ4MA==&mid=2650519021&idx=1&sn=53a3e2084482736f98b6d6fd174fd47b)
- 2. [奥妙“去污表”，暗藏“晚饭菜单”？](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjQ4MA==&mid=2650519002&idx=1&sn=f1c26a4ba8c82b25fc22b352aed23515)
-
-**量子位**
- 1. [黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿](https://www.qbitai.com/2026/11/509995.html)
- 2. [MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！](https://www.qbitai.com/2026/11/509827.html)
- 3. [中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了](https://www.qbitai.com/2026/11/509796.html)
- 4. [比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订](https://www.qbitai.com/2026/11/509730.html)
-
-**日本设计小站**
- 1. [延期4年！隈研吾在哥本哈根的首作“金字塔”，终于要建成开放了！网友：北欧版“大澡堂”](https://mp.weixin.qq.com/s?__biz=MzU2MjM4ODM1OA==&mid=2247910000&idx=1&sn=c40c643dd3918a6a5576e509fe9334c0)
- 2. [三合一拉法帽、坑条纹毛衣外套、攀枝花西红柿、羊毛工装阔腿裤、坚果酱、香辣猪肉条等团购限时开启！](https://mp.weixin.qq.com/s?__biz=MzU2MjM4ODM1OA==&mid=2247910000&idx=2&sn=aedfecf8286c2b969e6c865adb39f0e3)
-
-**十点读书**
- 1. [中年无性成常态：那些憋回去的性需求，都去哪了](https://mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656229247&idx=1&sn=68ef145299fd9a8f97a2db80433270eb)
- 2. [40岁姜妍这样穿也太欲了！漫画胸、蝴蝶背，简直是女神中的极品](https://mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656229247&idx=2&sn=9dfc33fccb41e19d79d6d73ae50744d4)
- 3. [教养越好的人，越不适合在底层生活](https://mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656229247&idx=3&sn=970aec2be64026f7730528aada2300c3)
- 4. [强烈建议，周末带孩子做有反差感的事](https://mp.weixin.qq.com/s?__biz=MjM5MDMyMzg2MA==&mid=2656229247&idx=4&sn=1f048dcebaee4bb0c63a2f3d83dc968b)
-
-**浪潮工作室**
- 1. [小号负责谋生，大号才是生活](https://mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2248528260&idx=1&sn=53e0c8f14d6c793ec0d1dfbef6b4a8a1)
- 2. [恭喜那些洗袜子不翻面的人](https://mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2248528260&idx=2&sn=5eda3fb89777a19d6a0a27abf12d3325)
- 3. [哪一个认知，让你的人生突然变轻松了](https://mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2248528260&idx=3&sn=f3c8157de318753ca7a2236d27c71089)
- 4. [浪潮工作室招聘运营实习生](https://mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2248528260&idx=4&sn=76af6b4d0227d169e1aa3318a11b156c)
-
-**廖信忠**
- 1. [八年，还是到了说再见的时刻](https://mp.weixin.qq.com/s?__biz=MzIzOTE4NTAxNg==&mid=2652269241&idx=1&sn=4f9e507db58ba9ac3caa2046385c209b)
-
-**GitHubDaily**
- 1. [两周暴涨 3 万 Star，又一个 AI 逆向神器火了！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457997319&idx=1&sn=5cde2b9e250843583adf7caac3791ade)
-
-**一天一篇经济学人**
- 1. [每日一句 | 20261113](https://mp.weixin.qq.com/s?__biz=MzU1MDQwNTgzMg==&mid=2247566446&idx=1&sn=1fcbfafabeddb4dba6ab2ed8bdd2d1bb)
- 2. [糙米真的比白米健康吗？| 经济学人科技（双语译文）](https://mp.weixin.qq.com/s?__biz=MzU1MDQwNTgzMg==&mid=2247566440&idx=1&sn=94da322ee3ab6c52425c1d31fc3d124b)
- 3. [给自己一年时间，慢慢读懂《经济学人》](https://mp.weixin.qq.com/s?__biz=MzU1MDQwNTgzMg==&mid=2247566440&idx=2&sn=f596cea3bf74312938a778cfec7d11cd)
-
-**知识分子**
- 1. [北大谢俊逸：AI极限、人类未来与数学的意义](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655556413&idx=1&sn=439a53b40264c4f9442a69aae7c25008)
-
-**返朴**
- 1. [人的寿命到底由什么决定？Science研究再次翻转认知](https://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247647301&idx=1&sn=06a9c001907a7cb472eeab1f82bf6817)
- 2. [菲尔兹奖得主王虹的导师 Larry Guth 谈数学的意义](https://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247647301&idx=2&sn=b3260d21ff32f0eb0c07d3af55501d23)
-
-**窄播**
- 1. [这个双11，阿里妈妈用AI把消费意图变成品牌增长新坐标](https://mp.weixin.qq.com/s?__biz=MzkxMzMwNTkxOA==&mid=2247504897&idx=1&sn=967a08cf6e824f89dbc6f38342670933)
-
-**中科院物理所**
- 1. [鼻塞为什么总是一边通一边堵，还会换边？  | No. 538](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596199&idx=1&sn=b2f089ddc6cd058636c5f18a9ec77027)
- 2. [56个星座除了唱出来，现实中能看到吗](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596199&idx=2&sn=1c632690f618ab7bbea2e0863a83861e)
- 3. [阻击青春痘的疫苗，要来了？](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596199&idx=3&sn=a51967574dd487ea98a083fc7279d3ff)
-
-**财经杂志**
- 1. [短剧竞争变了，从抢夺入口到比拼内容](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653741737&idx=1&sn=889f06214d187d5764335a7cba8c7f17)
- 2. [行业观察 | 李彦宏提的“智能组织”，切中了时代焦虑](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653741737&idx=2&sn=dbf1e0cf56d18626526680d56284bffc)
-
-**每晚一卷书**
- 1. [重读《了不起的盖茨比》才明白：对人性过敏的人，过不好这一生](https://mp.weixin.qq.com/s?__biz=MzUzMjM5MjYwMQ==&mid=2247999048&idx=1&sn=786755fcfbd0c18611c84c412d32b9ba)
- 2. [人生三大蠢事：对牛弹琴，喂白眼狼，扶猪上树](https://mp.weixin.qq.com/s?__biz=MzUzMjM5MjYwMQ==&mid=2247999048&idx=2&sn=612084f67e459e1fa73a20e9bf0b9858)
- 3. [5°C天气，单穿一件「鹅绒T恤」出门是什么体验？！亲测，热炸了！](https://mp.weixin.qq.com/s?__biz=MzUzMjM5MjYwMQ==&mid=2247999048&idx=3&sn=b312f0190b1b31441dcc7d4842a1ebbd)
-
-**帆书樊登讲书**
- 1. [最后12小时！买1年送1年，再送《论语》！错过真不再有>>>](https://mp.weixin.qq.com/s?__biz=MzAwMDM4Mjg2Nw==&mid=2650816209&idx=1&sn=968cf18f74380a96d68afa06d41f263b)
- 2. [真正有主见的人，反而很少说“随便”](https://mp.weixin.qq.com/s?__biz=MzAwMDM4Mjg2Nw==&mid=2650816007&idx=1&sn=97d2df511a25f1e7788aaf1e5b3f64f4)
-
-**澎湃思想市场**
- 1. [我始终不能理解一个人在累的时候会放弃伴侣：青年的爱欲、悲伤与遗憾](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247529044&idx=1&sn=91dc6a48a641f3bfdf876534619d9126)
-
-**一条**
- 1. [40年从未停手，她是北京最野才女](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=1&sn=baacc92fcdbcf6b42ac4e25968af13c5)
- 2. [一条创始人徐沪生：谁是内容电商的下一波赢家？](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=2&sn=79247b1df459aa8da14749caeb54c10c)
- 3. [会呼吸的袜子！王玉平IP授权竹纤维袜，透气舒适，点亮造型](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=3&sn=036511bb203b5c25d0801dc542049377)
- 4. [非遗手作胸针，桑蚕丝“养”出的花，无惧凋零的东方风雅](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=4&sn=faf33c572103104220ce2da70156ba58)
- 5. [出门有这只小包就够了！艺术收纳袋、托特包，轻便又时尚](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=5&sn=06ceb51e65f1065e134f402d79ca3d37)
- 6. [融入东方香道的洗护套装，萃取天然檀香精油，温和润养](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=6&sn=28f8c7e1c02f58e54e9de2bf53e05326)
- 7. [海南沉香手串，融入南红、珍珠、青金石，清雅古朴，静心养性](https://mp.weixin.qq.com/s?__biz=MjM5MDI5OTkyOA==&mid=2665922125&idx=7&sn=82bb41858eea8b484527e1899706b5c6)
-
-**Hugging Face - Blog**
- 1. [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
- 2. [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
- 3. [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-
-**游戏葡萄**
- 1. [中30万彩票辞职创业，怕被AI抄袭光速上线，他们冲上畅销Top 3](https://mp.weixin.qq.com/s?__biz=MjM5OTc2ODUxMw==&mid=2650030631&idx=1&sn=00814c9b0b7ea53f608fe144647565cc)
-
-**GitHubStore**
- 1. [一个半月狂揽 7.9 万 Star，一群人用纯 Rust，把 Photoshop 从头写了一遍！](https://mp.weixin.qq.com/s?__biz=MzkxNjQ4MzMyOA==&mid=2247496515&idx=1&sn=fde88793ac4153c8bbb876f313a6bb56)
-
-**阮一峰的网络日志**
- 1. [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
-
-**国家人文历史**
- 1. [“兄台”的“台”，到底是什么台？](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2651089655&idx=1&sn=291d039d0f98575ff6dc8a711abf8a67)
-
-**正和岛**
- 1. [黄仁勋卸任CEO，狠狠上了一课](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651415238&idx=1&sn=3fc65658312029a4a6691a23bb2ff377)
- 2. [十五五开局，北控水务给出水务行业一个“AI+”新样本](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651415238&idx=2&sn=a1284e92c5871725599c43703e9818f4)
- 3. [98后，一个罕见天使轮诞生](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651415238&idx=3&sn=0dce4734464313a0ab83cba72da1199c)
-
-**News from Google**
- 1. [Claim your Google Cloud Credits in Google AI Studio](https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/)
- 2. [Connect Google Wallet to Gemini for personal finance insights](https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/)
-
-**界面文化**
- 1. [谁在定义中国自驾文化？](https://mp.weixin.qq.com/s?__biz=MzI3NzUyMTE3NA==&mid=2247544908&idx=1&sn=e9ba83014f359dff865b0dc38907c379)
-
-**虹膜**
- 1. [刘欢这封感谢信，和他的歌一样感人](https://mp.weixin.qq.com/s?__biz=MzA3NzA1ODQzNA==&mid=2659389440&idx=1&sn=0d752c531bc09d0c8dba69fc48d4362d)
- 2. [齐泽克看了一堆短剧，然后说……](https://mp.weixin.qq.com/s?__biz=MzA3NzA1ODQzNA==&mid=2659389440&idx=2&sn=9569fb428ddbecb0f94e14e6d1bc4c8c)
-
-**The JetBrains Blog**
- 1. [What’s Fixed and Improved in PyCharm 2026.3](https://blog.jetbrains.com/pycharm/2026/11/what-s-fixed-and-improved-in-pycharm-2026-3/)
- 2. [Scaling AI Agents: What We Learned From 9 Real-World Cases](https://blog.jetbrains.com/blog/2026/11/13/scaling-ai-agents-what-we-learned-from-9-real-world-cases/)
-
-**The GitHub Blog**
- 1. [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
-
-**工业设计**
- 1. [100例——工业设计师必看的产品细节图！](https://mp.weixin.qq.com/s?__biz=MjM5ODM3MjUxMg==&mid=2652855994&idx=1&sn=3301d24bc6b009b376daaa6fd9ee424f)
- 2. [玻璃还能织毛衣？加拿大艺术家玩出了新花样！](https://mp.weixin.qq.com/s?__biz=MjM5ODM3MjUxMg==&mid=2652855994&idx=2&sn=742bab45f783c0acc89322a996493ef7)
-
-**Artificial Intelligence**
- 1. [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
- 2. [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
- 3. [Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)
- 4. [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)
- 5. [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)
- 6. [Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)
- 7. [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
-
-**PriceTag发现好应用**
- 1. [¹¹/₁₃ 应用日报｜黄仁勋辞任 NVIDIA CEO，Micrisoft 365 突发大规模长时宕机](https://mp.weixin.qq.com/s?__biz=MzIzOTIwNTI5Nw==&mid=2247536409&idx=1&sn=cf0d886caff13b4af8a25b16e2b20309)
-
-**Simon Willison's Weblog**
- 1. [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/)
- 2. [datasette-leaflet 0.3](https://simonwillison.net/2026/Nov/13/datasette-leaflet/)
-
-**HackerNews每日摘要 on SuperTechFans**
- 1. [2026-11-14 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-14-HackerNews/)
-
-**Stack Overflow Blog**
- 1. [Your coding agent shouldn't grade its own homework](https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/)
- 2. [Agentic search doesn't find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/)
-
-**Cloud Blog**
- 1. [New AI agent observability and governance across BigQuery and Looker](https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/)
- 2. [Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26](https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/)
- 3. [From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB](https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/)
- 4. [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/)
-
-**Cloudflare Blog**
- 1. [Kitesurf is now open source](https://blog.cloudflare.com/kitesurf-open-source/)
- 2. [Adapting to AI penetration testing orchestrators: The Modern Security Model](https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/)
- 3. [Introducing Spend Management: Spending limits and alerts for Cloudflare](https://blog.cloudflare.com/spend-management/)
-
-**InfoQ**
- 1. [Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri](https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
- 2. [Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures](https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
- 3. [Netflix Turns Operational Data Into a Knowledge Graph for AI-Driven Observability](https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
- 4. [Presentation: The Influence Toolkit](https://www.infoq.com/presentations/bbc-software-architecture-influence/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
- 5. [Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary](https://www.infoq.com/podcasts/accountability-age-ai-coding-summary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
- 6. [Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces](https://www.infoq.com/news/2026/11/dropbox-cookie-auditor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
-
-**Barrons巴伦**
- 1. [没有黄仁勋，英伟达还值多少？ | 巴伦投资](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555191&idx=1&sn=e462b27da22b7698a85e66f8e5a70d03)
- 2. [刚敲钟的这家存储公司破发了 | 巴伦港股](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555191&idx=2&sn=5551bb718729ebabedd0a4306918e3f6)
- 3. [中芯国际Q3满产，利润接近翻倍，Q4毛利率恐遇拐点](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555191&idx=3&sn=0f0d2bb1b38a5a192c62f11f46aeee7d)
-
-**The Batch | DeepLearning.AI | AI News & Insights**
- 1. [GPT-6 Cyber Versus Linux, The Problem With LLM-Powered Search, LLMs Edit Model Weights, Agentic Doc Retrieval](https://www.deeplearning.ai/the-batch/issue-379)
-
-**经济学人最新报道**
- 1. [共和党的选区划分操纵究竟失败到什么程度？](https://www.economist.com/interactive/graphic-detail/2026/11/13/how-badly-did-republican-gerrymandering-fail)
- 2. [黄仁勋丑闻波及唐纳德·特朗普的内阁](https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet)
- 3. [女性应该根据月经周期调整自己的生活方式吗？](https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle)
- 4. [2026-11-13 The World this Week - 《封面故事》通讯：是AI崩盘，还是浴缸里的公牛？](https://www.economist.com/the-world-this-week/2026/11/13/cover-story-newsletter-an-ai-crash-or-a-bull-in-the-bath)
- 5. [在人工智能时代教导孩子独立思考](https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai)
- 6. [《经济学人》正在招聘一名“Live Insider Events”活动制作经理](https://www.economist.com/britain/2026/11/13/the-economist-is-hiring-a-production-manager-live-insider-events)
-
-**freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More**
- 1. [How to Speed Up CI in the Age of AI-Written Code](https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/)
- 2. [Schema Drift vs. Semantic Drift in Data Pipelines](https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/)
- 3. [How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript](https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/)
-
-**环球设计**
- 1. [首发 . SCD｜上海新江湾上叠，于繁华都市，守一份静雅从容【环球设计4221期】](https://mp.weixin.qq.com/s?__biz=MjM5MzcxOTcyMQ==&mid=2651796444&idx=1&sn=7b914d67e9827695e63db3254d4c8218)
-
-**Vercel News**
- 1. [Daemons can now send traces to Vercel Tracing](https://vercel.com/changelog/vercel-daemons-can-now-send-traces-to-vercel-tracing)
- 2. [Token Pass now includes $150 in tokens for $30/month](https://vercel.com/changelog/vercel-token-pass-now-includes-one-hundred-fifty-dollars-of-monthly-tokens)
- 3. [Vercel Security Review no longer requires a linked Vercel project](https://vercel.com/changelog/vercel-security-review-no-longer-requires-a-linked-vercel-project)
- 4. [Vercel Sandbox starts up to 4x faster](https://vercel.com/changelog/vercel-sandbox-starts-up-to-four-times-faster)
- 5. [Build cache size limit on Vercel increased to 5 GB](https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb)
- 6. [Parallel Decisions now available on AI Gateway for free](https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free)
-
-**Databricks**
- 1. [OpenAI and Databricks: Enterprise AI on your governed data](https://www.databricks.com/blog/openai-and-databricks-enterprise-ai-your-governed-data)
-
-**NASA**
- 1. [Outbursts from a Massive Star](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/)
- 2. [Gemini Astronaut Photos Inspired Early Earth Observation Program](https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/)
- 3. [APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda](https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/)
- 4. [A Global Rebound for Mangroves](https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/)
-
-**运营研究社**
- 1. [“郑州帮”打法升级：4个人管200个账号，月播放4000万+，素人矩阵现在还有效吗？](https://mp.weixin.qq.com/s?__biz=MzU4MTcxODM2MA==&mid=2247752813&idx=1&sn=440d615cf03e67a993f311437a1114e3)
- 2. [红书、抖音、视频号运营技能地图4.0全域版（运营操盘手必备）](https://mp.weixin.qq.com/s?__biz=MzU4MTcxODM2MA==&mid=2247752813&idx=2&sn=61a043e9f9ae632fbc26d881f8d4e7f5)
- 3. [为什么越专业的运营创业者越难收钱](https://mp.weixin.qq.com/s?__biz=MzU4MTcxODM2MA==&mid=2247752813&idx=3&sn=ca605e28877e1ead94f3efa2deb38d60)
-
-**Wallpaper中文版**
- 1. [当代亚洲设计，如何在流动中寻找“家”？](https://mp.weixin.qq.com/s?__biz=MzI3MTkyOTI1OA==&mid=2247781368&idx=1&sn=48a63434033a0c53436f2a5ebb3bbb4d)
-
-**ByteByteGo Newsletter**
- 1. [Free Live Masterclass: Building AI Agents That Work in the Real World](https://blog.bytebytego.com/p/free-live-masterclass-building-ai)
-
-**AWS Architecture Blog**
- 1. [How Thermo Fisher Scientific built AI-powered patient matching on AWS](https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/)
-
-**Engineering at Meta**
- 1. [Cuttlefish on Mac: Running Android’s Virtual Device Framework Natively on Apple Silicon](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/)
-
-**OpenAI News**
- 1. [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet)
- 2. [Shield helps technicians hand off legacy portal work with OpenAI](https://openai.com/business/customer-stories/shield)
-
-**中国金融四十人论坛**
- 1. [缪延亮：“轻叙事、重现实”验证期，中国资产重估靠基本面](https://mp.weixin.qq.com/s?__biz=MjM5NjgyNDk4NA==&mid=2686359128&idx=1&sn=a71d8a6215c6b56d9756da2d6a4fa02d)
- 2. [CF40招聘 | 研究、市场等岗位开放中](https://mp.weixin.qq.com/s?__biz=MjM5NjgyNDk4NA==&mid=2686359128&idx=2&sn=7d43c3df1489ac3c9382b552388881d7)
+**21世纪经济报道**
+ 1. [黄仁勋一走，英伟达的中枢瘫了](http://weixin.sogou.com/weixin?type=2&query=21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93+%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%80%E8%B5%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%AD%E6%9E%A2%E7%98%AB%E4%BA%86)
+ 2. [下周将有37只个股面临解禁！合计解禁市值超319亿元](http://weixin.sogou.com/weixin?type=2&query=21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93+%E4%B8%8B%E5%91%A8%E5%B0%86%E6%9C%8937%E5%8F%AA%E4%B8%AA%E8%82%A1%E9%9D%A2%E4%B8%B4%E8%A7%A3%E7%A6%81%EF%BC%81%E5%90%88%E8%AE%A1%E8%A7%A3%E7%A6%81%E5%B8%82%E5%80%BC%E8%B6%85319%E4%BA%BF%E5%85%83)
+ 3. [双十一 把财经“读厚”，把认知“装满”](http://weixin.sogou.com/weixin?type=2&query=21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93+%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%8A%8A%E8%B4%A2%E7%BB%8F%E2%80%9C%E8%AF%BB%E5%8E%9A%E2%80%9D%EF%BC%8C%E6%8A%8A%E8%AE%A4%E7%9F%A5%E2%80%9C%E8%A3%85%E6%BB%A1%E2%80%9D)
+ 4. [永辉、盒马、山姆、叮咚都在降！猪肉价格跌到近10年最低，部分比蔬菜还便宜，消费者直呼“这个价格对吗？”](http://weixin.sogou.com/weixin?type=2&query=21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93+%E6%B0%B8%E8%BE%89%E3%80%81%E7%9B%92%E9%A9%AC%E3%80%81%E5%B1%B1%E5%A7%86%E3%80%81%E5%8F%AE%E5%92%9A%E9%83%BD%E5%9C%A8%E9%99%8D%EF%BC%81%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E8%B7%8C%E5%88%B0%E8%BF%9110%E5%B9%B4%E6%9C%80%E4%BD%8E%EF%BC%8C%E9%83%A8%E5%88%86%E6%AF%94%E8%94%AC%E8%8F%9C%E8%BF%98%E4%BE%BF%E5%AE%9C%EF%BC%8C%E6%B6%88%E8%B4%B9%E8%80%85%E7%9B%B4%E5%91%BC%E2%80%9C%E8%BF%99%E4%B8%AA%E4%BB%B7%E6%A0%BC%E5%AF%B9%E5%90%97%EF%BC%9F%E2%80%9D)
+ 5. [APEC会议各项筹备工作已就绪，广东推出218个参访点](http://weixin.sogou.com/weixin?type=2&query=21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93+APEC%E4%BC%9A%E8%AE%AE%E5%90%84%E9%A1%B9%E7%AD%B9%E5%A4%87%E5%B7%A5%E4%BD%9C%E5%B7%B2%E5%B0%B1%E7%BB%AA%EF%BC%8C%E5%B9%BF%E4%B8%9C%E6%8E%A8%E5%87%BA218%E4%B8%AA%E5%8F%82%E8%AE%BF%E7%82%B9)
+
+**《联合早报》-国际-即时**
+ 1. [马克龙：减少对乌克兰援助 将为更多战争埋雷](https://www.zaobao.com/news/world/story20261115-9999873)
+ 2. [意大利表态支持德国加入新世代战机计划](https://www.zaobao.com/news/world/story20261114-9999546)
+ 3. [借上合组织会议契机 巴基斯坦部长三年来首次访印](https://www.zaobao.com/news/world/story20261114-9999524)
+ 4. [亚细安外长重申深化合作 不放松对缅甸立场](https://www.zaobao.com/news/world/story20261114-9998815)
+ 5. [联合国官员促伊美尽快允许化肥船通过霍尔木兹海峡](https://www.zaobao.com/news/world/story20261114-9999437)
+ 6. [未经同意擅取安卓用户照片视频 意大利重罚Meta逾11亿新元](https://www.zaobao.com/news/world/story20261114-9999204)
+ 7. [全美停飞逾四小时取消近万航班 政府：设备老旧酿通信故障](https://www.zaobao.com/news/world/story20261114-9998375)
+ 8. [驻英美军基地现可疑无人机活动](https://www.zaobao.com/news/world/story20261114-9999044)
+ 9. [婚外情曝光前曾否认不当往来 黄仁勋被指误导英伟达高层](https://www.zaobao.com/news/world/story20261114-9999032)
+ 10. [匈牙利调查前总理内阁贪腐案 起获价值超2500万新元现金](https://www.zaobao.com/news/world/story20261114-9998581)
+ 11. [美密西西比河油轮撞翻观光船 180人全数获救](https://www.zaobao.com/news/world/story20261114-9998541)
+ 12. [泽连斯基：美首次提出乌割让顿巴斯 换取加入北约的设想](https://www.zaobao.com/news/world/story20261114-9998468)
+ 13. [驻日美军再传违纪 一空军上尉冲绳涉嫌酒驾被捕](https://www.zaobao.com/news/world/story20261114-9998387)
+ 14. [黄仁勋辞职冲击韩国AI产业 半导体投资与合作添变数](https://www.zaobao.com/news/world/story20261114-9998108)
+ 15. [南苏丹首次全国大选推迟至明年2月举行](https://www.zaobao.com/news/world/story20261114-9998251)
+ 16. [欧洲敲定俄乌和谈代表 俄方尚未承诺让欧洲与会](https://www.zaobao.com/news/world/story20261114-9997748)
+ 17. [美联储报告：AI风险成美国金融稳定最大隐忧](https://www.zaobao.com/news/world/story20261114-9998194)
+ 18. [凭假庭令封锁逾百网站 莫迪召见印度电信部高官问话](https://www.zaobao.com/news/world/story20261114-9998142)
+ 19. [法国新一轮抗议聚焦儿童权益与新警察法案](https://www.zaobao.com/news/world/story20261114-9998048)
+ 20. [伊朗：三艘油轮在霍尔木兹海峡触雷起火](https://www.zaobao.com/news/world/story20261114-9997541)
+ 21. [特斯拉“赛博出租车”邀部分客户购买 供个人使用](https://www.zaobao.com/news/world/story20261114-9997416)
+ 22. [土耳其卡塔尔签署共同防御协议 承诺联手应对外部攻击](https://www.zaobao.com/news/world/story20261114-9997075)
+
+**V2EX - 最热 - 2026-11-14**
+ 1. [[生活] 有小孩了,想每年给小孩存一点钱,大家推荐什么](https://www.v2ex.com/t/1256985#reply63)
+ 2. [[分享创造] iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro](https://www.v2ex.com/t/1257030#reply52)
+ 3. [[推广] GPT 官 Key 免费用。蹬完即止](https://www.v2ex.com/t/1256998#reply37)
+ 4. [[🤖Vibe Coding] 国模真的还可以的](https://www.v2ex.com/t/1257001#reply35)
+ 5. [[科技] 睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了](https://www.v2ex.com/t/1257008#reply31)
+ 6. [[问与答] 很多火的东西，理解不了为什么火](https://www.v2ex.com/t/1256990#reply29)
+ 7. [[MacBook Air] 换了个新 macbook air m5 有没有推荐的软件安装](https://www.v2ex.com/t/1257002#reply27)
+ 8. [[问与答] 求助: 想在寝室搞一个小主机 有推荐么?](https://www.v2ex.com/t/1257109#reply25)
+ 9. [[Wunder] 关于设置中目前提供的 6 种楼中楼样式的 Demo](https://www.v2ex.com/t/1257128#reply24)
+ 10. [[分享创造] 最近做了一个运行在 iPhone 的 agent](https://www.v2ex.com/t/1256987#reply23)
+ 11. [[Android] 有没有 V 友自己搭建过云手机？想实现网页远程操作，不想再用第三方云手机了](https://www.v2ex.com/t/1257073#reply21)
+ 12. [[程序员] 有些程序员（产品经理）的脑回路秀逗了吧？ 就拿咪咕视频来说](https://www.v2ex.com/t/1257021#reply21)
+ 13. [[路由器] 家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）](https://www.v2ex.com/t/1256986#reply21)
+ 14. [[MacBook] 纠结， Mac 有必要买 AC+么](https://www.v2ex.com/t/1257035#reply20)
+ 15. [[分享发现] 会不会有一天再也看不到人写的东西了](https://www.v2ex.com/t/1256988#reply20)
+ 16. [[程序员] 重度使用 Claude Code / Codex 两个月，我怎么感觉自己快废了，反而更焦虑了？](https://www.v2ex.com/t/1257015#reply19)
+ 17. [[分享创造] 我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps](https://www.v2ex.com/t/1257076#reply17)
+ 18. [[Claude] Claude 代充跳 kyc 被封都是不退款的吗](https://www.v2ex.com/t/1257042#reply16)
+ 19. [[站点状态] 20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励](https://www.v2ex.com/t/1257127#reply14)
+ 20. [[程序员] AI 时代，程序员正在慢慢转向产品经理](https://www.v2ex.com/t/1257054#reply14)
+ 21. [[Claude] 分享一下 claude portal kyc 后用护照认证被封但又申诉成功的经历](https://www.v2ex.com/t/1257045#reply14)
+ 22. [[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着](https://www.v2ex.com/t/1257137#reply13)
+ 23. [[分享创造] [网课必备] 为了不想让娃在上网课时不被其他无关 APP 分散注意力， 搓了一个工具 KidFocus](https://www.v2ex.com/t/1257000#reply12)
+ 24. [[问与答] 安卓手机好用的定位修改软件](https://www.v2ex.com/t/1256999#reply11)
+ 25. [[分享创造] 做了个能打断的 AI 语音面试陪练，求拍砖](https://www.v2ex.com/t/1257121#reply10)
+ 26. [[问与答] Muse 续订扣款了但是显示没有订阅](https://www.v2ex.com/t/1257071#reply9)
+ 27. [[Claude] portal 后中国护照验证被封，然后申请解封掉了](https://www.v2ex.com/t/1257064#reply9)
+ 28. [[互联网] 大冰也开始搞 AI 了](https://www.v2ex.com/t/1257059#reply9)
+ 29. [[程序员] xxl-job 是放弃维护了吗？ PG 版本的兼容 PR 提了那么长时间都没人合并，还没有更好的组件选择？](https://www.v2ex.com/t/1257091#reply8)
+ 30. [[OpenAI] ChatGPT 开始让 agent 帮你刷卡付钱了](https://www.v2ex.com/t/1257048#reply8)
+ 31. [[分享创造] 开发了一个 Windows 版类似 typora 的原生 markdown 编辑器，永久免费，欢迎试用。](https://www.v2ex.com/t/1257003#reply8)
+ 32. [[宽带症候群] 杭州动态公网家宽求推荐](https://www.v2ex.com/t/1257101#reply7)
+ 33. [[Claude] 请问上班族, 后端开发, 订阅 claude x5 还是 x20 ?](https://www.v2ex.com/t/1257062#reply7)
+ 34. [[问与答] html 网页，可视化编辑现在用什么工具？](https://www.v2ex.com/t/1257057#reply7)
+ 35. [[程序员] 感觉网上很难找到相对真实的 agent 企业实际项目，都是一些 demo](https://www.v2ex.com/t/1257006#reply7)
+ 36. [[问与答] 微软这次事故压根和 ai 没有关系](https://www.v2ex.com/t/1256996#reply7)
+ 37. [[推广] [🔥狗妈同款三网各自优化线路机] ZgoCloud 洛杉矶三网各自优化精品线路机（CN2GIA CMIN2 9929) 轻度用户自用+中转+落地 最佳配置 机荒时代最好的传家宝](https://www.v2ex.com/t/1257088#reply6)
+ 38. [[推广] 智友社回馈 V 站新老客户，抽送第 14 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3（稳定度 98%）](https://www.v2ex.com/t/1257019#reply6)
+ 39. [[推广] 送码：又一个让你的 Kindle 不吃灰的工具](https://www.v2ex.com/t/1257010#reply6)
+ 40. [[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角](https://www.v2ex.com/t/1257136#reply5)
 
 **虫部落**
- 1. [港股历险记](https://www.chongbuluo.com/thread-25373-1-1.html)
- 2. [生活](https://www.chongbuluo.com/thread-25372-1-1.html)
- 3. [吉他综合教程入门到即兴](https://www.chongbuluo.com/thread-25371-1-1.html)
- 4. [【小说】起点爆款小说汇总+小说超级合集【PDF/mobi/epub】](https://www.chongbuluo.com/thread-25370-1-1.html)
- 5. [也就一个月时间，从携父母领奖，到辞任英伟达 CEO](https://www.chongbuluo.com/thread-25369-1-1.html)
- 6. [三个打字学英语的工具：Qwerty Learner、句乐部、HappyTapper](https://www.chongbuluo.com/thread-25368-1-1.html)
- 7. [Photoshop 2027 v28.0.0 正式版 迎来一次史诗级的进化](https://www.chongbuluo.com/thread-25367-1-1.html)
+ 1. [最火AI短剧【持械入宋】 (2026) 【全十季】「AI真人版 ︱漫剧版 双版本」20GB](https://www.chongbuluo.com/thread-25375-1-1.html)
+ 2. [自家山头的赣南脐橙，第一年自己发帖](https://www.chongbuluo.com/thread-25374-1-1.html)
 
-**新榜**
- 1. [三周拿下超1700个热搜，《后会友期》让谁拿下了“大芒果”？](https://mp.weixin.qq.com/s?__biz=MzAwMjE1NjcxMg==&mid=2654846683&idx=1&sn=c77b43ed7ac9a512fa700dac658dd7ec)
- 2. [超26亿播放，“反大女主”婆媳剧走红；单亲奶爸带娃修仙，漫剧连更1000集 | 短剧周榜](https://mp.weixin.qq.com/s?__biz=MzAwMjE1NjcxMg==&mid=2654846683&idx=2&sn=038fea4d4f7f8f2f7ab41f249d9dcf1d)
-
-**Nature**
- 1. [Number of international students arriving in US plunges — worrying scientists](https://www.nature.com/articles/d41586-026-03668-x)
- 2. [Chinese graduate students are now choosing to stay closer to home](https://www.nature.com/articles/d41586-026-03456-7)
- 3. [Accept all changes](https://www.nature.com/articles/d41586-026-03516-y)
- 4. [This AI ‘mechanic’ can peer inside the black box of other neural networks](https://www.nature.com/articles/d41586-026-03679-8)
- 5. [Is the climate totally cooked? What the data say](https://www.nature.com/articles/d41586-026-03716-6)
-
-**Vista看天下**
- 1. [实行消费入座，主打“第三空间”的星巴克、西西弗“变味”了吗？](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E5%AE%9E%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7%EF%BC%8C%E4%B8%BB%E6%89%93%E2%80%9C%E7%AC%AC%E4%B8%89%E7%A9%BA%E9%97%B4%E2%80%9D%E7%9A%84%E6%98%9F%E5%B7%B4%E5%85%8B%E3%80%81%E8%A5%BF%E8%A5%BF%E5%BC%97%E2%80%9C%E5%8F%98%E5%91%B3%E2%80%9D%E4%BA%86%E5%90%97%EF%BC%9F)
- 2. [借出去的4万元成了催命符，商场花坛藏尸28年的凶手是她曾帮衬的“闺蜜”](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E5%80%9F%E5%87%BA%E5%8E%BB%E7%9A%844%E4%B8%87%E5%85%83%E6%88%90%E4%BA%86%E5%82%AC%E5%91%BD%E7%AC%A6%EF%BC%8C%E5%95%86%E5%9C%BA%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B828%E5%B9%B4%E7%9A%84%E5%87%B6%E6%89%8B%E6%98%AF%E5%A5%B9%E6%9B%BE%E5%B8%AE%E8%A1%AC%E7%9A%84%E2%80%9C%E9%97%BA%E8%9C%9C%E2%80%9D)
- 3. [刷屏全网的红果“智商天花板”，秒杀内娱一半古装剧](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E5%88%B7%E5%B1%8F%E5%85%A8%E7%BD%91%E7%9A%84%E7%BA%A2%E6%9E%9C%E2%80%9C%E6%99%BA%E5%95%86%E5%A4%A9%E8%8A%B1%E6%9D%BF%E2%80%9D%EF%BC%8C%E7%A7%92%E6%9D%80%E5%86%85%E5%A8%B1%E4%B8%80%E5%8D%8A%E5%8F%A4%E8%A3%85%E5%89%A7)
-
-**爱范儿**
- 1. [余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元](https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=)
- 2. [iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年](https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=)
- 3. [李飞飞最新世界模型正式开放，我用它一句话造出重庆山城](https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=)
- 4. [黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归](https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=)
- 5. [AI 时代，公司的「新厂房」长什么样？](https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=)
- 6. [早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口](https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=)
-
-**InfoQ 推荐**
- 1. [从快速部署到记忆共享，数据库如何支撑 Agent 应用？](https://www.infoq.cn/article/FwbOyyfoAmkQPMTItMDN)
- 2. [智能互动 Agent 在快手商业场景的落地实践](https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo)
- 3. [容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体](https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2)
- 4. [在银行业为基于 Kubernetes 的平台打造云原生文化](https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5)
- 5. [奥运史上第一次，一朵云整体留给了举办国](https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi)
- 6. [应用只是冰山一角：构建大规模移动应用基础设施需要什么](https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf)
- 7. [黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价](https://www.infoq.cn/article/rFGveY8SswQhcMjroStB)
- 8. [Docker 呼吁通过隔离与治理保障智能体安全](https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA)
- 9. [GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京](https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx)
- 10. [谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型](https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje)
-
-**扫地老僧的Blog**
- 1. [饺子到底是从哪儿来的](https://doyj.com/2026/11/13/%e9%a5%ba%e5%ad%90%e5%88%b0%e5%ba%95%e6%98%af%e4%bb%8e%e5%93%aa%e5%84%bf%e6%9d%a5%e7%9a%84/)
- 2. [把知识从脑子里搬出去](https://doyj.com/2026/11/13/%e6%8a%8a%e7%9f%a5%e8%af%86%e4%bb%8e%e8%84%91%e5%ad%90%e9%87%8c%e6%90%ac%e5%87%ba%e5%8e%bb/)
-
-**Axios每日简报**
- 1. [Axios每日简报 2026-11-13](https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20261113.md)
+**Android Police**
+ 1. [I used Gemini to track my credit card bills; I never missed a payment ever again](https://www.androidpolice.com/gemini-track-credit-card-bills-payments/)
+ 2. [I replaced learning apps with Gemini Guided Learning; it remembers my progress and adapts to my pace](https://www.androidpolice.com/replaced-learning-apps-with-gemini-guided-learning-remembers-progress-adapts-to-pace/)
+ 3. [Google Wallet now lets you scan and track receipts; here's how to use it](https://www.androidpolice.com/google-wallet-now-lets-you-scan-and-track-receipts-heres-how-to-use-it/)
+ 4. [I star flight details and door codes in Google Messages to skip frustrating search menus](https://www.androidpolice.com/star-flight-details-door-codes-google-messages-skip-frustrating-search-menus/)
+ 5. [Bose's Noise Cancelling Wired Earbuds made me miss simple tech](https://www.androidpolice.com/bose-noise-cancelling-wired-earbuds-review/)
+ 6. [Gemini's true power comes from the tweaks nobody wants to talk about](https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/)
+ 7. [This $100 Google Play gift card is down to $92 right now](https://www.androidpolice.com/dont-miss-out-this-google-play-100-gift-card-is-now-just-92/)
+ 8. [I played WoW Forever on my Galaxy Z Fold 8, and it performed perfectly](https://www.androidpolice.com/heres-how-to-play-world-of-warcraft-forever-on-your-smartphone/)
+ 9. [The Motorola Signature 27 is a spec monster, but that's not enough to beat Samsung](https://www.androidpolice.com/motorola-signature-27-spec-monster-not-enough-to-beat-samsung/)
 
 **中国国家地理**
- 1. [从海底到宇宙，人类的脑洞有多大？](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+%E4%BB%8E%E6%B5%B7%E5%BA%95%E5%88%B0%E5%AE%87%E5%AE%99%EF%BC%8C%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%84%91%E6%B4%9E%E6%9C%89%E5%A4%9A%E5%A4%A7%EF%BC%9F)
- 2. [巫山红叶正迎来最佳观赏期！](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+%E5%B7%AB%E5%B1%B1%E7%BA%A2%E5%8F%B6%E6%AD%A3%E8%BF%8E%E6%9D%A5%E6%9C%80%E4%BD%B3%E8%A7%82%E8%B5%8F%E6%9C%9F%EF%BC%81)
-
-**国家人文历史**
- 1. [“兄台”的“台”，到底是什么台？](http://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2+%E2%80%9C%E5%85%84%E5%8F%B0%E2%80%9D%E7%9A%84%E2%80%9C%E5%8F%B0%E2%80%9D%EF%BC%8C%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E5%8F%B0%EF%BC%9F)
+ 1. [8张图，带你看中国最美的湖中桥](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86+8%E5%BC%A0%E5%9B%BE%EF%BC%8C%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%9C%80%E7%BE%8E%E7%9A%84%E6%B9%96%E4%B8%AD%E6%A1%A5)
 
 **青年文摘**
- 1. [安静还是奔波？](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E5%AE%89%E9%9D%99%E8%BF%98%E6%98%AF%E5%A5%94%E6%B3%A2%EF%BC%9F)
- 2. [人这一生，只有4000周：算完这笔账，我再也不敢催孩子“快点”了](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E4%BA%BA%E8%BF%99%E4%B8%80%E7%94%9F%EF%BC%8C%E5%8F%AA%E6%9C%894000%E5%91%A8%EF%BC%9A%E7%AE%97%E5%AE%8C%E8%BF%99%E7%AC%94%E8%B4%A6%EF%BC%8C%E6%88%91%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%82%AC%E5%AD%A9%E5%AD%90%E2%80%9C%E5%BF%AB%E7%82%B9%E2%80%9D%E4%BA%86)
- 3. [想订 2027 年《青年文摘》？现在可以看看了](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E6%83%B3%E8%AE%A2%202027%20%E5%B9%B4%E3%80%8A%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98%E3%80%8B%EF%BC%9F%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BA%86)
-
-**少数派**
- 1. [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
- 2. [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
- 3. [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512)
- 4. [派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
+ 1. [人真的能被几个字母说清楚吗？](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E4%BA%BA%E7%9C%9F%E7%9A%84%E8%83%BD%E8%A2%AB%E5%87%A0%E4%B8%AA%E5%AD%97%E6%AF%8D%E8%AF%B4%E6%B8%85%E6%A5%9A%E5%90%97%EF%BC%9F)
+ 2. [想订 2027 年《青年文摘》？现在可以看看了](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E6%83%B3%E8%AE%A2%C2%A02027%C2%A0%E5%B9%B4%E3%80%8A%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98%E3%80%8B%EF%BC%9F%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BA%86)
+ 3. [不要因为懒而自责，突然勤快指不定捅多大篓子呢](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E6%87%92%E8%80%8C%E8%87%AA%E8%B4%A3%EF%BC%8C%E7%AA%81%E7%84%B6%E5%8B%A4%E5%BF%AB%E6%8C%87%E4%B8%8D%E5%AE%9A%E6%8D%85%E5%A4%9A%E5%A4%A7%E7%AF%93%E5%AD%90%E5%91%A2)
+ 4. [为什么说宝玉和黛玉注定要相爱](http://weixin.sogou.com/weixin?type=2&query=%E9%9D%92%E5%B9%B4%E6%96%87%E6%91%98+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%AE%9D%E7%8E%89%E5%92%8C%E9%BB%9B%E7%8E%89%E6%B3%A8%E5%AE%9A%E8%A6%81%E7%9B%B8%E7%88%B1)
 
 **吴晓波频道**
- 1. [央行发布货币政策报告，离岸信托个税申报超1600亿 | 财经日日评](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+%E5%A4%AE%E8%A1%8C%E5%8F%91%E5%B8%83%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%8A%A5%E5%91%8A%EF%BC%8C%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E4%B8%AA%E7%A8%8E%E7%94%B3%E6%8A%A5%E8%B6%851600%E4%BA%BF%20%7C%20%E8%B4%A2%E7%BB%8F%E6%97%A5%E6%97%A5%E8%AF%84)
- 2. [吴晓波对谈牟笑迎：中国AI基建在三五年内有可能超过美国吗？](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+%E5%90%B4%E6%99%93%E6%B3%A2%E5%AF%B9%E8%B0%88%E7%89%9F%E7%AC%91%E8%BF%8E%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%9F%BA%E5%BB%BA%E5%9C%A8%E4%B8%89%E4%BA%94%E5%B9%B4%E5%86%85%E6%9C%89%E5%8F%AF%E8%83%BD%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD%E5%90%97%EF%BC%9F)
+ 1. [SpaceX特斯拉合并获进展，美联储明年议息减至7次 | 财经日日评](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+SpaceX%E7%89%B9%E6%96%AF%E6%8B%89%E5%90%88%E5%B9%B6%E8%8E%B7%E8%BF%9B%E5%B1%95%EF%BC%8C%E7%BE%8E%E8%81%94%E5%82%A8%E6%98%8E%E5%B9%B4%E8%AE%AE%E6%81%AF%E5%87%8F%E8%87%B37%E6%AC%A1%20%7C%20%E8%B4%A2%E7%BB%8F%E6%97%A5%E6%97%A5%E8%AF%84)
+ 2. [走进产业带之后，我们重新认识了中国企业的出海难题](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+%E8%B5%B0%E8%BF%9B%E4%BA%A7%E4%B8%9A%E5%B8%A6%E4%B9%8B%E5%90%8E%EF%BC%8C%E6%88%91%E4%BB%AC%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9A%84%E5%87%BA%E6%B5%B7%E9%9A%BE%E9%A2%98)
+ 3. [黄仁勋离职带崩英伟达显卡？我们问了问华强北](http://weixin.sogou.com/weixin?type=2&query=%E5%90%B4%E6%99%93%E6%B3%A2%E9%A2%91%E9%81%93+%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A6%BB%E8%81%8C%E5%B8%A6%E5%B4%A9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%BE%E5%8D%A1%EF%BC%9F%E6%88%91%E4%BB%AC%E9%97%AE%E4%BA%86%E9%97%AE%E5%8D%8E%E5%BC%BA%E5%8C%97)
 
-**企鹅吃喝指南**
- 1. [大促最后几小时，这些不会你还没买吧？！](https://mp.weixin.qq.com/s?__biz=MjM5Mzc5NTk1OQ==&mid=2653850089&idx=1&sn=5ecf00653d5df6b0a6a7e589e0173763)
+**Vista看天下**
+ 1. [Vista看天下公众号招聘户外运动、科技领域作者（外约）](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B%E5%85%AC%E4%BC%97%E5%8F%B7%E6%8B%9B%E8%81%98%E6%88%B7%E5%A4%96%E8%BF%90%E5%8A%A8%E3%80%81%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E4%BD%9C%E8%80%85%EF%BC%88%E5%A4%96%E7%BA%A6%EF%BC%89)
+ 2. [“把老板带回来”，黄仁勋辞职后，英伟达员工先坐不住了](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E2%80%9C%E6%8A%8A%E8%80%81%E6%9D%BF%E5%B8%A6%E5%9B%9E%E6%9D%A5%E2%80%9D%EF%BC%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E5%90%8E%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%98%E5%B7%A5%E5%85%88%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86)
+ 3. [过世两个月后突然“复活”，这百万粉网红再露面却让网友吵翻](http://weixin.sogou.com/weixin?type=2&query=Vista%E7%9C%8B%E5%A4%A9%E4%B8%8B+%E8%BF%87%E4%B8%96%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%90%8E%E7%AA%81%E7%84%B6%E2%80%9C%E5%A4%8D%E6%B4%BB%E2%80%9D%EF%BC%8C%E8%BF%99%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%86%8D%E9%9C%B2%E9%9D%A2%E5%8D%B4%E8%AE%A9%E7%BD%91%E5%8F%8B%E5%90%B5%E7%BF%BB)
 
-**奶昔论坛**
- 1. [CTM漫游傾体验](https://forum.naixi.net/thread-16473-1-1.html)
- 2. [一代人有一代人要领的鸡蛋-instabox.sh](https://forum.naixi.net/thread-16472-1-1.html)
- 3. [血亏4000人民币，孩子被topcashback和shopbcak反薅了，快来救救孩子](https://forum.naixi.net/thread-16471-1-1.html)
- 4. [离谱的esim.cc](https://forum.naixi.net/thread-16470-1-1.html)
+**中新网即时新闻**
+ 1. [高铁开窗会把人吸出去？新鲜空气从哪来？高铁“呼吸系统”揭秘](https://www.chinanews.com.cn/sh/2026/11-15/10732215.shtml)
+ 2. [11月15日新闻早报](https://www.chinanews.com.cn/iframe/2026/11-15/10732213.shtml)
+ 3. [2026伦敦金融城市长巡游举行 “你好！中国”主题花车亮相](https://www.chinanews.com.cn/hr/2026/11-15/10732212.shtml)
+ 4. [两球零封马来西亚 中国男足终结三连败](https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml)
+ 5. [在柬埔寨金边“法语国家文化村”感受多元文化魅力](https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml)
+ 6. [英国格拉斯哥公寓楼发生蓄意纵火案 15人送医](https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml)
+ 7. [速度滑冰世界杯北京站第二日 中国队收获2金2铜](https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml)
+ 8. [跨越山海照亮万家！一度电，如何点亮亚太合作之光？](https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml)
+ 9. [APEC朋友圈丨中国无人机如何改变智利农田](https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml)
+ 10. [期待！总台《非遗里的中国》特展即将亮相深圳](https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml)
+
+**国家人文历史**
+ 1. [“神级选角”！谁在荧幕上“成为”历史人物？](http://weixin.sogou.com/weixin?type=2&query=%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2+%E2%80%9C%E7%A5%9E%E7%BA%A7%E9%80%89%E8%A7%92%E2%80%9D%EF%BC%81%E8%B0%81%E5%9C%A8%E8%8D%A7%E5%B9%95%E4%B8%8A%E2%80%9C%E6%88%90%E4%B8%BA%E2%80%9D%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%EF%BC%9F)
+
+**经济学人最新报道**
+ 1. [《The Bottom Line》通讯：英伟达将焕然一新](https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same)
+ 2. [《制衡》通讯：选票倡议向我们揭示了美国怎样的面貌？](https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america)
+
+**InfoQ 推荐**
+ 1. [GitHub Actions 锁文件功能正式可用，保障工作流依赖安全](https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc)
+ 2. [AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突](https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D)
+ 3. [从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京](https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa)
+
+**Axios每日简报**
+ 1. [Axios每日简报 2026-11-14](https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20261114.md)
 
 **奇客Solidot–传递最新科技情报**
- 1. [旅行者 1 号距离地球的距离达到一光日](https://www.solidot.org/story?sid=85883)
- 2. [非洲加速发展太阳能](https://www.solidot.org/story?sid=85882)
- 3. [台积电内部员工数据泄露](https://www.solidot.org/story?sid=85881)
- 4. [地球冰冻圈不再处于安全运行空间内](https://www.solidot.org/story?sid=85880)
- 5. [《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6](https://www.solidot.org/story?sid=85879)
- 6. [英伟达员工请愿让黄仁勋复职](https://www.solidot.org/story?sid=85878)
- 7. [无印良品客户信用卡数据泄露](https://www.solidot.org/story?sid=85877)
- 8. [美国扣押了从币安盗走的逾 12 亿美元加密货币](https://www.solidot.org/story?sid=85876)
- 9. [微软云服务全球宕机](https://www.solidot.org/story?sid=85875)
+ 1. [美国失去麻疹消除地位](https://www.solidot.org/story?sid=85889)
+ 2. [天问四号将尝试登陆木卫四](https://www.solidot.org/story?sid=85887)
+ 3. [微软云服务宕机持续逾 24 小时](https://www.solidot.org/story?sid=85886)
+ 4. [美国历史上第三次航班大停飞](https://www.solidot.org/story?sid=85884)
 
-**MongoDB | Blog**
- 1. [How to Model an Insurance Policy Without Joining Dozens of Tables](https://www.mongodb.com/company/blog/innovation/how-model-insurance-policy-without-joining-dozens-tables)
+**虎嗅**
+ 1. [BLG终夺冠，LPL苦等五年终现曙光](https://www.huxiu.com/article/4905664.html?f=rss)
+ 2. [德国可能失去下一代奔驰车型生产的机会](https://www.huxiu.com/article/4905663.html?f=rss)
+ 3. [你再小众文艺，你逃得过红果引力吗？](https://www.huxiu.com/article/4904821.html?f=rss)
+ 4. [德国本土的汽车工业正在经历一次大收缩](https://www.huxiu.com/article/4905659.html?f=rss)
+ 5. [杀疯了的恋陪剧本杀](https://www.huxiu.com/article/4905657.html?f=rss)
 
-**Latent Space**
- 1. [[AINews] Jensen Huang resigns after 33 years leading NVIDIA](https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/)
- 2. [AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"](https://latent.space/p/artcraft/)
+**老左笔记**
+ 1. [RAKSmart 新增美国ISP DIA VPS 解锁流媒体和AI平台测试](https://www.laozuo.org/33652.html)
+ 2. [体验RAKSmart美国CN2精品VPS线路和速度 G口带宽 电信CN2GIA](https://www.laozuo.org/33645.html)
+
+**少数派**
+ 1. [怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
 
 **槽边往事**
- 1. [起立一下是应该的](https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html)
+ 1. [无需敌人的喜欢](https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html)
 
-**商业就是这样**
- 1. [特番｜从做题家变成出题家，才能为硬技术找新用途](https://www.xiaoyuzhoufm.com/episode/6af5ba9b3caef3b52f54d120)
-
-**安全客-有思想的安全新媒体**
- 1. [3.5万个Grok应用不用登录就能打开，泄露的是马斯克自己公司的工资表](https://www.anquanke.com/post/id/316476)
- 2. [大模型狂奔三年，百度词元所重新定义AI生意](https://www.anquanke.com/post/id/316469)
-
-**人民日报**
- 1. [01版 -  纪念孙中山先生诞辰160周年大会在京举行](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190940.html)
- 2. [01版 -  李强主持国务院第二十二次专题学习](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190941.html)
- 3. [01版 -  韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190942.html)
- 4. [02版 -  在纪念孙中山先生诞辰160周年大会上的讲话](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190943.html)
- 5. [02版 -  强根铸魂事业兴](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190944.html)
- 6. [02版 - “今天，我看到了‘未来之城’”](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190945.html)
- 7. [03版 -  “把发展的希望播撒在非洲乡间”（共创繁荣发展新时代）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190946.html)
- 8. [03版 -  日本细菌战又添新证，历史不容翻篇（国际论坛）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190947.html)
- 9. [03版 -  韩正出席《联合国气候变化框架公约》第三十一次缔约方大会安塔利亚领导人峰会并作国别发言](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190948.html)
- 10. [03版 -  何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190949.html)
- 11. [03版 -  “为亚太经济增长开辟更广阔空间”（APEC中国年：开放 创新 合作）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190950.html)
- 12. [03版 -  一路开放  一路同行（大使随笔·APEC中国年：开放 创新 合作）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190951.html)
- 13. [03版 -  2026中美政党对话举行](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190952.html)
- 14. [03版 -  韩国外长赵显将访华](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190953.html)
- 15. [03版 -  2026中韩青年可持续发展对话举办](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190954.html)
- 16. [04版 -  学习贯彻党的二十届五中全会精神中央宣讲团在外交部、中央组织部机关、内蒙古、湖北、云南宣讲（学习贯彻党的二十届五中全会精神）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190955.html)
- 17. [04版 -  从“一呼百应”读懂人心力量（人民论坛）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190956.html)
- 18. [04版 -  晋谒衣冠冢仪式在京举行](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190957.html)
- 19. [04版 -  《纪念孙中山先生诞辰160周年》纪念邮票发行](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190958.html)
- 20. [04版 -  香港举行孙中山先生诞辰160周年纪念仪式](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190959.html)
- 21. [04版 -  台湾各界纪念孙中山先生诞辰160周年](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190960.html)
- 22. [04版 -  澳门举办纪念孙中山先生诞辰160周年图片展](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190961.html)
- 23. [04版 -  国务院任免国家工作人员](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190962.html)
- 24. [04版 -  首都高校新生同上“强国复兴有我”大思政课](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190963.html)
- 25. [04版 -  全国城市联合招聘高校毕业生秋季专场推出第三批服务活动](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190964.html)
- 26. [04版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190965.html)
- 27. [04版 -  一版责编：胡安琪  赵  政  张宇杰 二版责编：吕  莉  张安宇  陈  震 三版责编：韩晓明  姜  波  关皓宇 四版责编：刘  念  韩春瑶  崔  斌](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190966.html)
- 28. [05版 -  人工智能时代，技能人才何为（连线评论员）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190967.html)
- 29. [05版 -  为民造福是永远的落脚点（现场评论）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190968.html)
- 30. [05版 -  让科学种子在追问中萌发（中国道路中国梦·青春为中国式现代化挺膺担当64）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190969.html)
- 31. [05版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190970.html)
- 32. [05版 -  真正的领先，不惧开放共享（人民锐评）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190971.html)
- 33. [05版 -  政策更精准，发展增实效（微观）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190972.html)
- 34. [05版 -  欢迎赐稿](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190973.html)
- 35. [05版 -  本版责编：李  拯  常  晋  余  璇](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190974.html)
- 36. [06版 -  进一步完善党和国家监督体系（学习贯彻党的二十届五中全会精神）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190975.html)
- 37. [06版 -  全国人大常委会旅游法执法检查组举行第二次全体会议](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190976.html)
- 38. [06版 -  为人才强国建设提供坚实法治保障](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190977.html)
- 39. [06版 -  第二届全国全民健身大赛总决赛举行](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190978.html)
- 40. [06版 -  强根铸魂事业兴](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190979.html)
- 41. [06版 -  国内成品油价格下调](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190980.html)
- 42. [06版 -  本版责编：管璇悦  张伟昊  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190981.html)
- 43. [07版 -  凤凰台上  家国长歌（铸牢共同体  中华一家亲）](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190982.html)
- 44. [07版 -  我国新疆地区历史研究的新突破](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190983.html)
- 45. [07版 -  市场监管“首违不罚”有了统一标准](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190984.html)
- 46. [07版 -  万商云集  货通天下 浙江义乌持续书写“小商品、大市场”的繁荣篇章](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190985.html)
- 47. [07版 -  本版责编：季健明  赵晓曦  李佩阳](http://paper.people.com.cn/rmrb/pc/content/202611/13/content_30190986.html)
-
-**张小珺Jùn｜商业访谈录**
- 1. [156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”](https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac)
+**奶昔论坛**
+ 1. [免费接码服务，貌似是一人一码，苏丹号码](https://forum.naixi.net/thread-16493-1-1.html)
+ 2. [刚看到的，免费领英国esim，真假未知](https://forum.naixi.net/thread-16488-1-1.html)
+ 3. [出几张大湾区电信蓝卡](https://forum.naixi.net/thread-16487-1-1.html)
+ 4. [出9esim v3](https://forum.naixi.net/thread-16486-1-1.html)
+ 5. [有偿找人帮我激活tello的漫游功能](https://forum.naixi.net/thread-16485-1-1.html)
+ 6. [Claude里的这个是啥？](https://forum.naixi.net/thread-16484-1-1.html)
+ 7. [Microsoft Reward 守望先锋2 1000金币 兑换奖品有货了！](https://forum.naixi.net/thread-16483-1-1.html)
+ 8. [Zilch开户详细教程 奖励升级 赠送￡10（需要走AFF）](https://forum.naixi.net/thread-16482-1-1.html)
+ 9. [关于小白卡nekokolpa切卡总是报错](https://forum.naixi.net/thread-16481-1-1.html)
+ 10. [【10英镑羊毛】Zilch注册送10英镑羊毛，需要英国信用，这个也可以用来养信用](https://forum.naixi.net/thread-16480-1-1.html)
+ 11. [香港电话卡实名制拟收紧　每家电信商限登记3张储值卡　拟强制用智方便](https://forum.naixi.net/thread-16479-1-1.html)
+ 12. [河北联通宽带晚高峰下行限速1Mbps，上行正常](https://forum.naixi.net/thread-16478-1-1.html)
+ 13. [【人找车】找一个DMIT的车](https://forum.naixi.net/thread-16476-1-1.html)
+ 14. [要订阅GPT等AI，需要U卡，老哥们有什么推荐的？](https://forum.naixi.net/thread-16475-1-1.html)
+ 15. [有没有特别便宜的VPS。免费最好。](https://forum.naixi.net/thread-16474-1-1.html)
 
 **十点读书**
- 1. [教养越好的人，越不适合在底层生活](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E6%95%99%E5%85%BB%E8%B6%8A%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%B6%8A%E4%B8%8D%E9%80%82%E5%90%88%E5%9C%A8%E5%BA%95%E5%B1%82%E7%94%9F%E6%B4%BB)
- 2. [强烈建议，周末带孩子做有反差感的事](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%EF%BC%8C%E5%91%A8%E6%9C%AB%E5%B8%A6%E5%AD%A9%E5%AD%90%E5%81%9A%E6%9C%89%E5%8F%8D%E5%B7%AE%E6%84%9F%E7%9A%84%E4%BA%8B)
- 3. [中年无性成常态：那些憋回去的性需求，都去哪了](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E4%B8%AD%E5%B9%B4%E6%97%A0%E6%80%A7%E6%88%90%E5%B8%B8%E6%80%81%EF%BC%9A%E9%82%A3%E4%BA%9B%E6%86%8B%E5%9B%9E%E5%8E%BB%E7%9A%84%E6%80%A7%E9%9C%80%E6%B1%82%EF%BC%8C%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86)
+ 1. [成年后，这1个人不必常联系，原因很现实](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E6%88%90%E5%B9%B4%E5%90%8E%EF%BC%8C%E8%BF%991%E4%B8%AA%E4%BA%BA%E4%B8%8D%E5%BF%85%E5%B8%B8%E8%81%94%E7%B3%BB%EF%BC%8C%E5%8E%9F%E5%9B%A0%E5%BE%88%E7%8E%B0%E5%AE%9E)
+ 2. [真的不建议你用这种枕头，可能损伤脑血管](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%A0%E7%94%A8%E8%BF%99%E7%A7%8D%E6%9E%95%E5%A4%B4%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%8D%9F%E4%BC%A4%E8%84%91%E8%A1%80%E7%AE%A1)
+ 3. [一个磁场很干净的女人，身上都有这4个特征，你占了几个](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E4%B8%80%E4%B8%AA%E7%A3%81%E5%9C%BA%E5%BE%88%E5%B9%B2%E5%87%80%E7%9A%84%E5%A5%B3%E4%BA%BA%EF%BC%8C%E8%BA%AB%E4%B8%8A%E9%83%BD%E6%9C%89%E8%BF%994%E4%B8%AA%E7%89%B9%E5%BE%81%EF%BC%8C%E4%BD%A0%E5%8D%A0%E4%BA%86%E5%87%A0%E4%B8%AA)
+ 4. [城里的“假有钱人”越来越多了。买得起100万的房子，20万的车，却拿不出10万现金，2千的物业费都发愁](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E5%9F%8E%E9%87%8C%E7%9A%84%E2%80%9C%E5%81%87%E6%9C%89%E9%92%B1%E4%BA%BA%E2%80%9D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%E3%80%82%E4%B9%B0%E5%BE%97%E8%B5%B7100%E4%B8%87%E7%9A%84%E6%88%BF%E5%AD%90%EF%BC%8C20%E4%B8%87%E7%9A%84%E8%BD%A6%EF%BC%8C%E5%8D%B4%E6%8B%BF%E4%B8%8D%E5%87%BA10%E4%B8%87%E7%8E%B0%E9%87%91%EF%BC%8C2%E5%8D%83%E7%9A%84%E7%89%A9%E4%B8%9A%E8%B4%B9%E9%83%BD%E5%8F%91%E6%84%81)
+ 5. [金鸡奖最扎心一幕！20亿票房《给阿嫲的情书》获奖，全场无人鼓掌！中国文化才是根](http://weixin.sogou.com/weixin?type=2&query=%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6+%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E6%89%8E%E5%BF%83%E4%B8%80%E5%B9%95%EF%BC%8120%E4%BA%BF%E7%A5%A8%E6%88%BF%E3%80%8A%E7%BB%99%E9%98%BF%E5%AB%B2%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E8%8E%B7%E5%A5%96%EF%BC%8C%E5%85%A8%E5%9C%BA%E6%97%A0%E4%BA%BA%E9%BC%93%E6%8E%8C%EF%BC%81%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E6%89%8D%E6%98%AF%E6%A0%B9)
 
 **新頭殼站上新聞**
- 1. [高市青年局力挺青創品牌    「B’f美學進行式」行動回饋高雄時尚大賞](https://newtalk.tw/news/view/2026-11-14/1071107)
- 2. [歐洲超市冰箱遭大規模網攻 美財長指伊朗人用中國AI模型犯案：最糟糕組合](https://newtalk.tw/news/view/2026-11-14/1071098)
- 3. [從鮮果到百變食材    台灣香蕉加工創新開拓新商機](https://newtalk.tw/news/view/2026-11-14/1071105)
- 4. [油輪撞擊紐奧良港河輪約130名乘客受困　已展開救援行動](https://newtalk.tw/news/view/2026-11-14/1071106)
- 5. [典型華南雲系東移！鄭明典示警降雨系統「不像鋒面」 慎防局部大雨](https://newtalk.tw/news/view/2026-11-14/1071104)
- 6. [黃仁勳黯然下台！美股主指漲跌互現 輝達續跌2.01%、台積電ADR跌1.69%](https://newtalk.tw/news/view/2026-11-14/1071101)
- 7. [黃仁勳辭職震撼全球科技界！ 矢板明夫揭三大負面影響：對台灣是重大損失](https://newtalk.tw/news/view/2026-11-13/1071096)
- 8. [兩千人嗨唱粉紅超跑！蘇巧慧三重音樂會  再提打造「三重2.0」](https://newtalk.tw/news/view/2026-11-13/1071095)
- 9. [德國國會通過強化網路安全法　擴大政府防禦網攻權限](https://newtalk.tw/news/view/2026-11-13/1071093)
-
-**成年人版十万个为什么**
- 1. [为什么国内反fu的力度越来越大？](qtp35504961)
-
-**忽左忽右**
- 1. [516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮](https://www.xiaoyuzhoufm.com/episode/6af6e5b03caef3b52f5543d4)
-
-**游荡集**
- 1. [Vol.103 韶关的午夜，形散而神散](https://www.xiaoyuzhoufm.com/episode/6af58cda14d01a26f8a8da16)
-
-**Hacker News Daily**
- 1. [Daily Hacker News for 2026-11-12](https://www.daemonology.net/hn-daily/2026-11-12.html)
-
-**知行小酒馆**
- 1. [E258 这个东西，我真的好想要！｜小酒馆故事会🍻](https://www.xiaoyuzhoufm.com/episode/6af6b7ca14d01a26f8a94459)
-
-**晚点聊 LateTalk**
- 1. [对话 LiberAI 刘松铭：Astra来袭，00后物理AI创始人看到的胜率](https://www.xiaoyuzhoufm.com/episode/6af5e82d3caef3b52f54e5d0)
-
-**独树不成林**
- 1. [377-黄仁勋出局事件如何继续暴露美国右翼的严重内斗？](https://www.xiaoyuzhoufm.com/episode/6af6a0ca14d01a26f8a937ef)
-
-**一天一篇经济学人(双语)**
- 1. [糙米真的比白米健康吗？| 经济学人科技（双语译文）](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%B3%99%E7%B1%B3%E7%9C%9F%E7%9A%84%E6%AF%94%E7%99%BD%E7%B1%B3%E5%81%A5%E5%BA%B7%E5%90%97%EF%BC%9F%7C%20%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%A7%91%E6%8A%80%EF%BC%88%E5%8F%8C%E8%AF%AD%E8%AF%91%E6%96%87%EF%BC%89)
- 2. [给自己一年时间，慢慢读懂《经济学人》](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B)
-
-**东腔西调**
- 1. [Vol.291｜杂吧地：天桥艺人和他们的江湖｜嘉宾：岳永逸×孟庆延](https://www.xiaoyuzhoufm.com/episode/6af583853caef3b52f54b567)
-
-**Hacker News: Front Page**
- 1. [What happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
- 2. [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)
- 3. [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
- 4. [How Not to Build a Music Player](https://alichraghi.github.io/blog/how-not-to-build-a-music-player/)
- 5. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-
-**小众软件**
- 1. [赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent](https://www.appinn.com/egg-instabox/)
- 2. [本周赛博领鸡蛋（11.13~11.19）：《斗阵骑士》](https://www.appinn.com/eggs-261113/)
- 3. [微软故意让 Windows 11 启动项变慢：只需修改两个参数，启动时间从 150 秒降到 30 秒](https://www.appinn.com/windows-11-startup-delay-registry-fix/)
-
-**AI Engineer**
- 1. [AIE CODE: OpenAI, ArtCraft, Cognition, Exa, Anthropic, Amp, et al](https://www.youtube.com/watch?v=y9JtCCZP2MQ)
-
-**Dwarkesh Patel**
- 1. [I’ve changed my mind about continual learning](https://www.youtube.com/shorts/CoSptp9tYpY)
- 2. [Recursive self-improvement has started](https://www.youtube.com/watch?v=1NHPDzpfR6Y)
-
-**The Diary Of A CEO Clips**
- 1. [War Expert WARNS: "2027 Will Be Devastating"](https://www.youtube.com/watch?v=76o1FZCtLwQ)
-
-**a16z**
- 1. [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](https://www.youtube.com/watch?v=PbD9pVXxsYM)
-
-**纽约时报双语版**
- 1. [黄仁勋因何跌落神坛？傲慢与自负](https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual)
- 2. [黄仁勋丑闻引发人工智能“玩梗”热潮](https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual)
- 3. [特朗普曾敦促黄仁勋为保住英伟达CEO职位而战](https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual)
- 4. [谁能接替黄仁勋？英伟达可以考虑这些人](https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/dual)
- 5. [黄仁勋下台会成为人工智能泡沫破裂的开端吗](https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual)
- 6. [关于英伟达临时CEO克雷斯，我们知道些什么](https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/dual)
- 7. [新加坡政府：在调查黄乐公司时美国几乎未予协助](https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual)
- 8. [“美人计”：中国间谍机构如何利用亲密关系套取情报](https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/dual)
+ 1. [促進國防與經濟良性循環　日本選定17個戰略領域納入國防相關支出目標](https://newtalk.tw/news/view/2026-11-15/1071204)
+ 2. [兩波東北季風接力！北台灣降溫逾10度 吳德榮：平地低溫恐探12度](https://newtalk.tw/news/view/2026-11-15/1071205)
+ 3. [蔣萬安控選舉充斥造謠抹黑 沈伯洋喊「確實」：我就是受害者](https://newtalk.tw/news/view/2026-11-15/1071207)
+ 4. [蔣萬安東發號餐費爭議喊告 沈伯洋驚呼：報警處理？沒必要！](https://newtalk.tw/news/view/2026-11-15/1071206)
+ 5. [「E²Y²」奪高雄時尚大賞金賞   將獲補助赴東京時裝週觀摩](https://newtalk.tw/news/view/2026-11-15/1071203)
+ 6. [梁文傑無懼風雨陪同掃街    力挺學弟蔡秉璁進高市議會](https://newtalk.tw/news/view/2026-11-15/1071202)
+ 7. [普發現金帶動百貨周年慶業績     高雄漢神本館挑戰30.5億目標](https://newtalk.tw/news/view/2026-11-15/1071201)
+ 8. [蘇清泉屏南大團結晚會   逾三千人冒雨力挺「攏嘸離開」](https://newtalk.tw/news/view/2026-11-15/1071198)
+ 9. [未經同意讀取Android相簿　義大利重罰Meta 8.05億歐元](https://newtalk.tw/news/view/2026-11-14/1071199)
+ 10. [四場喵鵝連線造勢   蕭美琴讚周春米懂得照顧鄉親](https://newtalk.tw/news/view/2026-11-14/1071195)
+ 11. [不畏風雨！15000人擠爆勢晚會  前、現任總統都推薦蘇巧慧是最佳的新北市長人選](https://newtalk.tw/news/view/2026-11-14/1071196)
+ 12. [澤倫斯基：美方首提撤出頓巴斯換加入北約　將交由烏克蘭社會決定](https://newtalk.tw/news/view/2026-11-14/1071197)
+ 13. [高雄營養午餐接連出包    林于凱：廠商三度違規只罰500元](https://newtalk.tw/news/view/2026-11-14/1071193)
+ 14. [用愛點亮23個孩子的希望！   澄清湖扶輪社公益助學、電影傳愛](https://newtalk.tw/news/view/2026-11-14/1071192)
+ 15. [鄭麗文雨中挺李四川　喊「1128風雨無阻」：新北不能交給不懂的人](https://newtalk.tw/news/view/2026-11-14/1071191)
+ 16. [詞神林夕開轟蔣萬安毛小孩政見疑抄沈伯洋　酸：抄襲是最高致敬](https://newtalk.tw/news/view/2026-11-14/1071190)
+ 17. [選戰倒數爆違規！蔣萬安宣傳車遮蔽車牌遭警開罰 競辦急滅火認檢查不周](https://newtalk.tw/news/view/2026-11-14/1071189)
+ 18. [捷克智庫兵推中國封鎖台灣  歐美軍事經濟嚇阻成關鍵](https://newtalk.tw/news/view/2026-11-14/1071188)
+ 19. [OpenAI 解散獨立機器人團隊？ 轉攻通用智慧與成本控管](https://newtalk.tw/news/view/2026-11-14/1071185)
+ 20. [遭神將擊中！蘇巧慧當場牙齒斷裂、濺血：幫老人補助假牙很重要](https://newtalk.tw/news/view/2026-11-14/1071187)
+ 21. [讚他是「全台最善良的政治人物」韓國瑜：續挺善政讓桃園脫胎換骨](https://newtalk.tw/news/view/2026-11-14/1071186)
+ 22. [觀察》蔣萬安將北市選戰連結2028　白營登台挺蔣讓藍白合更具體](https://newtalk.tw/news/view/2026-11-14/1071184)
+ 23. [觀察》「洋流祭」人潮爆滿打出選戰新可能！沈伯洋正面選舉獲共鳴](https://newtalk.tw/news/view/2026-11-14/1071183)
+ 24. [(影) 「安心大遊行」主辦稱破8萬人　蔣萬安獻唱「告白氣球」擁石舫亘掀高潮](https://newtalk.tw/news/view/2026-11-14/1071177)
+ 25. [蔣萬安定調北市選戰攸關國家未來路線　籲1128對民進黨投不信任票](https://newtalk.tw/news/view/2026-11-14/1071181)
+ 26. [澤連斯基不忍了大爆料 : 美要烏放棄頓巴斯 換取北約成員國資格](https://newtalk.tw/news/view/2026-11-14/1071182)
+ 27. [台灣貢獻52％營業額卻被矮化！《皮克敏》營運商驚爆有中資 台網掀退坑刪帳潮](https://newtalk.tw/news/view/2026-11-14/1071171)
+ 28. [(影) 1萬人參與洋流祭！沈伯洋高喊：讓我們兩週後創造台北的歷史](https://newtalk.tw/news/view/2026-11-14/1071180)
+ 29. [陳見賢遭冒名電話拜票挺徐欣瑩？社群駁假訊息 支持者怒轟無恥](https://newtalk.tw/news/view/2026-11-14/1071179)
+ 30. [攻擊-21無人機登上四川艦! 可回收匿蹤平台 有望改變反輻射作戰模式](https://newtalk.tw/news/view/2026-11-14/1071170)
+ 31. [烏軍攻勢全面升級！海王星飛彈30天轟5次 俄軍工廠、軍艦接連中招](https://newtalk.tw/news/view/2026-11-14/1071178)
+ 32. [加油不用急！中油宣布下週汽柴油繼續凍漲 每公升最高吸收6元](https://newtalk.tw/news/view/2026-11-14/1071175)
+ 33. [社群貼文陰謀論指黃仁勳遭美政媒聯手「獵殺」 查證顯示皆為虛構](https://newtalk.tw/news/view/2026-11-14/1071174)
+ 34. [鋒面＋2東北季風接力！下週北東轉濕冷驟降10度 降雨熱區一圖看](https://newtalk.tw/news/view/2026-11-14/1071172)
+ 35. [「安心大遊行」主辦稱逾5萬人　周榆修率白營6小雞登台挺蔣萬安](https://newtalk.tw/news/view/2026-11-14/1071176)
+ 36. [美、中、俄三巨頭確定碰面了! 白宮證實 : 19日在APEC峰會會晤](https://newtalk.tw/news/view/2026-11-14/1071173)
+ 37. [羅大佑批台灣音樂、酸大港開唱！創辦人Doris反擊：20年重量非幾句話能抹去](https://newtalk.tw/news/view/2026-11-14/1071149)
+ 38. [(影) 英國穆斯林接連搞破壞! 非清真餐廳遭圍、教堂陷火海、婦怒轟聖誕樹](https://newtalk.tw/news/view/2026-11-14/1071168)
+ 39. [美期中選舉民主黨又添勝! 阿拉斯加州長政黨輪替、參議員開票也領先](https://newtalk.tw/news/view/2026-11-14/1071159)
+ 40. [沙烏地2月損20架戰機! 中製無人機就佔13架 中媒急忙這樣辯解.....](https://newtalk.tw/news/view/2026-11-14/1071165)
+ 41. [德黑蘭籲全球穆斯林保衛伊朗! 劃清界線自保 「這什葉派國」立即切斷3通道](https://newtalk.tw/news/view/2026-11-14/1071167)
+ 42. [政見發表會細數政績　蔣萬安嗆：台北不是空想與口號的政治實驗室](https://newtalk.tw/news/view/2026-11-14/1071164)
+ 43. [美軍保護費暴漲3倍! 增至3兆多日圓 日本不願買單稱 : 「難以接受」](https://newtalk.tw/news/view/2026-11-14/1071166)
+ 44. [陳沂狂發文猛攻耍特權！網再補刀問「除去101董座剩什麼？」 賈永婕高EQ回應了](https://newtalk.tw/news/view/2026-11-14/1071148)
+ 45. [公辦政見會展現30年歷練 賴瑞隆：城市進步不能走回頭路](https://newtalk.tw/news/view/2026-11-14/1071163)
+ 46. [(影) 海地首都爆激戰！薩爾瓦多軍隊強攻體育場 出動機械狗清剿幫派勢力](https://newtalk.tw/news/view/2026-11-14/1071145)
+ 47. [減肥神藥恐釀永久失明! 美FDA要求所有GLP-1藥物全面加註警語](https://newtalk.tw/news/view/2026-11-14/1071156)
+ 48. [指台北市跟不上市民的努力 沈伯洋：我的市府要為大家全力以赴](https://newtalk.tw/news/view/2026-11-14/1071162)
+ 49. [(影）SpaceX星艦第15次試飛挑戰「雙回收」首受挫 助推器墨西哥灣爆炸](https://newtalk.tw/news/view/2026-11-14/1071152)
+ 50. [柯志恩政見發表揭市政藍圖 推「五區均衡」與「交通大進擊」](https://newtalk.tw/news/view/2026-11-14/1071160)
+ 51. [蔣萬安稱基泰大直施工圖遭埋符合規定 沈伯洋：滿特別的講法](https://newtalk.tw/news/view/2026-11-14/1071161)
+ 52. [（影）陳宥丞稱助選衝突交警方調查　吳欣岱反控：他的助理拍開、搶奪手機](https://newtalk.tw/news/view/2026-11-14/1071158)
+ 53. [新北函文致船東取消開船 沈伯洋：守法最重要、安全第一](https://newtalk.tw/news/view/2026-11-14/1071157)
+ 54. [（影）吳欣岱緊跟嗆「挺性侵犯選里長」　陳宥丞強調：早表態支持退選](https://newtalk.tw/news/view/2026-11-14/1071155)
+ 55. [引用《火影忍者》名言 沈伯洋政見發表會搬陳健治3叮嚀、歷任市長作為](https://newtalk.tw/news/view/2026-11-14/1071154)
+ 56. [(影) 細雨中啟程「安心大遊行」　韓國瑜批綠散播恨、蔣萬安喊「萬安在大家就安心」](https://newtalk.tw/news/view/2026-11-14/1071150)
+ 57. [竹北選戰藍白合引爆「棄吳保邱」疑雲 傅崐萁率12藍委助選邱臣遠](https://newtalk.tw/news/view/2026-11-14/1071147)
+ 58. [以軍參謀長反對立即重啟攻伊遭孤立! 伊朗宣布「最高戰備狀態」](https://newtalk.tw/news/view/2026-11-14/1071151)
+ 59. [黃仁勳請辭餘波盪漾 馬斯克連署挺復職、百億華裔大股東也喊 :「沒他不投資」](https://newtalk.tw/news/view/2026-11-14/1071143)
+ 60. [桃園驚爆隨機槍擊！男跳車叫囂開槍 70歲翁頭臉中彈濺血](https://newtalk.tw/news/view/2026-11-14/1071144)
+ 61. [手持順報登場政見發表會！沈伯洋：我上午都在陪女兒寫作業](https://newtalk.tw/news/view/2026-11-14/1071146)
+ 62. [直播》粉紅超跑再現！ 蘇巧慧淡水、三芝、石門大車掃 應援點一次看](https://newtalk.tw/news/view/2026-11-14/1071142)
+ 63. [台灣國際茶業博覽會登場 高雄山茶8大特色茶席亮相](https://newtalk.tw/news/view/2026-11-14/1071139)
+ 64. [縣長選戰「7搶1」！封關民調她支持度45.1％ 領先第二名逾30%](https://newtalk.tw/news/view/2026-11-14/1071141)
+ 65. [微軟道歉文爆紅吸1300萬觀看！打工人幽默敲碗：不如安排成固定行程](https://newtalk.tw/news/view/2026-11-14/1071117)
+ 66. [黃仁勳外遇風波連環爆 輝達轉運晶片疑雲牽動美政壇內鬨](https://newtalk.tw/news/view/2026-11-14/1071138)
+ 67. [不是恐攻! 全美禁飛4小時 川普定調 : 沒人攻擊我們 純粹55年設備太老舊](https://newtalk.tw/news/view/2026-11-14/1071140)
+ 68. [密西西比河驚傳船難！油輪撞上停泊郵輪 船身急傾沉沒、32人送醫](https://newtalk.tw/news/view/2026-11-14/1071137)
+ 69. [黃仁勳外遇捲共諜疑雲 外媒揭川普放寬輝達晶片出口中國前早砸1.6億買股!](https://newtalk.tw/news/view/2026-11-14/1071133)
+ 70. [日本退稅別刷錯卡！Visa、Mastercard恐遭DCC匯率剝削 林氏璧揭避坑關鍵](https://newtalk.tw/news/view/2026-11-14/1071119)
+ 71. [13號星期五害的? 911後第二次 美空管故障全國停飛 逾6600航班取消、8600延誤](https://newtalk.tw/news/view/2026-11-14/1071134)
+ 72. [馬斯克聲援黃仁勳！簽署連署請願要求重返輝達 稱若能延攬他將是榮幸](https://newtalk.tw/news/view/2026-11-14/1071127)
+ 73. [謝步智觀點》川普敗選被看衰 伊朗鷹派拒交濃縮鈾還搞核武 和談又幻滅](https://newtalk.tw/news/view/2026-11-14/1071136)
+ 74. [再出招！沈伯洋捧肥皂箱拍廣告：我會捧著你的問題讓台北順起來](https://newtalk.tw/news/view/2026-11-14/1071135)
+ 75. [將合體館長掃街遭酸「選到這麼狼狽」　蔣萬安：積極爭取所有市民支持](https://newtalk.tw/news/view/2026-11-14/1071131)
+ 76. [中國海警船統戰廣播 海巡署花蓮艦怒嗆：我要求你立即離開](https://newtalk.tw/news/view/2026-11-14/1071132)
+ 77. [昨對李四川火力全開！蘇巧慧：向大家證明我準備好了](https://newtalk.tw/news/view/2026-11-14/1071130)
+ 78. [北市府認基泰大直施工圖遭掩埋　蔣萬安被追問連稱「符合規定」](https://newtalk.tw/news/view/2026-11-14/1071129)
+ 79. [冬天竟打雷？快閃鋒面午後變天 全台慎防劇烈雷陣雨](https://newtalk.tw/news/view/2026-11-14/1071118)
+ 80. [黃仁勳婚外情涉中國間諜疑雲黯然下台 外媒：在台灣「完美無瑕」形象破滅](https://newtalk.tw/news/view/2026-11-14/1071090)
+ 81. [下午「安心大遊行」恐遇雨　蔣萬安：風雨生信心　大家記得帶雨具](https://newtalk.tw/news/view/2026-11-14/1071128)
+ 82. [黃仁勳遭逼退還是自願離職？輝達SEC文件曝光：董事會「接受辭呈」](https://newtalk.tw/news/view/2026-11-14/1071126)
+ 83. [黃世杰讚沈伯洋20年來人設沒變　蔣萬安笑回：你們覺得呢？](https://newtalk.tw/news/view/2026-11-14/1071125)
+ 84. [青奧霹靂舞林泳岳摘銀　台灣代表團2金4銀3銅作收](https://newtalk.tw/news/view/2026-11-14/1071124)
+ 85. [新北函文致船東取消開船 沈伯洋競總嘆可惜：有準備很大的螢幕對河播放](https://newtalk.tw/news/view/2026-11-14/1071123)
+ 86. [共機10架次擾台 4架次逾越海峽中線 國軍全程嚴密監控](https://newtalk.tw/news/view/2026-11-14/1071122)
+ 87. [全美航班停飛逾4小時！FAA宣布解除禁令　各地機場逐步恢復起降](https://newtalk.tw/news/view/2026-11-14/1071121)
+ 88. [美國2028總統大選》萬斯認真考慮2028是否還要出馬](https://newtalk.tw/news/view/2026-11-14/1071120)
+ 89. [FBI示警AI駭客工具ARTEX攻擊全球 台灣91APP也受害 近480萬消費者恐受影響](https://newtalk.tw/news/view/2026-11-14/1071114)
+ 90. [黃仁勳下台前為二代接班鋪路？兒女女婿在輝達快速升遷 背景曝光引發質疑](https://newtalk.tw/news/view/2026-11-14/1071097)
+ 91. [(影)防災士突破20萬人！內政部：讓防災知識走入生活、深化自助互助](https://newtalk.tw/news/view/2026-11-14/1071116)
+ 92. [川習普19日深圳歷史性會晤！全球3大核武強權首腦同台 烏克蘭恐成談判籌碼](https://newtalk.tw/news/view/2026-11-14/1071115)
 
 **WIRED**
- 1. [Best Early Black Friday AirPods Deals (2026)](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/)
- 2. [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)
- 3. [Atlas Coffee Club’s Black Friday Deals (2026)](https://www.wired.com/story/atlas-coffee-club-black-friday-2026/)
- 4. [Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites](https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/)
- 5. [Microsoft 365 Crawls Back to Life After a 24-Hour Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/)
- 6. [The Microsoft Outage Is a Warning for the World](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/)
- 7. [Jensen Huang and the End of the Founder Fairy Tale](https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/)
- 8. [3 Best Walking Pad Treadmills for Homes and Offices (2026)](https://www.wired.com/story/best-walking-pads/)
- 9. [TCL QM7L Mini-LED TV Review (2026)](https://www.wired.com/review/tcl-qm7l/)
- 10. [This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/)
- 11. [Even Black Friday Will Be More Expensive Than Usual](https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual/)
- 12. [‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next](https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/)
- 13. [Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen](https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/)
- 14. [‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk](https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/)
- 15. [The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/)
- 16. [Bitdefender Antivirus Plus Review: Undercutting the Competition](https://www.wired.com/review/bitdefender-antivirus-plus/)
- 17. [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
- 18. [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)
- 19. [Peacock Promo Codes: 40% Off November 2026](https://www.wired.com/story/peacock-promo-code/)
- 20. [Western Digital Promo Code: 15% Off](https://www.wired.com/story/western-digital-promo-code/)
- 21. [Logitech Promo Codes and Deals: Up to $100 Off](https://www.wired.com/story/logitech-promo-code/)
- 22. [Chatbooks Promo Code: 40% Off | November 2026](https://www.wired.com/story/chatbooks-promo-code/)
+ 1. [Beware the New AI-Fueled Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)
+ 2. [I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ 3. [How to Run SteamOS on Your Mac](https://www.wired.com/story/get-steamos-easily-running-on-your-mac/)
+ 4. [10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/)
+ 5. [It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared](https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/)
+ 6. [The 21 Best REI Holiday Sale Outdoor Deals (2026)](https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/)
+ 7. [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/)
+ 8. [My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)](https://www.wired.com/story/best-pickleball-paddles/)
+ 9. [Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/)
+ 10. [We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket](https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/)
+ 11. [These ‘Ghostly’ Galaxies Have Lost Their Dark Matter](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/)
+ 12. [Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target](https://www.wired.com/story/thanksgiving-meal-deals-2026/)
+ 13. [Outlook Went Down? Microsoft May Owe You Money](https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/)
+ 14. [Dell Coupon Codes: 20% Off for November 2026](https://www.wired.com/story/dell-coupon-code/)
+ 15. [Paramount+ Coupon Codes and Deals for 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+ 16. [Disney Plus Discount Codes: 52% Off November 2026](https://www.wired.com/story/disney-plus-discounts/)
+ 17. [30% Off Canon Promo Codes | November 2026](https://www.wired.com/story/canon-promo-code/)
+ 18. [Wayfair Coupons: Up to 80% Off November 2026](https://www.wired.com/story/wayfair-promo-code/)
+ 19. [Klook Promo Code: 20% Off November 2026](https://www.wired.com/story/klook-promo-code/)
+ 20. [LG Promo Codes and Coupons 20% Off for November 2026](https://www.wired.com/story/lg-promo-code/)
+ 21. [Whoop Promo Codes: 20% Off This November 2026](https://www.wired.com/story/whoop-promo-code/)
+ 22. [20% Off Samsung Promo Code | November 2026](https://www.wired.com/story/samsung-promo-codes/)
+ 23. [Tuft & Needle Promo Codes: 20% Off | November 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+ 24. [Womanizer Coupons: Save 15% in November 2026](https://www.wired.com/story/womanizer-coupon/)
+ 25. [ABT Promo Codes & Discounts for November 2026](https://www.wired.com/story/abt-promo-code/)
+ 26. [PlayStation Discount Code: 15% Off | November 2026](https://www.wired.com/story/playstation-discount-code/)
+ 27. [Adidas Promo Code | 60% Off | November 2026](https://www.wired.com/story/adidas-promo-code/)
+ 28. [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
 
-**Matt Wolfe**
- 1. [AI News: Things Will Never Be The Same](https://www.youtube.com/watch?v=G_Jrexy_5Bg)
+**人民日报**
+ 1. [01版 -  持之以恒推进全面从严治党 为做强做优做大国有企业和国有资本提供坚强保障](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191127.html)
+ 2. [01版 -  习近平将出席亚太经合组织第三十三次领导人非正式会议及相关活动](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191128.html)
+ 3. [01版 -  以中国式现代化新成就为亚太和世界提供新机遇](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191129.html)
+ 4. [01版 -  矢志团结奋斗  再创新的辉煌](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191130.html)
+ 5. [01版 -  李强同泰国总理阿努廷会谈](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191131.html)
+ 6. [01版 -  盛装迎接亚太宾朋](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191132.html)
+ 7. [01版 -  韩正出席2026世界中文大会开幕式并致辞](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191133.html)
+ 8. [02版 -  构建亚太共同体  共创亚太新未来（瞩望深圳APEC会议）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191134.html)
+ 9. [02版 -  相约深圳，续写“亚太奇迹”新篇章（和音）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191135.html)
+ 10. [02版 -  以中国式现代化新成就为亚太和世界提供新机遇](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191136.html)
+ 11. [02版 -  王毅分别同韩国外长赵显、出席2026中美政党对话美方代表会谈会见](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191137.html)
+ 12. [02版 -  第五届中国—阿拉伯国家政党对话会举行](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191138.html)
+ 13. [02版 -  中巴瓷器文物与当代艺术展在巴基斯坦开幕](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191139.html)
+ 14. [03版 -  李强抵达曼谷开始对泰国进行正式访问](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191140.html)
+ 15. [03版 -  充分发挥高标准农田综合效益 为守牢粮食安全底线建设农业强国提供坚实支撑](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191141.html)
+ 16. [03版 -  对接一名专员，就能匹配所需服务（经济新方位·从“0”到“1”，把“1”拉长）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191142.html)
+ 17. [03版 -  大幅提升知识产权公共服务质效（延伸阅读）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191143.html)
+ 18. [03版 -  以技术创新回应市场需求（高质量发展微视角）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191144.html)
+ 19. [03版 -  铸就光纤产业硬核实力（专家点评）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191145.html)
+ 20. [03版 -  第二十三届中国国际农产品交易会开幕](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191146.html)
+ 21. [03版 -  李强同泰国总理阿努廷会谈](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191147.html)
+ 22. [03版 -  韩正出席2026世界中文大会开幕式并致辞](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191148.html)
+ 23. [04版 -  学习贯彻党的二十届五中全会精神中央宣讲团在山西、新疆宣讲（学习贯彻党的二十届五中全会精神）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191149.html)
+ 24. [04版 -  循环理念深入生产生活（深阅读）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191150.html)
+ 25. [04版 -  图片报道](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191151.html)
+ 26. [04版 -  广东省各界纪念孙中山先生诞辰160周年大会举行](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191152.html)
+ 27. [04版 -  国务院任免国家工作人员](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191153.html)
+ 28. [04版 -  2027年全国硕士研究生招生考试共347万人报名](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191154.html)
+ 29. [04版 -  矢志团结奋斗  再创新的辉煌](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191155.html)
+ 30. [04版 -  汪致远同志逝世](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191156.html)
+ 31. [04版 -  一版责编：胡安琪  赵  政  张宇杰 二版责编：韩晓明  周  輖  关皓宇 三版责编：吕  莉  张安宇  陈  震 四版责编：刘  念  韩春瑶  崔  斌](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191157.html)
+ 32. [05版 -  中医药传统知识保护条例](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191105.html)
+ 33. [05版 -  国务院安委办对11个市级政府开展安全生产约谈](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191106.html)
+ 34. [05版 -  首批“人工智能+交通运输”场景清单发布](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191107.html)
+ 35. [05版 -  2026企业科技创新发展论坛开幕](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191108.html)
+ 36. [05版 -  汲取榜样力量  写好实干答卷](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191109.html)
+ 37. [05版 -  中国太保：赴进博之约，担金融之责](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191110.html)
+ 38. [05版 -  本版责编：管璇悦  张伟昊  翟钦奇](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191111.html)
+ 39. [06版 -  由“氧”到“氟”，锂电池练就强劲心脏（院士讲科普）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191112.html)
+ 40. [06版 -  新型电池，不止一条赛道（延伸阅读）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191113.html)
+ 41. [06版 -  没了闰秒，会不会影响我们的日常生活（唠“科”）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191114.html)
+ 42. [06版 -  中国第四十三次南极考察队出征](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191115.html)
+ 43. [06版 -  我国科学家破译大麦早熟稳产遗传密码](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191116.html)
+ 44. [06版 -  怎样让番茄有爆米花味（趣科普）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191117.html)
+ 45. [06版 -  我国成功完成空间站舱外激光“微创”试验](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191118.html)
+ 46. [06版 - 本版责编：曹怡晴 肖 遥 陈圆圆](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191119.html)
+ 47. [07版 -  广告](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191120.html)
+ 48. [08版 -  走近黄河下游最早的史前城址（考古中国）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191121.html)
+ 49. [08版 -  闽江橄榄，福州“福果”（博古知今）](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191122.html)
+ 50. [08版 -  永远的“花溪连”](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191123.html)
+ 51. [08版 -  “回首一生何所求，愿把涓涓付巨流”](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191124.html)
+ 52. [08版 -  留在器物上的名字还在“说话”](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191125.html)
+ 53. [08版 -  本版责编 王  瑨](http://paper.people.com.cn/rmrb/pc/content/202611/14/content_30191126.html)
 
-**My First Million**
- 1. [The secret weapon Trump says helped capture Maduro](https://www.youtube.com/shorts/dthfiBlcFU0)
+**第一财经**
+ 1. [带4000块闯上海连亏3年：巴比馒头创始人揭秘，几毛钱的包子怎么做成几十亿？ | 无限进化75](https://www.xiaoyuzhoufm.com/episode/6af6838314d01a26f8a9295d)
 
-**AICodeKing**
- 1. [Meta just opensourced a 100-File Skill Library for Better UI Designs!](https://www.youtube.com/watch?v=VpYEFW5Yn7k)
+**扫地老僧的Blog**
+ 1. [远程办公装备，再写一遍](https://doyj.com/2026/11/14/%e8%bf%9c%e7%a8%8b%e5%8a%9e%e5%85%ac%e8%a3%85%e5%a4%87%ef%bc%8c%e5%86%8d%e5%86%99%e4%b8%80%e9%81%8d/)
 
-**物种日历**
- 1. [价格大跳水！去年买大路灯的我哭惨了……](http://weixin.sogou.com/weixin?type=2&query=%E7%89%A9%E7%A7%8D%E6%97%A5%E5%8E%86+%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4%EF%BC%81%E5%8E%BB%E5%B9%B4%E4%B9%B0%E5%A4%A7%E8%B7%AF%E7%81%AF%E7%9A%84%E6%88%91%E5%93%AD%E6%83%A8%E4%BA%86%E2%80%A6%E2%80%A6)
+**钛媒体：引领未来商业与生活新知**
+ 1. [库克接班，可能真是英伟达的最优解](https://www.tmtpost.com/8205427.html)
+ 2. [ADC载荷迭代迈入加速期](https://www.tmtpost.com/8205391.html)
+ 3. [A股一级行业，PS偏离度分布与深潜分析](https://www.tmtpost.com/8205459.html)
+ 4. [营收增长与PS变化：A股一级行业五年估值位移的经济含义](https://www.tmtpost.com/8205450.html)
+ 5. [价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察](https://www.tmtpost.com/8205442.html)
+ 6. [价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察](https://www.tmtpost.com/8205437.html)
+ 7. [美国精英阶层并非学术分歧，而是政治博弈与利益选择](https://www.tmtpost.com/8205430.html)
+ 8. [中国越野车，正在打两场不同的仗](https://www.tmtpost.com/8205404.html)
+ 9. [当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客](https://www.tmtpost.com/8205248.html)
+ 10. [字节的2029与腾讯的“一半人”](https://www.tmtpost.com/8201267.html)
+ 11. [黄仁勋传](https://www.tmtpost.com/8204575.html)
+ 12. [开始“纯过日子”，双11年轻人不再“包装”自己的生活](https://www.tmtpost.com/8205255.html)
+ 13. [愿望单17万，国产独游又出了款冷门黑马](https://www.tmtpost.com/8205240.html)
+ 14. [AI时代，公司越来越扁平，也越来越官僚](https://www.tmtpost.com/8205239.html)
+ 15. [特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上](https://www.tmtpost.com/8205220.html)
+ 16. [国能卖壳，宝丰接盘，英力特这笔交易赌的不是光伏，是出清期的生存权](https://www.tmtpost.com/8205215.html)
 
-**Jason West**
- 1. [How to Text ChatGPT Like a Contact (Set Up in 10 Seconds)](https://www.youtube.com/shorts/hJ-4TBqqH7Q)
+**Hacker News Daily**
+ 1. [Daily Hacker News for 2026-11-13](https://www.daemonology.net/hn-daily/2026-11-13.html)
 
-**OpenAI**
- 1. [6 Underrated Ways to Use ChatGPT](https://www.youtube.com/shorts/ErOVIC-MGVA)
- 2. [How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities](https://www.youtube.com/watch?v=PkAmyub12K8)
- 3. [How Mozilla strengthens Firefox security with GPT-6 Cyber](https://www.youtube.com/shorts/pfbfZKxUEDQ)
+**独树不成林**
+ 1. [378-歌德如何看待通用人工智能](https://www.xiaoyuzhoufm.com/episode/6af8cc9a14d01a26f8a9e2ce)
 
-**阮一峰的网络日志**
- 1. [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)
+**42章经**
+ 1. [复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛](https://www.xiaoyuzhoufm.com/episode/6af6678d14d01a26f8a916f6)
 
 **知乎日报**
- 1. [如何看待全国各地古镇相似度高达 99%，连「特色小吃」都一模一样？为何会出现这一局面？](https://daily.zhihu.com/story/9793957)
- 2. [围棋为啥不以棋盘上的棋子数定输赢](https://daily.zhihu.com/story/9793963)
- 3. [「嘌呤」为什么字典读音为 piàolìng，而民间往往读为 piāolíng？](https://daily.zhihu.com/story/9793972)
- 4. [全身麻醉醒来像「跳过了」几个小时，睡眠为什么没有这种感觉？](https://daily.zhihu.com/story/9793982)
-
-**Matthew Berman**
- 1. [Who controls access to AI?](https://www.youtube.com/shorts/yVaVR2Ywfik)
-
-**Product School**
- 1. [Marissa Mayer: 40% of Your Camera Roll Is Tasks, Not Memories](https://www.youtube.com/shorts/7dGVoM1tnqw)
- 2. [Marissa Mayer: Her AI Picked Her Mom’s Skis From Vacation Photos](https://www.youtube.com/shorts/XDwI514hO-o)
- 3. [His 15-Year-Old Priced Hoodies at $275 to $325. Here’s Her Logic](https://www.youtube.com/shorts/uHLhuV9qwPo)
-
-**TED**
- 1. [Inside Venezuela’s Uncertain Path to Freedom | Leopoldo López | TED](https://www.youtube.com/watch?v=pSbcJV_o_ko)
+ 1. [电影放映中途为什么不暂停给上厕所的时间？](https://daily.zhihu.com/story/9793987)
+ 2. [研究称穿袜子睡觉可缩短入睡时间 7.5 分钟，是真的吗？背后的原理是啥？](https://daily.zhihu.com/story/9793997)
+ 3. [有哪些技术遗失后又被重复发明的例子?](https://daily.zhihu.com/story/9794006)
+ 4. [拆弹的时候为什么不一下把线全剪了?](https://daily.zhihu.com/story/9794016)
 
 **跨国串门儿计划**
- 1. [#826. Acquired｜英伟达三部曲1993-2023（重制版）](https://www.xiaoyuzhoufm.com/episode/6af709703caef3b52f55513c)
- 2. [#825. Ben Thompson：黄仁勋离任后，英伟达何去何从？华盛顿的报复](https://www.xiaoyuzhoufm.com/episode/6af6b7983caef3b52f5526d3)
+ 1. [#830.Yann LeCun：世界模型与下一场 AI 革命 | 南洋理工大学高等研究所公开讲座](https://www.xiaoyuzhoufm.com/episode/6af8a6ea3caef3b52f55c2c7)
+ 2. [#829. Dwarkesh Patel｜RSI：AI怎么从数学题进步到超越顶尖研究员？](https://www.xiaoyuzhoufm.com/episode/6af8995114d01a26f8a9de4d)
+ 3. [#828.All-In：英伟达慢一两个节拍，美国的芯片优势就可能松动](https://www.xiaoyuzhoufm.com/episode/6af85a233caef3b52f55ab25)
+ 4. [#827.斯坦福成瘾门诊主任 Anna Lembke：最严重的成瘾，瘾的不是物质，而是控制感](https://www.xiaoyuzhoufm.com/episode/6af6a5a13caef3b52f551c95)
 
-**Spring I/O**
- 1. [Spring I/O 2026 - Highlights](https://www.youtube.com/watch?v=GbjMaFUF2Mo)
+**V2EX**
+ 1. [[推广] 求购 awsb 5.2fable 这个模型](https://www.v2ex.com/t/1257143#reply0)
+ 2. [[推广] 阿里下个月要有大动作！融合模型要上线了](https://www.v2ex.com/t/1257141#reply0)
+ 3. [[分享创造] 新一代的放疗治疗计划演示平台](https://www.v2ex.com/t/1257139#reply2)
+ 4. [[创业组队] 在英国做了五年 AI 创业，找几个能自己把事做成的人一起做英国市场](https://www.v2ex.com/t/1257138#reply0)
+ 5. [[Claude] 两个 Claude Pro 号 KYC，两个号都找 KYC 代过，一个号秒封，一个号现在还活着](https://www.v2ex.com/t/1257137#reply13)
+ 6. [[AI Agent 智能体] AI slop 是怎么来的，从提工单可窥见一角](https://www.v2ex.com/t/1257136#reply5)
+ 7. [[问与答] 老黄这些年，真没白干！](https://www.v2ex.com/t/1257134#reply1)
+ 8. [[iPhone] 线下摸完 Duo，年年焕新最终还是换了 18Pro Max](https://www.v2ex.com/t/1257132#reply0)
+ 9. [[程序员] Runner iPhone 版开启 TestFlight 内测：在手机上看终端、回消息、带 crew 干活](https://www.v2ex.com/t/1257131#reply0)
+ 10. [[Wunder] 关于设置中目前提供的 6 种楼中楼样式的 Demo](https://www.v2ex.com/t/1257128#reply24)
+ 11. [[站点状态] 20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励](https://www.v2ex.com/t/1257127#reply14)
+ 12. [[问与答] Google Gemini 有好用的其他家 agent 吗](https://www.v2ex.com/t/1257126#reply4)
+ 13. [[分享创造] 分享一个自己做的截图工具 sniplite: 有 Snipaste 的核心功能，但是更快，开源，极其轻量](https://www.v2ex.com/t/1257125#reply4)
+ 14. [[Claude] portal kyc 使用 personal 认证完成后又回到 start](https://www.v2ex.com/t/1257123#reply1)
+ 15. [[分享创造] 做了个能打断的 AI 语音面试陪练，求拍砖](https://www.v2ex.com/t/1257121#reply10)
+ 16. [[全球工单系统] 怎么样才能解决淘宝的谜之风控](https://www.v2ex.com/t/1257119#reply5)
+ 17. [[天黑以后] 20261114 午夜俱乐部](https://www.v2ex.com/t/1257118#reply2)
+ 18. [[Google Gemini] Argon 莫名其妙抽风来了句印地语](https://www.v2ex.com/t/1257115#reply5)
+ 19. [[分享创造] 一个人做了个照片对口型唱 Rap 的小站，踩了不少坑，求拍砖](https://www.v2ex.com/t/1257110#reply0)
+ 20. [[问与答] 求助: 想在寝室搞一个小主机 有推荐么?](https://www.v2ex.com/t/1257109#reply25)
+ 21. [[酷工作] 最近被领导叫去涨薪了](https://www.v2ex.com/t/1257106#reply1)
+ 22. [[Surge] 出 ios surge 明年 11 月 8 日到期](https://www.v2ex.com/t/1257105#reply0)
+ 23. [[分享创造] 学习 Steam 和 NetFlix 优雅的揩油定价策略: 让地主老财和穷苦欠发达地区收取不同费用.](https://www.v2ex.com/t/1257102#reply0)
+ 24. [[宽带症候群] 杭州动态公网家宽求推荐](https://www.v2ex.com/t/1257101#reply7)
+ 25. [[Claude] Grok Bot 用 Claude，符合服务条款了吧](https://www.v2ex.com/t/1257099#reply3)
+ 26. [[分享创造] [纯粹翻译 / LineCat] 我开发了一个 App 完美解决了在 iOS 和 macOS 上的翻译需求，支持 Safari 浏览器，完美代替沉浸式翻译](https://www.v2ex.com/t/1257098#reply4)
+ 27. [[Claude] 请大佬推荐一下 可以支持 Claude Desktop 桌面版 可通过「开发者模式」中转站，谢谢](https://www.v2ex.com/t/1257097#reply5)
+ 28. [[分享创造] 给 dsh 写了个工作区插件，文件、搜索、git 都在对话里](https://www.v2ex.com/t/1257094#reply0)
+ 29. [[分享创造] 用 Claude Fable 5.2 做了一个小项目](https://www.v2ex.com/t/1257093#reply0)
+ 30. [[程序员] xxl-job 是放弃维护了吗？ PG 版本的兼容 PR 提了那么长时间都没人合并，还没有更好的组件选择？](https://www.v2ex.com/t/1257091#reply8)
+ 31. [[分享发现] [分享创造] 一份多页 PDF 转成 PPT，我是怎么控制页数的](https://www.v2ex.com/t/1257090#reply0)
+ 32. [[分享创造] 陪女儿玩大富翁，顺手做了个带动画的随机数 App，今天在 Product Hunt 上 launch 了](https://www.v2ex.com/t/1257089#reply5)
+ 33. [[推广] [🔥狗妈同款三网各自优化线路机] ZgoCloud 洛杉矶三网各自优化精品线路机（CN2GIA CMIN2 9929) 轻度用户自用+中转+落地 最佳配置 机荒时代最好的传家宝](https://www.v2ex.com/t/1257088#reply6)
+ 34. [[程序员] 做了一份 AI 顶会论文数据集&一份具身智能数据集，有需要的自取~](https://www.v2ex.com/t/1257087#reply0)
+ 35. [[分享创造] 做了个摩斯电码翻译器，能从录音里解码，全部在浏览器本地处理](https://www.v2ex.com/t/1257086#reply0)
+ 36. [[推广] 做数据库迁移功能，远不只是生成几条 SQL： DataZen 0.3.0](https://www.v2ex.com/t/1257085#reply2)
+ 37. [[Apple] 求推荐适配 iPhone DUO 比较有意思的特色 APP](https://www.v2ex.com/t/1257084#reply1)
+ 38. [[推广] 把影库揣兜里 在酒店体验在家的感觉](https://www.v2ex.com/t/1257080#reply5)
+ 39. [[iDev] 苹果开发者续费问题](https://www.v2ex.com/t/1257078#reply2)
+ 40. [[Linux] Ubuntu 26.04 遇到 free -h 和 htop 查不出来的诡异 OOM 内存不足，由 KHO 的 CMA 导致](https://www.v2ex.com/t/1257077#reply1)
+ 41. [[分享创造] 我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps](https://www.v2ex.com/t/1257076#reply17)
+ 42. [[问与答] 港版 Android 工具机有哪些推荐？](https://www.v2ex.com/t/1257075#reply1)
 
-**LangChain**
- 1. [LangSmith: The platform to run, improve, and govern agents](https://www.youtube.com/watch?v=NeV6MSN6zEE)
+**参考消息**
+ 1. [早期可能无症状！身体有这5个表现，要重视→](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E6%97%A9%E6%9C%9F%E5%8F%AF%E8%83%BD%E6%97%A0%E7%97%87%E7%8A%B6%EF%BC%81%E8%BA%AB%E4%BD%93%E6%9C%89%E8%BF%995%E4%B8%AA%E8%A1%A8%E7%8E%B0%EF%BC%8C%E8%A6%81%E9%87%8D%E8%A7%86%E2%86%92)
+ 2. [伊朗革命卫队宣布击落](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%AE%A3%E5%B8%83%E5%87%BB%E8%90%BD)
+ 3. [2:0，国足赢了](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+2%3A0%EF%BC%8C%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86)
+ 4. [“淮海战役命令当考题”，一高三试卷引热议](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E2%80%9C%E6%B7%AE%E6%B5%B7%E6%88%98%E5%BD%B9%E5%91%BD%E4%BB%A4%E5%BD%93%E8%80%83%E9%A2%98%E2%80%9D%EF%BC%8C%E4%B8%80%E9%AB%98%E4%B8%89%E8%AF%95%E5%8D%B7%E5%BC%95%E7%83%AD%E8%AE%AE)
+ 5. [出口暴涨116.6%！国产“新顶流”，全球爆单](http://weixin.sogou.com/weixin?type=2&query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF+%E5%87%BA%E5%8F%A3%E6%9A%B4%E6%B6%A8116.6%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E2%80%9C%E6%96%B0%E9%A1%B6%E6%B5%81%E2%80%9D%EF%BC%8C%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95)
 
-**V2EX - 最热 - 2026-11-13**
- 1. [[随想] 九宫格输入法，感觉在一步步衰落。。](https://www.v2ex.com/t/1256717#reply160)
- 2. [[生活] 周五了，大家周末有什么安排](https://www.v2ex.com/t/1256699#reply134)
- 3. [[推广] 速薅！ Muse 免费 TG 机器人领取 30 亿 token～](https://www.v2ex.com/t/1256663#reply123)
- 4. [[硬件] 酷态科暴雷了，充电头会死机大电压烧毁设备](https://www.v2ex.com/t/1256928#reply118)
- 5. [[生活] 同事老婆昨天被诈骗了 2W+，分享下骗局](https://www.v2ex.com/t/1256725#reply111)
- 6. [[随想] 强行让自己看了半个多小时的 AI 短剧](https://www.v2ex.com/t/1256754#reply103)
- 7. [[分享创造] 得罪了老婆，做了个小程序](https://www.v2ex.com/t/1256673#reply103)
- 8. [[程序员] 微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了](https://www.v2ex.com/t/1256701#reply91)
- 9. [[分享创造] 做了个好看的 Mac 系统监控软件 Ebb，送 15 个激活码，求 v 友拍砖](https://www.v2ex.com/t/1256714#reply90)
- 10. [[职场话题] 大家了为用 A➗的 CC。真是八仙过海，各显神通。被封号以后，又是如丧考妣，捶足顿胸的。只恨自己不争气，然后各种感想，小作文，攻略。真是可叹可敬可悲可哀啊。](https://www.v2ex.com/t/1256715#reply70)
- 11. [[问与答] 求不吃铁饭碗的恶心对方小妙招](https://www.v2ex.com/t/1256759#reply57)
- 12. [[Claude] 有神仙老哥还没被 Claude 炸号、KYC 的吗，可以分享一下经验吗？](https://www.v2ex.com/t/1256766#reply56)
- 13. [[问与答] 淘宝究竟是怎么想的，为什么可以做得那么卡](https://www.v2ex.com/t/1256756#reply56)
- 14. [[Nintendo Switch] ns2 入手一周感受](https://www.v2ex.com/t/1256832#reply53)
- 15. [[生活] 冷战怎么解决](https://www.v2ex.com/t/1256741#reply53)
- 16. [[问与答] 日常使用的含二硫化硒的洗发水有什么推荐的吗？](https://www.v2ex.com/t/1256682#reply53)
- 17. [[问与答] 我想自己买台国外服务器，搭建代理用，有没有人推荐。](https://www.v2ex.com/t/1256721#reply52)
- 18. [[Claude] 这两天 claude 算是杀疯了，过了 K 的还出 portal 验证，这玩意真的能过吗](https://www.v2ex.com/t/1256685#reply52)
- 19. [[程序员] 写字楼会越来越不值钱，智力产出正转移到数据中心](https://www.v2ex.com/t/1256669#reply51)
- 20. [[程序员] 嫖 4.99 的 Gemini，暂停 GPT 一个月试试](https://www.v2ex.com/t/1256831#reply46)
- 21. [[Claude] 现在不想折腾的话，是不是只能选择中转站了？](https://www.v2ex.com/t/1256850#reply45)
- 22. [[生活] 突然梦到初中同桌，想起了很多年前的事](https://www.v2ex.com/t/1256737#reply43)
- 23. [[Claude] 老号凌晨惨遭 kyc](https://www.v2ex.com/t/1256709#reply43)
- 24. [[问与答] modeY 下周提车，请大家推荐配件](https://www.v2ex.com/t/1256775#reply42)
- 25. [[OpenAI] codex 实在是..重制卡也留不住用户了吧](https://www.v2ex.com/t/1256758#reply37)
- 26. [[职场话题] 有面过阿里外包的吗，因为我没有提前下载钉钉，面试官觉得我态度不行，所以面试被取消了？](https://www.v2ex.com/t/1256916#reply36)
- 27. [[Claude] Claude 真有那么好用吗？你们都用它做出了什么？](https://www.v2ex.com/t/1256735#reply35)
- 28. [[职场话题] 请问 v 站各位大佬，程序员还能干多久？](https://www.v2ex.com/t/1256676#reply35)
- 29. [[程序员] Opus 5.5 也做不到一步到位啊](https://www.v2ex.com/t/1256817#reply34)
- 30. [[问与答] 开车这么多年，一直没摸清主驾驶车窗自动升降的规律](https://www.v2ex.com/t/1256681#reply34)
- 31. [[程序员] cursor 月限额用完了，怎么办？](https://www.v2ex.com/t/1256662#reply33)
- 32. [[香港] 好哥哥们，明天俺去香港开港卡，请教各位有什么需要注意的事项？](https://www.v2ex.com/t/1256838#reply32)
- 33. [[OpenAI] codex 今天蠢得很](https://www.v2ex.com/t/1256746#reply31)
- 34. [[生活] 目睹被威胁离职...](https://www.v2ex.com/t/1256942#reply30)
- 35. [[问与答] 电视买多少钱的最合适？](https://www.v2ex.com/t/1256743#reply29)
- 36. [[全球工单系统] 微软的服务大面积故障,看来上午要摸鱼了](https://www.v2ex.com/t/1256658#reply28)
- 37. [[分享发现] 88VIP 会员，购物卡其实更划算](https://www.v2ex.com/t/1256683#reply25)
- 38. [[生活] 远程工作 准备找个舒服的地方租房 有推荐的吗](https://www.v2ex.com/t/1256809#reply24)
- 39. [[Claude] 用护照的日签页面，选择日本 visa，通过了 portal claude KYC](https://www.v2ex.com/t/1256934#reply23)
- 40. [[分享创造] 「送码」人生第一款上架的 iOS 版 App，一款不需要做选择的好看的计算器](https://www.v2ex.com/t/1256829#reply23)
+**稀土掘金技术社区**
+ 1. [什么！开发者可以手动1:1还原DeepSeek？](https://mp.weixin.qq.com/s?__biz=MzU2NjU3Nzg2Mg==&mid=2247548482&idx=1&sn=71da78e59ef106b125ff84a1462431ef)
 
-**Wes Roth**
- 1. [Gemini 4 Swarm is out of control...](https://www.youtube.com/watch?v=Sc6TriRAGnI)
+**歸藏的AI工具箱**
+ 1. [Next Token 的 30 条 AI 领域的核心认知](https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&mid=2247498487&idx=1&sn=3be15d7cbbc7d4f48344345de2422e65)
+
+**IT之家**
+ 1. [IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...](https://www.ithome.com/1/027/257.htm)
+ 2. [微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗](https://www.ithome.com/1/027/256.htm)
+ 3. [国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务](https://www.ithome.com/1/027/255.htm)
+ 4. [微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品](https://www.ithome.com/1/027/254.htm)
+ 5. [SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座](https://www.ithome.com/1/027/253.htm)
+ 6. [一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名](https://www.ithome.com/1/027/252.htm)
+ 7. [香港迪士尼乐园票务系统遭入侵，约 1.7 万个门票二维码疑似被盗](https://www.ithome.com/1/027/251.htm)
+ 8. [《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓](https://www.ithome.com/1/027/250.htm)
+ 9. [中国车企首家：小米泰坦合金 2.0 与新一代 SU7 从材料到整车通过国际 EPD 体系认证](https://www.ithome.com/1/027/249.htm)
+ 10. [创造历史：美国 SpaceX 首次实现筷子夹星舰飞船](https://www.ithome.com/1/027/248.htm)
+ 11. [马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作](https://www.ithome.com/1/027/247.htm)
+ 12. [导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器](https://www.ithome.com/1/027/246.htm)
+ 13. [英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz](https://www.ithome.com/1/027/245.htm)
+ 14. [“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑](https://www.ithome.com/1/027/244.htm)
+ 15. [OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布](https://www.ithome.com/1/027/243.htm)
+ 16. [华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，"Demon1" 联名款同步亮相](https://www.ithome.com/1/027/242.htm)
+ 17. [受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消](https://www.ithome.com/1/027/241.htm)
+ 18. [曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车](https://www.ithome.com/1/027/240.htm)
+ 19. [11.11 过后迎全年探底：bilibili 超级大会员年卡 388 → 124 元，支持电视端](https://www.ithome.com/1/027/165.htm)
+ 20. [“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉](https://www.ithome.com/1/027/239.htm)
+ 21. [智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能](https://www.ithome.com/1/027/238.htm)
+ 22. [黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回](https://www.ithome.com/1/027/233.htm)
+ 23. [荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控](https://www.ithome.com/1/027/231.htm)
+ 24. [华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立](https://www.ithome.com/1/027/230.htm)
+ 25. [白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件](https://www.ithome.com/1/027/229.htm)
+ 26. [英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯](https://www.ithome.com/1/027/228.htm)
+ 27. [Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚](https://www.ithome.com/1/027/227.htm)
+ 28. [借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测](https://www.ithome.com/1/027/226.htm)
+ 29. [微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高](https://www.ithome.com/1/027/225.htm)
+ 30. [Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源](https://www.ithome.com/1/027/224.htm)
+ 31. [苹果重申对 visionOS 平台的长期投入，仍看好空间计算发展前景](https://www.ithome.com/1/027/223.htm)
+ 32. [京东京造推出 130W 自带线车载充电器：2C + 1A 设计，99 元](https://www.ithome.com/1/027/222.htm)
+ 33. [前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力](https://www.ithome.com/1/027/221.htm)
+ 34. [京东京造推出“铝膜复合水刺棉材质”全罩汽车车衣：可疏水防暴晒，189 元起](https://www.ithome.com/1/027/220.htm)
+ 35. [网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄](https://www.ithome.com/1/027/219.htm)
+ 36. [上汽奥迪 AUDI E7X 计划于 12 月 OTA 推送升级 Momenta R7 世界模型](https://www.ithome.com/1/027/218.htm)
+ 37. [AOC“CU34G4ZD”34 英寸曲面显示器上市：1440P 280Hz QD-OLED Penta Tandem 面板，4999 元](https://www.ithome.com/1/027/217.htm)
+ 38. [预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济](https://www.ithome.com/1/027/216.htm)
+ 39. [Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户](https://www.ithome.com/1/027/215.htm)
+ 40. [黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结](https://www.ithome.com/1/027/212.htm)
+ 41. [美国首届 AI 音乐奖颁奖典礼举行，入围者坦言背后同样凝聚真人心血](https://www.ithome.com/1/027/210.htm)
+ 42. [星闪智能家电 OpenLab 实验室正式投运：九方共建，覆盖芯片到整机全链条](https://www.ithome.com/1/027/209.htm)
+ 43. [遭遇全球规模最大加密货币盗窃后，币安目标下周全面恢复提现服务](https://www.ithome.com/1/027/198.htm)
+ 44. [Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium](https://www.ithome.com/1/027/197.htm)
+ 45. [212 T10 将于广州车展上市：三门越野车、可拆卸车顶](https://www.ithome.com/1/027/188.htm)
+ 46. [《GTA 6》发售将为英国网络带来大考，宽带运营商表态“严阵以待”](https://www.ithome.com/1/027/187.htm)
+ 47. [2020-2025 年，我国颠覆性技术产业化指数累计增幅超五成](https://www.ithome.com/1/027/186.htm)
+ 48. [Mercury Research：AMD 第三季度桌面 CPU 市占率跌破 30%，英特尔夺回市场份额](https://www.ithome.com/1/027/185.htm)
+ 49. [黄仁勋离任英伟达 CEO，华尔街对 AI 投资热潮“并不太担心”](https://www.ithome.com/1/027/184.htm)
+
+**Hacker News: Front Page**
+ 1. [L3Harris statement on the Nov. 13 ground stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
+ 2. [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+ 3. [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
+ 4. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+ 5. [LinkedIn, Monster take down over 1000 fake job postings after CBC investigation](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
+ 6. [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+ 7. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+ 8. [Creating a self booting ZIP archive](https://goliath32.com/blog/ziphead.html)
+ 9. [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+ 10. [Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
+ 11. [Demystifying phone unlocking tools: A technical overview](https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/)
+ 12. [Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)
+ 13. [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
+ 14. [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/)
+ 15. [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+ 16. [A visual explanation of reinforcement learning](https://aatishb.com/myriad/how-brains-learn/)
+ 17. [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+ 18. [Tech companies are trying to shift the concept of privacy again](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
+ 19. [Project Zero will disclose vulnerabilities 90 days after reporting](https://projectzero.google/2026/11/disclosure-policy.html)
+
+**人人都是产品经理**
+ 1. [字节阿里携程，开始拆部门墙了](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651934445&idx=1&sn=9b15c464d12be104c1f4f6a5b4552fdc)
+ 2. [AI 产品从“能做”到“好用”，中间差了什么？](https://mp.weixin.qq.com/s?__biz=MjM5OTEwNjI2MA==&mid=2651934445&idx=2&sn=6a408ccedb3d8dbaecbad99c659c2cbc)
+
+**一天一篇经济学人(双语)**
+ 1. [本期《经济学人》最值得读的10篇文章](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E6%9C%AC%E6%9C%9F%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E6%9C%80%E5%80%BC%E5%BE%97%E8%AF%BB%E7%9A%8410%E7%AF%87%E6%96%87%E7%AB%A0)
+ 2. [给自己一年时间，慢慢读懂《经济学人》](http://weixin.sogou.com/weixin?type=2&query=%E4%B8%80%E5%A4%A9%E4%B8%80%E7%AF%87%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%28%E5%8F%8C%E8%AF%AD%29+%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B8%80%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%85%A2%E6%85%A2%E8%AF%BB%E6%87%82%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B)
+
+**InfoQ**
+ 1. [DeepSeek又来掀桌了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297277&idx=1&sn=d940ba0d58d8ae23f8f67d5c5b347fa9)
+ 2. [InfoQ 2026 年趋势报告：AI、ML 与数据工程](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297277&idx=2&sn=de36b7baa4730e3f7ded45e79e68fce2)
+ 3. [OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651297277&idx=3&sn=da9f6d4732855e2584e550c257fe5ebf)
+
+**小众软件**
+ 1. [mkw-recomp – 在 Windows / Linux 上原生运行 Switch 2《马力欧赛车世界》，不需要模拟器](https://www.appinn.com/mkw-recomp/)
+ 2. [让 Windows 11 在 iPhone Duo 上运行，使用 Gemini 开发，已开源｜WindowsiOS](https://www.appinn.com/windowsios-windows-11-iphone-duo-gemini-open-source/)
+
+**腾讯科技**
+ 1. [Anthropic CEO“直播荐股”，满屏都是免责声明](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691574172&idx=1&sn=ac75a4fd338bf8035e813072245ca3a1)
+ 2. [硅谷人民想念黄仁勋](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691574169&idx=1&sn=a2d1d9ccb290c8a3222719ead2ab9456)
+ 3. [星舰挑战“双回收”，首战失利](https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691574156&idx=1&sn=02a07376e5b55067268b767c86cee00a)
+
+**新智元**
+ 1. [OpenAI机器人团队突然解散！GPT-6 Astra把行业一锅端了](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652743065&idx=1&sn=11f32c30c2973ae0fa2cd69f2ca6427b)
+ 2. [Fable 5.2贵17倍还输了！12 个AI进群当同事，OpenAI包揽前二](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652743065&idx=2&sn=1a4290d6a0151b95f34f287bf2f6e711)
+ 3. [「让AI研究AI」最新综述：三项关键决策框架，重新审视研究自主性](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652743065&idx=3&sn=601af731d91f082037d24665847a7795)
+
+**Founder Park**
+ 1. [一家创立 117 年的美妆企业，如何用开放式创新把外部技术变成业务价值？](https://mp.weixin.qq.com/s?__biz=MzY5ODQwMTkxNA==&mid=2247517624&idx=1&sn=cff73821064ff7d3740c6dc9bff138f3)
+
+**笔记侠**
+ 1. [无人可替黄仁勋](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654909916&idx=1&sn=fa899968fc11590d87ed69f35246ff4a)
+ 2. [阿里前CHO邓康明：公司存活，依靠的是强人](https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654909916&idx=2&sn=720de97e5ad4f0aeaee5877789c417c8)
+
+**极客公园**
+ 1. [马斯克称将签名支持黄仁勋复职；OpenAI 推 ChatGPT 钱包；微软全球服务故障第二天仍未恢复｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116455&idx=1&sn=bfda6177d812255490df5c1ce25996b3)
+
+**AI前线**
+ 1. [“无人敢说‘不’毁了黄仁勋，无人能接棒困住英伟达”](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247669467&idx=1&sn=71e275cc02bc7de09f5bc4d6060fe2ec)
+
+**橘AI**
+ 1. [Next Token 的 30 条 AI 领域的核心认知](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NzU2Nw==&mid=2247490988&idx=1&sn=8efadeab04ee2fa187b9f52c9137be12)
+
+**dbaplus社群**
+ 1. [直播预告丨全栈可观测实践：从网络到用户一层不落](https://mp.weixin.qq.com/s?__biz=MzkzMjYzNjkzNw==&mid=2247638482&idx=1&sn=af92525dd5e49488cb6e19d9e653afdd)
+
+**腾讯研究院**
+ 1. [腾讯研究院AI每周关键词Top50](https://mp.weixin.qq.com/s?__biz=MjM5OTE0ODA2MQ==&mid=2650999571&idx=1&sn=1dc3ea5389415acd3a3ca8fb36e37664)
+
+**智东西**
+ 1. [“回来吧，黄仁勋”！2万人签名请愿](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652814023&idx=1&sn=767b178718d5cc41edd6e559fc62e8b4)
+
+**AI寒武纪**
+ 1. [突发，OpenAI解散机器人团队，研究员全部并入通用模型部门](https://mp.weixin.qq.com/s?__biz=Mzg3MTkxMjYzOA==&mid=2247520235&idx=1&sn=531b01292170d484cf90e89f93e164b8)
+
+**AINLP**
+ 1. [谷歌 Gemini 也在重置了！!](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650457036&idx=1&sn=c50792e6214012072e8dac0ab27a1a58)
+ 2. [DeepSeek App 全家桶开放了。。](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650457017&idx=1&sn=405337ce8e6bb569eed7556ad04bb7bd)
+ 3. [签名请愿支持黄仁勋，马斯克等人已签！](https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650457005&idx=1&sn=d53b5eb45340af8657149e2acd2c3946)
+
+**Bing每日壁纸**
+ 1. [中国香港维多利亚港](https://cn.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=hpcapt&filters=HpDate:%2220261113_1600%22+mgzv3configlist:%22BingQA_Encyclopedia_Layout%22)
+
+**Z Potentials**
+ 1. [喝点VC｜Agent寒武纪大爆发，a16z预言消费AI的下一站不是助手是“军团”](https://mp.weixin.qq.com/s?__biz=MzI4NTgxMDk1NA==&mid=2247519316&idx=1&sn=7ac50ddf0ffe2b9b95a0454d91bbcde1)
+
+**花叔**
+ 1. [Anthropic刚教的24小时agent，我当天做出来了](https://mp.weixin.qq.com/s?__biz=Mzg2OTA1OTAxNA==&mid=2247492858&idx=1&sn=bcc31d3b526cfff966ce2ac58eec6422)
+
+**卡尔的AI沃茨**
+ 1. [开源/10秒出4K/超长文本/... 我实测出了MiniMax H3-Image擅长的四类新玩法](https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw==&mid=2247513928&idx=1&sn=276c09110530706bea1b69bdeaf1c375)
+
+**散场通道|关于电影的一切**
+ 1. [虽然不爱《可能的爱》，依然可以爱李沧东](https://www.ximalaya.com/sound/1032695056)
+
+**赛博禅心**
+ 1. [《潮汐战线》开源发布：正统 SLG、极高完成度](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247522868&idx=1&sn=2f070d87f04ba5145fddc3a92718bdbd)
+
+**逛逛GitHub**
+ 1. [搜罗了 5 个刚开源的 GitHub 项目，可以看看自己能不能用到。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538466&idx=1&sn=8ce06fbf66930fa6d90e80f5be10fa3f)
+
+**大模型智能**
+ 1. [踢开具身Scaling的另一扇门：华为诺亚团队登顶Behavior Challenge 2026](https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247557742&idx=1&sn=fdd92bbd341d815bd8aaa5be658f88fc)
+
+**架构师之路**
+ 1. [代码都被AI写了，那人的价值在哪里？（SDD超级干货）](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651981897&idx=1&sn=b23e2d29c3549d440746eed75f236842)
 
 **热门文章 - 日榜 - 人人都是产品经理**
- 1. [AI作弊不稀奇，它还懂“抗拒从严，回家过年”](https://www.woshipm.com/ai/6493519.html)
- 2. [英伟达商业模式画布：20年豪赌，并没有赌GPU](https://www.woshipm.com/operate/6493525.html)
- 3. [为什么哪怕双十一了，品牌依然不肯给你最低价？](https://www.woshipm.com/operate/6493527.html)
- 4. [靠买买买做到年收入 40 亿美金，Bending Spoons 怎么用 AI 管更多公司](https://www.woshipm.com/chuangye/6493395.html)
- 5. [给微信小程序大赛当了一天评委：AI让哪些「小需求」变成了产品？](https://www.woshipm.com/ai/6493523.html)
- 6. [做智能硬件产品4个绕不开的问题，和4条系统性的应对原则](https://www.woshipm.com/pd/6493466.html)
- 7. [滴滴造车往事：遗憾、成全与新生](https://www.woshipm.com/it/6493521.html)
- 8. [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.woshipm.com/ai/6493513.html)
- 9. [豆包工作重大更新：接入Kimi、DeepSeek多款大模型，只需0.01x倍率还送30天订阅！](https://www.woshipm.com/ai/6493503.html)
- 10. [22 岁成了世界上最年轻的白手起家亿万富翁，他们做的是什么生意？](https://www.woshipm.com/chuangye/6493393.html)
- 11. [从 Demo 到生产：给 LangChain 售后助手补上上下文、长期记忆、流式输出和可观测性](https://www.woshipm.com/ai/6493390.html)
- 12. [汽车租赁平台商业模式及运营机制 竞品分析报告](https://www.woshipm.com/evaluating/6479128.html)
- 13. [你单曲循环的歌，正在被300元的AI音乐挤出歌单](https://www.woshipm.com/ai/6493383.html)
- 14. [视频号的逆袭路，绿泡泡走不了](https://www.woshipm.com/it/6493325.html)
- 15. [美团松了一口气：烧了 600 亿，UE涨了1毛钱](https://www.woshipm.com/it/6493251.html)
- 16. [我用Codex做了一个 AI 分镜工具，一键复刻爆款 AI 短剧，开源免费！](https://www.woshipm.com/AI/6493239.html)
- 17. [教你用WorkBuddy本地部署MiniMax-H3-Image开源生图模型](https://www.woshipm.com/AI/6493200.html)
- 18. [Character.AI都要破产了，AI陪伴却开始闷声赚大钱](https://www.woshipm.com/chuangye/6493304.html)
- 19. [下一代社交 App，正在想办法让你赶紧离开](https://www.woshipm.com/chuangye/6493011.html)
- 20. [20元泡面，399羽绒服，外企山姆为啥这么会玩流量？](https://www.woshipm.com/operate/6493004.html)
- 21. [把外卖平台当“抖加”用，这波人把“孙割法则”学透了](https://www.woshipm.com/it/6493087.html)
+ 1. [Anthropic刚教的24小时agent，我当天做出来了](https://www.woshipm.com/ai/6493965.html)
+ 2. [开源/10秒出4K/超长文本/... 我实测出了MiniMax H3-Image擅长的四类新玩法](https://www.woshipm.com/ai/6493967.html)
+ 3. [分享 8 个有趣的小 App：打怪要做深蹲？出门靠掷骰子？](https://www.woshipm.com/evaluating/6493070.html)
+ 4. [AI 新手从 0 到 1 搭建一款微信小程序实战经验分享](https://www.woshipm.com/ai/6421497.html)
+ 5. [AI录音设备，正在争夺“最懂你”的位置](https://www.woshipm.com/ai/6493891.html)
+ 6. [「豆包工作」开窍， Logo终于换成了豆包姐](https://www.woshipm.com/ai/6493883.html)
+ 7. [充了 1300 测即梦短剧工作室，结果。。。](https://www.woshipm.com/ai/6493844.html)
+ 8. [MiniMax，狂卷字节、OpenAI](https://www.woshipm.com/ai/6493871.html)
+ 9. [AI办公开打二番战](https://www.woshipm.com/ai/6493833.html)
+ 10. [Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！](https://www.woshipm.com/ai/6493838.html)
+ 11. [热点收藏了却不会做？我用Flova做出4次风扇变装](https://www.woshipm.com/ai/6493858.html)
+ 12. [突发！DeepSeek开放全家桶API：官方App功能均可自由组合调用](https://www.woshipm.com/ai/6493847.html)
+ 13. [一词一画，点亮星海：近期最惊艳的开源英语项目，连带 3.7 万+份音画数据全免费开放](https://www.woshipm.com/ai/6493831.html)
+ 14. [双11，印象里高冷的WorkBuddy也来送福利了](https://www.woshipm.com/ai/6493822.html)
+ 15. [为什么全世界都在为数据中心吵架？](https://www.woshipm.com/it/6493825.html)
+ 16. [WorkBuddy像极了活字印刷术](https://www.woshipm.com/ai/6493813.html)
+ 17. [AI 落地前的活儿，比 AI 本身多：一个用户反馈闭环的实操拆解](https://www.woshipm.com/pd/6493736.html)
+ 18. [搞 AI 人工智能，有必要生个孩子养](https://www.woshipm.com/ai/6493746.html)
+ 19. [被围剿的黄仁勋，暴露了AI投资的最大风险](https://www.woshipm.com/ai/6493677.html)
+ 20. [微信AI的老班底与新面孔](https://www.woshipm.com/ai/6493668.html)
+ 21. [WorkBuddy又给用户发积分，每人至少1000，截止到11月30日](https://www.woshipm.com/ai/6493680.html)
+ 22. [到底是 SaaS+AI，还是 AI+SaaS？](https://www.woshipm.com/pd/6493149.html)
 
-**Big Take**
- 1. [The Climate Is Changing in Ways Models Couldn’t Predict](https://omny.fm/shows/the-big-take/the-climate-is-changing-in-ways-models-couldn-t-predict)
+**少数派**
+ 1. [家里老音箱还在吃灰？用这个小盒子玩点新花样](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247640012&idx=1&sn=323235f016b95694408ff94833d223da)
+ 2. [OpenClaw 一周年龙虾嘉年华，深圳见！](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247640012&idx=2&sn=cc22c6a4afd98901cea62b5d1d0fa7b1)
+ 3. [装上「机械臂」，把机甲风焊在手机上](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247640014&idx=1&sn=7289bd98383913b4cfa6373be362a2fe)
+ 4. [告别层层点选，把 Mac 开关全部收进菜单栏](https://mp.weixin.qq.com/s?__biz=MzU4Mjg3MDAyMQ==&mid=2247640013&idx=1&sn=ebf3e8577d5ed02d8d91bb064efb5ea2)
+
+**数据发布**
+ 1. [2026年11月上旬流通领域重要生产资料市场价格变动情况](https://www.stats.gov.cn/sj/zxfb/202611/t20261113_1965820.html)
+
+**吴晓波频道**
+ 1. [黄仁勋离职带崩英伟达显卡？我们问了问华强北](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173593&idx=1&sn=bb0acdda043e69a98655423680fde470)
+ 2. [走进产业带之后，我们重新认识了中国企业的出海难题](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173593&idx=2&sn=e12166bd099e66825ff820412f3f9649)
+ 3. [SpaceX特斯拉合并获进展，美联储明年议息减至7次 | 财经日日评](https://mp.weixin.qq.com/s?__biz=MzA3OTM5NTkxNA==&mid=2653173593&idx=3&sn=95cc248cf5afd320a8bb5e04c2e1b669)
+
+**有新Newin**
+ 1. [英伟达员工呼吁黄仁勋回归：他究竟是怎样的一位 CEO？](https://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247503012&idx=1&sn=8f969b9b1386e137b388ac4e0841d82b)
+
+**机器之心**
+ 1. [踢开具身Scaling的另一扇门：华为诺亚团队登顶Behavior Challenge 2026](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074456&idx=1&sn=fd945abf7738045bba3669031d5ef7a2)
+ 2. [收购之后，李飞飞、苏姿丰首次同台对话，要点都在这里了](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074456&idx=2&sn=96fd9bd0e55a35b655b0a2dddd61264d)
+ 3. [AI自己改科研策略，能过湿实验这一关吗？他们把RSI带入分子发现](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074456&idx=3&sn=3ce02b6ba0021829c919847dffc37e64)
+
+**猫笔刀**
+ 1. [敏感，但不自卑](https://mp.weixin.qq.com/s?__biz=MzE5ODk2NjUwOA==&mid=2247498911&idx=1&sn=6d4b41b51abddb5fdbc5cc676057a487)
+
+**创业邦**
+ 1. [年轻人干掉驾校，巨大的连锁反应开始了](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897116&idx=1&sn=06d9caa66256640062b9f3326ed66740)
+ 2. [黄仁勋辞职冲击美国AI行业；张一鸣最新内部发声；Anthropic豪掷34亿美元自建发电设备丨AI周报](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897116&idx=2&sn=be8a37294e69053cbc55143faa911773)
+ 3. [比亚迪：网传“某数字能源出售给比亚迪”不实；特斯拉Cybercab面向个人用户开放销售：售29990美元丨汽车交通日报](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897116&idx=3&sn=763782bd1f1e4a042365dd6dbd9fe954)
+ 4. [29岁，她成了字节AI核心人物](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897083&idx=1&sn=bca994ad594775f10a3090704afe2d3f)
+ 5. [当AI应用越来越好抄，估值175亿美元的Fireworks靠什么建立护城河？丨CEO深度对话](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897083&idx=2&sn=f9049ee09b298f465bae108296b12f60)
+ 6. [英伟达更新黄仁勋简介；余承东曝光华为Mate X8真机丨智能制造日报](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897083&idx=3&sn=a8c1002dd5c37560441a431468c50219)
+ 7. [华为和赛力斯新合作模式尘埃落定；曝月之暗面权衡2027年初港股IPO；微软宕机近10小时；OpenAI解散独立机器人团队丨邦早报](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897070&idx=1&sn=68b4c1c7cd2504f14424d130f233abfc)
+ 8. [名川资本王求乐：下一个十年的非共识，是高校科研成果转化](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897070&idx=2&sn=cedcc41fdbcb32f26c17b3732a7fd654)
+ 9. [Hugging Face CEO哀叹黄仁勋从英伟达离职：“令人无比难过的一天”；腾讯混元发布实时语音模型Hy Realtime丨AIGC日报](https://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=2650897070&idx=3&sn=7872b3781251df6fc76197567b6edb31)
+
+**华尔街见闻**
+ 1. [“让黄仁勋回归！”马斯克带头，万人请愿挤爆服务器](https://mp.weixin.qq.com/s?__biz=MjM5NzAwMzU0MA==&mid=2247649808&idx=1&sn=13786a3d2d95bcff2c27bc07a10dcbd6)
+
+**CSDN**
+ 1. [黄仁勋卸任后的AI生态和算力格局走向何方？ 李建忠带你拆解英伟达生态战略，把脉AI产业新格局！](https://mp.weixin.qq.com/s?__biz=MzkzMDY1NDgyOQ==&mid=2247838513&idx=1&sn=69a9e80dbd02a380888e1c93e9156098)
+
+**印记中文**
+ 1. [React 中文周刊 #299 - 声明式拖拽库 & UI SDK](https://mp.weixin.qq.com/s?__biz=MzIzOTkwMjM0OQ==&mid=2247550576&idx=1&sn=bbef1ece0b617ab412efa3aa051e8120)
+
+**刘润**
+ 1. [5毛钱一片的黑胶布，撕开了智能眼镜的遮羞布](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789959&idx=1&sn=427a87df177036368c0fe240234ee56e)
+ 2. [继续恶补财务思维](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789959&idx=2&sn=2ad45ab0b89f8c9b85f2fea5085a2c0b)
+ 3. [进化岛周报 | 进化岛PLUS1.0版上线了！](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789959&idx=3&sn=2f0f6a634432bdb02cdc0c6ebf7a9e5c)
+ 4. [所有的红利，最终都是趋势的红利](https://mp.weixin.qq.com/s?__biz=MjM5NjM5MjQ4MQ==&mid=2651789959&idx=4&sn=5a60e12e6075f5bf0e9860b5f40ad0d1)
+
+**网易科技**
+ 1. [“让黄仁勋回归！” 超五万人签名请愿，马斯克声援](https://mp.weixin.qq.com/s?__biz=MjM5OTgyNTA0MQ==&mid=2650542072&idx=1&sn=332dc98cb65cb9cb18c1fcf05b77b746)
+
+**AI产品阿颖**
+ 1. [实测完百度文心的新 Flash 模型，我有点意外。](https://mp.weixin.qq.com/s?__biz=Mzg5Mjc3MjIyMA==&mid=2247588564&idx=1&sn=2240af46d57c7a30a4e9c58b3e1344b1)
+
+**财新**
+ 1. [分析｜黄仁勋辞职英伟达股价暴跌 谁能接班“AI之芯”？](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333609&idx=1&sn=c06d9f764dd00852571021475659b509)
+ 2. [湖北原书记王忠林被查 曾是武汉“抗疫书记”](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333609&idx=2&sn=2e195ff4cff80311e858ae6251e18579)
+ 3. [美国突发全国停飞 官方称并非“另一起911”](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333609&idx=3&sn=f18d6f72eb9fc46214515b5804ce3e1d)
+ 4. [中交集团又一人落马 党委常委、副总经理刘成云被查](https://mp.weixin.qq.com/s?__biz=MjY2NzgwMjU0MA==&mid=2650333609&idx=4&sn=191c009f8bc5c7253dae1d8fd14d42eb)
+
+**硅星人Pro**
+ 1. [DeepSeek Harness成了第一个让我上瘾的Agent](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635422&idx=1&sn=c3ca52b872b95170b66fe926d26e181d)
+ 2. [AI作弊不稀奇，它还懂“抗拒从严，回家过年”](https://mp.weixin.qq.com/s?__biz=MzkyNjU2ODM2NQ==&mid=2247635422&idx=2&sn=a1d8fa71f6ed302e44c73e1447d682c7)
+
+**财联社**
+ 1. [SpaceX首次成功实现“筷子夹飞船”](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874403&idx=1&sn=e2ef2f52797dbfd8f288b839a064b726)
+ 2. [知名婚纱品牌Vera Wang致歉](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874397&idx=1&sn=a009b08cd9b4a97d266905d095306ef3)
+ 3. [巴基斯坦、埃及、沙特阿拉伯、土耳其、约旦、卡塔尔、阿拉伯联合酋长国、印度尼西亚、巴勒斯坦国、阿尔及利亚等17国外长强烈谴责](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874396&idx=1&sn=471b1bd8847a0650c4262d508ae251eb)
+ 4. [OpenAI，解散机器人团队](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874388&idx=1&sn=1cf8e70ff1a872f4dab693b60472bf8d)
+ 5. [特斯拉Cybercab，开启个人订购](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874380&idx=1&sn=013f54d530eec6a7cf680c15a1c1ed10)
+ 6. [现场画面：美游船与油轮相撞，乘客落入河中](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874376&idx=1&sn=f1d8924ecd90c13bfd8d56da7c313b75)
+ 7. [泽连斯基：美国提出让乌克兰割让领土以换取加入北约](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874365&idx=1&sn=53f2923b50319e2c848e753080950a85)
+ 8. [黄仁勋时代落幕，英伟达面临三重考验](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874364&idx=1&sn=48173d3965a07cc169e75ea53e418ac7)
+ 9. [吴清在上海最新发声，关系到2亿多股票投资者](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874359&idx=1&sn=8e2dd3e780c7db4ee7f5b7bf0babdb0d)
+ 10. [微软确认：服务已全面恢复](https://mp.weixin.qq.com/s?__biz=Mzg5MzEyNzEwNQ==&mid=2247874350&idx=1&sn=6f786851e5e69935f4106eaa40be9ac9)
+
+**周国平**
+ 1. [对钱的态度最能暴露一个人的素质](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368222&idx=1&sn=0787f225bdcae5b0db75d24ef6f6c1a3)
+ 2. [为什么越是「恨海情天」的关系，越让人上头？](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368222&idx=2&sn=12abe8941513272181e738bd46f9bd05)
+ 3. [被老师当众羞辱老鼠屎，她52岁做了疯狂决定](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368276&idx=1&sn=371955638dac9ef8e0ad3247dde78042)
+ 4. [16岁丧母，28岁判死刑，他教全人类如何去爱](https://mp.weixin.qq.com/s?__biz=MzAwNzMxODE2OA==&mid=2651368291&idx=1&sn=5c8e6a00f05d429365751610fdc21006)
+
+**张佳玮写字的地方**
+ 1. [强调自己是天子的，都不是真正的天子](https://mp.weixin.qq.com/s?__biz=MzA5NjY2NTcxOA==&mid=2650428193&idx=1&sn=229768a6434fe2fe78f94ed3940627d6)
+
+**槽边往事**
+ 1. [无需敌人的喜欢](https://mp.weixin.qq.com/s?__biz=MjM5MjAzODU2MA==&mid=2652812543&idx=1&sn=b1356a21960c569db3406885e2b5b43e)
+
+**丁香医生**
+ 1. [这 5 类食材一定要焯水！否则难吃还可能有毒](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094571&idx=1&sn=d70dbcefe8c2c298fa7d6e292ef70d4c)
+ 2. [耳朵后面长出来的「小硬包」，到底是什么？](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094571&idx=2&sn=8da96917758ad9f1c7e7d817ba544adf)
+ 3. [这些都是会感染艾滋的高危性行为！要当心](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094571&idx=3&sn=963c517342f37837387d0090336f50ca)
+ 4. [研究实锤：多睡 1 小时，真的能减肥！](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094568&idx=1&sn=4033aa5deacd344a47690b0ec7d9d13e)
+ 5. [咳嗽反反复复，吃止咳药也不管用，可能从一开始就少做了一件事](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094568&idx=2&sn=659c98cfad1db625ebcaea175128d103)
+ 6. [这项检查，建议每位糖尿病患者都要定期做](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2658094568&idx=3&sn=c5787eb9841c472374297aae62d7a744)
+
+**投资界**
+ 1. [史上最遗憾一笔投资](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745129&idx=1&sn=7a53a32fddccc5b95d6ba3aeceaa0217)
+ 2. [LP圈发生了什么](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745129&idx=2&sn=8948229e5b628a2787ff595f8c78fdb4)
+ 3. [研究生过剩时代](https://mp.weixin.qq.com/s?__biz=MzI5ODk1NjY1MA==&mid=2247745129&idx=3&sn=b01fbcfd094899af312e65efbd03bf44)
+
+**KnowYourself**
+ 1. [少做8种复害行为，拿到人生最大红利](https://mp.weixin.qq.com/s?__biz=MzA4NjcyMDU1NQ==&mid=2247939435&idx=1&sn=34afaa4dfb5ab7cbcf5008dee3d94fc2)
+
+**武志红**
+ 1. [长期被打压的人，如何养回大脑？](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020653&idx=1&sn=ecca8c49f49d28945ae0cb76a6287abd)
+ 2. [性格魅力测试：测测你在别人眼中有多迷人？](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020653&idx=2&sn=bb5458ef5694288331e60e1421253117)
+ 3. [那个只考上大专的孩子，成了千万粉网红：父母给的底气，比流量更硬](https://mp.weixin.qq.com/s?__biz=MzU2ODI5ODMzNg==&mid=2248020653&idx=3&sn=47f8cbb6e4fd54ddbdfadad95c8c2ccf)
+
+**虎嗅APP**
+ 1. [越南迈入“发达国家”？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220093&idx=1&sn=8f7997e9f528c205049c6bb4aa71da84)
+ 2. [这妹子拉了梁文锋一把](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220093&idx=2&sn=3f6b1daab988543d2a418ddf37ef0451)
+ 3. [如果黄仁勋再创业](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220093&idx=3&sn=a9e180fed6554f7318f89a7e91a37252)
+ 4. [在校生5年减少1700万，连锁反应，开始了](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220061&idx=1&sn=cd1f8dde1fabd4c81af5c71115ba4b14)
+ 5. [太空AI第一股，造星上天，账款难追](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220061&idx=2&sn=b0c5eb5fcbc77e8e85af4af3cad8f6ba)
+ 6. [“抗炎饮食”爆火：800亿的生意，正在收割年轻人](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220061&idx=3&sn=e4df2b081cbba0d53b147159457868c7)
+ 7. [一小时10元，她把自己卖给机器人](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220002&idx=1&sn=c4390dc67581231409861a98ca7afdc1)
+ 8. [8000家和100家：硬折扣的规模，为什么救不了单店](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220002&idx=2&sn=f49e9757eb382b45714efa15466f90a9)
+ 9. [为什么全世界都在为数据中心吵架？](https://mp.weixin.qq.com/s?__biz=MTQzMjE1NjQwMQ==&mid=2656220002&idx=3&sn=ae63ddb10fe3135bc102143c2181adea)
+
+**央视财经**
+ 1. [从喂饱庄稼到点亮电网！这块“石头”，全球爆单](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296955&idx=1&sn=fbbe18292253a4662a5111cad24633ea)
+ 2. [全国多地官宣，中小学上学时间调整！](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296955&idx=2&sn=9d5d5286c576cdbab5cab20db0d39bf3)
+ 3. [相距约1.7万公里，挡不住生意越做越大！红利从哪里来？](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296954&idx=1&sn=aede2a6de78dc3a3c733cb7e036c4095)
+ 4. [全球首个！300多台机器人，上岗了](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296954&idx=2&sn=80c177cd659909f670a6ce5014ead211)
+ 5. [特斯拉Cybercab，开启个人订购](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296942&idx=1&sn=245e8432d6abe1627265d00fd533c124)
+ 6. [腹泻不一定是“吃坏肚子”！感染性休克早期信号要知道](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296942&idx=2&sn=6438c218aa6124a66afdb2c1e3ee2b15)
+ 7. [10元猪肉冒充30多元“牛肉”！顾客一句问价，牵出百万造假案→](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296866&idx=1&sn=6e10b99387d2d5e517b2f1cb3e575886)
+ 8. [利好来了，将带动数千亿级消费市场！](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296865&idx=1&sn=c79786da3419247f67f86be8c02a44a1)
+ 9. [英伟达最新发声](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296865&idx=2&sn=512940b6b3d1e444086f5ad32e3128ea)
+ 10. [证监会主席吴清，最新发声](https://mp.weixin.qq.com/s?__biz=MjM5NzQ5MTkyMA==&mid=2658296852&idx=1&sn=51698e2bd37cd9c06213ef742f50d923)
+
+**36氪**
+ 1. [不做下一个山下有松，千元国产包们照样让中产买单](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909713&idx=1&sn=ef22049155d991ce09958eaeacd0f0ee)
+ 2. [如果黄仁勋再创业](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909713&idx=2&sn=b161502a9d92cee7e7ea065af75d1e68)
+ 3. [从马斯克当众下跪到盖茨被勒索：硅谷大佬们的「致命软肋」](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909707&idx=1&sn=c2b56890878dc9fd590a91e3ccd668a1)
+ 4. [黄仁勋回不回得来？段永平和前推特CEO吵起来了丨氪代表周报](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909707&idx=2&sn=2980c6d811303e0334ab2d65b699baaa)
+ 5. [WISE2026商业之王第二批嘉宾阵容官宣](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909707&idx=3&sn=11967bee6a40eeab9ad53690a7a3b1d7)
+ 6. [9点1氪：英伟达员工请愿黄仁勋回归，马斯克宣布将签名支持；大疆宣布对部分产品调价；Claude最严封号措施正式生效](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909537&idx=1&sn=3ef98ea777017a6af1a0ee61d6cd52cb)
+ 7. [普通人也能搞硬件开发了？这很「何同学」](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909537&idx=2&sn=fb2eac141a61f30e8fcce72fbab6933e)
+ 8. [中产买包的尽头：星巴克](https://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248909537&idx=3&sn=cd62ea439c648c574e885192361638a6)
+
+**麻省理工科技评论APP**
+ 1. [英伟达真能追踪芯片防走私？行业组织公开质疑](https://mp.weixin.qq.com/s?__biz=MzI5MTcxMTA3Mw==&mid=2247511574&idx=1&sn=208983c57d8a19c838b4ebce80cecf20)
+
+**哈佛商业评论**
+ 1. [四重权力构筑“企业主权AI”：驱动核心竞争力自进化](https://mp.weixin.qq.com/s?__biz=MjM5NzY4MzQyMQ==&mid=2650154093&idx=1&sn=dd0989243618c7750d9ce70a3c3813d7)
+
+**三联生活周刊**
+ 1. [被检出“铅超标”，中产捧红的“保健品一哥”彻底翻车了？](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614266&idx=1&sn=98c71d7e8d2a9b8710bb693db3cec72b)
+ 2. [世界上最神秘的商家：学校周边的小卖部](https://mp.weixin.qq.com/s?__biz=MTc5MTU3NTYyMQ==&mid=2651614266&idx=2&sn=4146dda3c20c7842459a00358b861955)
+
+**凤凰网财经**
+ 1. [胖东来启动二次调查，真假洋牌到底怎么算？](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839183&idx=1&sn=a2e3e4bc2ddcc69444e1b94befedbc0d)
+ 2. [独家对话中芯国际联合创始人谢志峰：长江存储上市后市值有望超过万亿](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839183&idx=2&sn=45b054eef529e296a39d77654f7008ec)
+ 3. [黄仁勋辞职，留下六个待解问题](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839183&idx=3&sn=7e1a8b246854375f1a1547621d6cb052)
+ 4. [百万一针的天价救命药，大降价进入医保](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839183&idx=4&sn=c2c63e3783a2c012892753eebd1e4962)
+ 5. [美联储重磅报告：“AI热”正推高资产估值](https://mp.weixin.qq.com/s?__biz=MzU5ODU1Mjg5Nw==&mid=2247839183&idx=5&sn=0832beeaf1a0a67f47698fad40fcfe07)
+
+**网信中国**
+ 1. [第一观察｜推动构建亚太共同体的中国担当](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545573&idx=1&sn=c92972d957e37c45190f3ba8df863fdf)
+ 2. [近镜头｜为强国建设民族复兴而团结奋斗](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545573&idx=2&sn=3f370e6332abb423770e83e33d82f334)
+ 3. [一见·缅怀孙中山先生，感悟“振兴中华”的必由之路](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545550&idx=1&sn=cf070430e10247560e70bdd3a4e15a9d)
+ 4. [【央视快评】为做强做优做大国有企业和国有资本提供坚强保障](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545550&idx=2&sn=85657a193c8fd2912e6ff8c6f6835ade)
+ 5. [时政微观察丨从总书记引用的典故，感悟如何涵养党性](https://mp.weixin.qq.com/s?__biz=MzAwMjU0MjIyNw==&mid=2651545529&idx=1&sn=4b1726a324bb0bd57d50e311549b823a)
+
+**硅谷101**
+ 1. [AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？](https://mp.weixin.qq.com/s?__biz=MzA4NjUwNTI0OA==&mid=2247500845&idx=1&sn=a326b150aae6fb43afa8d2754a0960d0)
+
+**南方周末**
+ 1. [你越觉得眼熟的脸，越可能是假的](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704912&idx=1&sn=9a19760dfde6d79050f7c665a240a330)
+ 2. [南方周末少年新闻课 | 给孩子一把开启世界的钥匙](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704912&idx=2&sn=3e014442fc11ef11dd812dc2dad257f4)
+ 3. [“没有乔丹的公牛”，英伟达步入后黄仁勋时代](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704877&idx=1&sn=00f013f1def2bfcb61c47070d2814f19)
+ 4. [650万次快门：我们如何用影像看见彼此？](https://mp.weixin.qq.com/s?__biz=Njk5MTE1&mid=2652704877&idx=2&sn=ddde18593d838df588de865d2a7c7bbb)
+
+**果壳**
+ 1. [有啥以前嫌贵没舍得买，现在划算到令人震惊的小零食？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382600&idx=1&sn=2a3c8322ca17918653568601141318a0)
+ 2. [什么东西被发明出来后，莫名其妙地违背了它的用途？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382600&idx=2&sn=a2e3988e4401ae72d0ec25b1d36e1d05)
+ 3. [把鹅绒塞进T恤？怪不得今年大家都不穿羽绒服了.....](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382599&idx=1&sn=04c582f052cb273deb633fdafbb063f6)
+ 4. [准备在豪华邮轮上度过余生的老人，在柬埔寨被丢下了船](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382599&idx=2&sn=2e0dc6759a95c3d32165b4a8ead1c62d)
+ 5. [中年夫妻不再接吻的真相，很多人说不出口](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382599&idx=3&sn=ad26c2737254b9b10eca5cc18c279b38)
+ 6. [马斯克又要用筷子夹火箭了！这一次，他要从太空抓回一艘飞船](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382594&idx=1&sn=4c7aa4d589e64a91dac4b89e1de48e4c)
+ 7. [未来光锥闭门会纪要丨基模更强之后，AI4M怎么做？](https://mp.weixin.qq.com/s?__biz=MTg1MjI3MzY2MQ==&mid=2652382594&idx=2&sn=0e2a255691fde68ac27953240445370b)
+
+**小林coding**
+ 1. [Anthropic开源神级项目，专治黑心AI中转站！](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247566428&idx=1&sn=ec860c65c64adfd163e959f51689124c)
+
+**人物**
+ 1. [9岁女儿车祸离世后，他在路口追踪违法货车](https://mp.weixin.qq.com/s?__biz=MjEwMzA5NTcyMQ==&mid=2653258286&idx=1&sn=96dde7c320ea65a7857b60e002de0878)
+
+**Developer Tea**
+ 1. [Finding A Way Through Forced Change of AI Transformations](http://www.developertea.com)
+
+**雪球**
+ 1. [大空头再出手，加码做空纳指100与半导体！英伟达股价连跌6周，自高点市值蒸发1.8万亿美元...](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652395022&idx=1&sn=b19cdc7ef8d8859737ba8f3d9583422a)
+ 2. [一个时代结束了：没有老黄，英伟达会走向哪里？](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652395022&idx=2&sn=511095ed51b158982946a297ec6fbd8c)
+ 3. [常见基金黑话图解！快来看看这些词你都懂吗？](https://mp.weixin.qq.com/s?__biz=MzA5MjE3ODgzNA==&mid=2652395022&idx=3&sn=8619e904e2b593f654e412374fbf07c2)
+
+**南京发布**
+ 1. [顾源简历](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997232&idx=1&sn=cc84eb3305c4af7d1026af368eb76b58)
+ 2. [“大家可以叫我小方，因为我长得有点方”](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997229&idx=1&sn=35c05fd0ca67a4603044760503fdc571)
+ 3. [此时此刻南京栖霞山](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997213&idx=1&sn=21ef85614a29a0f6c3eda7345f70fdcf)
+ 4. [恭喜南京这33位老师](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997183&idx=1&sn=0028bad4d01c4baabc01391378557977)
+ 5. [14岁初中生突发脑梗，侧肢体偏瘫、口角歪斜，家属：长期吃外卖奶茶，几乎不喝白开水](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997181&idx=1&sn=35a41a01e46c60d3832a5f761590b675)
+ 6. [南京大学有新动作](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997180&idx=1&sn=8bc5498c7aa513b1d320ef58e82d9c9a)
+ 7. [连休5天，目的地南京](https://mp.weixin.qq.com/s?__biz=MjM5MTczODg0MA==&mid=2649997170&idx=1&sn=1bcf8d19d58a619f271ddce280997d97)
+
+**新周刊**
+ 1. [China Haul刷爆海外朋友圈，老外在中国如何像本地人一样生活？](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917526&idx=1&sn=0801b7db4535f87613c28cbd112c1652)
+ 2. [为什么满大街的牛肉都是安格斯的](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917526&idx=2&sn=62eb963a5b5ff61a2cb2099a3050e207)
+ 3. [年度最缺德CP，诞生了](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917526&idx=3&sn=165096fd20ad91437c18bf1519db6656)
+ 4. [“早7晚12”、一场只赚十几块，农村女性为何还要做直播](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917493&idx=1&sn=7d604b9a8b6906296abcfcefbda89d93)
+ 5. [全民眼馋的“摸鱼神器”，在顶流直播间甩卖成白菜价](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917493&idx=2&sn=e7ded9a29e3821feb3e976536a3a95aa)
+ 6. [你的寿命到底由什么决定？这项研究颠覆认知](https://mp.weixin.qq.com/s?__biz=MjM5ODMzMDMyMw==&mid=2654917493&idx=3&sn=cd7f957c0c075000ef92443ec98bb7c3)
+
+**雷峰网**
+ 1. [中国汽车的下一场硬仗：让世界为中国式豪华买单](https://mp.weixin.qq.com/s?__biz=MTM2ODM0ODYyMQ==&mid=2651759574&idx=1&sn=22216b1149e4141277ea48338c6af692)
+
+**公安部网安局**
+ 1. [《网安的网》——网警一腔热血，守护网络安全](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247584745&idx=1&sn=e65f6a24a789a6f9c7e8799014d761e2)
+
+**第一财经**
+ 1. [特斯拉Cybercab，开启个人订购](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842058&idx=1&sn=46a51e1715f8249633e8a658f2b0bb51)
+ 2. [意大利对Meta罚款超8亿欧元](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842054&idx=1&sn=4ef5adf14e1dd820b9ab14f89cd218e0)
+ 3. [男子凌晨误购2.3万元机票，几分钟后退票被扣1万元，“狂打14通电话折腾一宿，没有找到减少损失的解决办法”](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842045&idx=1&sn=fb661c0bfd035169dab50eeaeeff6db6)
+ 4. [于东来回应“人红是非多”](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842040&idx=1&sn=3f096ff5898867ffd6a6a354575d4ed1)
+ 5. [里斯加码中国市场：超级技术、消费迭代与全球市场成企业增长主线](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842040&idx=2&sn=a747e18c78afcd6bb746b34186f810b7)
+ 6. [一针139万元的血友病基因疗法进入商保创新药目录](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842029&idx=1&sn=b29f2a5166d06b56e54f3f4cb4e0342c)
+ 7. [佳士得上海拍卖落槌，总成交额1.18亿元人民币](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842029&idx=2&sn=9a486aed35f56bc43dbca829c9fa9e73)
+ 8. [“海聚英才”创投基金一期已带动近百亿社会资本](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842029&idx=3&sn=d1dc3f21dc4d9e78e5a9e4dd3ea2c607)
+ 9. [雪假来了，多地已官宣！](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842023&idx=1&sn=bcfed0268ec75424d6ceccb13c641443)
+ 10. [3个新进医保药就有1个江苏造，制药大省如何让国谈药加速进医院](https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661842023&idx=2&sn=e7d73d7aa0d1bd8166445aa3372daa35)
+
+**21世纪经济报道**
+ 1. [马斯克力挺黄仁勋，超8.5万人签署公开信希望黄仁勋回归，有工程师称“没有黄仁勋就没有英伟达”](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677039&idx=1&sn=4b046c74a452a2b66a3234b57d6135dc)
+ 2. [SpaceX首次成功实现“筷子夹飞船”](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677033&idx=1&sn=af23bfa4bbc5322c948d95d40f55beb3)
+ 3. [Meta被罚超8亿欧元](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677033&idx=2&sn=736980533a65a3fb86d97fb97e778803)
+ 4. [黄仁勋一走，英伟达的中枢瘫了](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677020&idx=1&sn=e28e3fe6f62b2f5e5c64525096435a3a)
+ 5. [下周将有37只个股面临解禁！合计解禁市值超319亿元](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677020&idx=2&sn=2793cfc2d94919b036cc32bc67afbcfd)
+ 6. [永辉、盒马、山姆、叮咚都在降！猪肉价格跌到近10年最低，部分比蔬菜还便宜，消费者直呼“这个价格对吗？”](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677017&idx=1&sn=822c03114da7327abf899907925502b5)
+ 7. [APEC会议各项筹备工作已就绪，广东推出218个参访点](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677017&idx=2&sn=b96dbf31891333cdf5720a78e5908133)
+ 8. [双十一 把财经“读厚”，把认知“装满”](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650677017&idx=3&sn=af7b38d215e07eb8aebb183c0d00ad39)
+ 9. [又一国产，全球爆单！](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650676992&idx=1&sn=e78b4febe2d1cd7a9493c1e236058605)
+ 10. [泽连斯基：美国建议乌克兰割让领土](https://mp.weixin.qq.com/s?__biz=MjI3Njc0NTk4MQ==&mid=2650676992&idx=2&sn=6969a064c781b656c26b94df57e76bf8)
+
+**砺石商业评论**
+ 1. [穿透舆论迷雾，还原一个真实的北京环球影城](https://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247638792&idx=1&sn=6385d4fa7d18d3865e2745cd2b5b9397)
+ 2. [穿透舆论迷雾，北京环球影城哪一面才是真相？](https://mp.weixin.qq.com/s?__biz=MzIyMDMyNTMwMw==&mid=2247638778&idx=1&sn=d675c147bafe03aeab438dc3f0aaa078)
+
+**见实**
+ 1. [DeepSeek 开放“全家桶”应用 API](https://mp.weixin.qq.com/s?__biz=MzU3NTU5NDc0NA==&mid=2247610776&idx=1&sn=49315adf3ed93ef48915163da4da7654)
+ 2. [直播预告｜停在店长个人账户里的客户，如何用「增值型系统」重建？](https://mp.weixin.qq.com/s?__biz=MzU3NTU5NDc0NA==&mid=2247610776&idx=2&sn=f0e4bb91ea3464a8f87d9665a66d93f4)
+
+**凤凰网**
+ 1. [机器人还没上岗，公司先倒闭了](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248148824&idx=1&sn=fd5938cacaeee92e58c1c4852b5fe16e)
+ 2. [持续接受滋润护理](https://mp.weixin.qq.com/s?__biz=MzU4NDQwMDk5OQ==&mid=2248148824&idx=2&sn=49a0badb6045d64cf09e680880ada68f)
+
+**五星体育**
+ 1. [BLG！拿到赛点！](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020361&idx=1&sn=11f7d43b63ad4ede4e422e09da284a2e)
+ 2. [后C罗时代，葡萄牙遭遇大败……](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020353&idx=1&sn=07c930b5d8a806f33266dac108d016d2)
+ 3. [结束三连败！中国队2比0战胜马来西亚](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020342&idx=1&sn=40311f558731f00b243acbbc483c426e)
+ 4. [彭子鸣破门 中国U19战平塔吉克斯坦](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020319&idx=1&sn=0420da05db033832caba07d329254b5d)
+ 5. [从“巴字不合”到“比肩詹韦”！](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020281&idx=1&sn=9d8daae8ff126e9a4ee038b744890a29)
+ 6. [波士顿红袜签约MVP！](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020269&idx=1&sn=7b3158c1e053fff5bc93a840d763b0ae)
+ 7. [“迷你克鲁伊夫”入选美国国青](https://mp.weixin.qq.com/s?__biz=MjM5MDE4NTk4MA==&mid=2651020258&idx=1&sn=2050f14560f155b4d6e0b9a794852995)
+
+**All Ears English Podcast**
+ 1. [AEE: Once You Get It, You Got It!](https://www.allearsenglish.com/fluencyscore)
+
+**经济观察报**
+ 1. [黄仁勋走了，“达链”老板们开始盘订单](https://mp.weixin.qq.com/s?__biz=MjM5OTExMjYwMA==&mid=2670402519&idx=1&sn=bedaf1d058669d81889f531cb577f599)
+
+**环球时报**
+ 1. [利好来了，将带动数千亿级消费市场！](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167822&idx=1&sn=b6fa8a3b317f514d7c34b2d5ca16a0fb)
+ 2. [全美航班停飞5小时，是“9·11”以来持续时间最长一次，美联邦航空局局长致歉，美交通部长：故障发生时正升级通信线路，调查是否操作失误](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167822&idx=2&sn=c5beb70ab1ee2195c5cf183dde89f980)
+ 3. [全球首个，落户中国！](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167808&idx=1&sn=1b015761abaa6f97d4dbec9792385014)
+ 4. [金饰克价，连跌四天](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167808&idx=2&sn=42734ca1af751c9a1b8f4f22b8add159)
+ 5. [出口大涨116.6%！国产“新顶流”，全球爆单！](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167808&idx=3&sn=141ae2bd38308c22fa6cfbeefb728c47)
+ 6. [国足，赢了](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167807&idx=1&sn=393487d06ae2bb591b5ea1493e4a57f0)
+ 7. [举报属实！奖励300000元！](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167807&idx=2&sn=57cbb1c8cfa55a5fc74df675d923da2e)
+ 8. [男子开了“智驾”直接躺倒睡觉，称“在高速上我觉得安全”，交警一查：车上载着一家四口，副驾人员未满12周岁，司机此前还有多次危险操作](https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ==&mid=2654167782&idx=1&sn=f1f7d10175207e8b8b4a67c9bc072519)
+
+**格隆汇APP**
+ 1. [四连板！单月暴涨50%，光伏老企成功卖身](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878872&idx=1&sn=f81acd0d71128385f0cf793d1bf08c50)
+ 2. [AI叙事分歧，端侧AI的机会是不是来了？](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878872&idx=2&sn=578646f2264b9e242a3e1c41a03d5660)
+ 3. [外围又炸锅了。。大佬们集体呼吁](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878872&idx=3&sn=5f2f3594df2aa2c8550758c43d3acb38)
+ 4. [浙江宁波半导体材料巨头赴港IPO，给中芯国际、台积电供货，市值577亿](https://mp.weixin.qq.com/s?__biz=MzAwNjExNDkyOA==&mid=2649878872&idx=4&sn=340b33509b2536f6aca3b60bc67e86fc)
+
+**足球报**
+ 1. [迎战马来西亚！国足的自我救赎从今晚开始？](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750293&idx=1&sn=39bbc56aff935d169d4810f75de6d6c4)
+ 2. [常卫魏执教中国女足，“最熟悉的人”率队冲击奥运会](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750293&idx=2&sn=b86fd0efa0cd815b17d0e1211a52c45e)
+ 3. [1000万美元高昂代价，波切蒂诺进入曼联“换帅循环”](https://mp.weixin.qq.com/s?__biz=MzA5NjQyMjEzMg==&mid=2650750293&idx=3&sn=f1b3bf999111900bf365e601d8c2e325)
+
+**科普中国**
+ 1. [为什么有人每天睡得少却很精神？科学家发现“短睡基因”](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153573&idx=1&sn=8faa821f7cb7fa9ed4b2daedbfc56492)
+ 2. [打开脑机接口研发新路径，神经元编码有新发现](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153573&idx=2&sn=3842be21e139d0f0542629fcbf82711f)
+ 3. [黄河“悬河”已超 800 公里，每年仍有约 5000 万吨泥沙淤积，如何破局？](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153533&idx=1&sn=ad53063469e7aa45d7e3d8fcad1f0485)
+ 4. [M87*黑洞存在“甜甜圈”结构吗？最新天文研究确认无误](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153533&idx=2&sn=bd4287ed085946e1918cfa16edbd1743)
+ 5. [高铁上给手机充电，电量为何越充越少？真相来了](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153570&idx=1&sn=0d9b60d10ff5e44946a72d419d817dbe)
+ 6. [彩色精灵现身！我国西南山地高海拔地区首次发现蓝翅八色鸫](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153570&idx=2&sn=399afd8c5ff3f4cb782c42dd87161b9f)
+ 7. [中国最不该被低估的科技成就，如今还在非洲落地](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153531&idx=1&sn=788f2009ad09095c8fa597d65230cbaa)
+ 8. [我科学家牵头提出“现代模拟计算”统一框架](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153531&idx=2&sn=9bf680d1f9f932e702f7656412319b47)
+ 9. [“减肥神药”司美格鲁肽致盲风险冲上热搜！尚无可靠治疗方法](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153530&idx=1&sn=27fbcefcb6dfbc5fb51eac1eae6e65e5)
+ 10. [不靠宇航员！机器人首次实现太空自主建造](https://mp.weixin.qq.com/s?__biz=MzA5NTk1MDMxMg==&mid=2653153530&idx=2&sn=bab874ab1fb8db4ec92f8be807e07938)
+
+**科技美学**
+ 1. [苹果50%份额，全球手机收入报告出炉](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225826&idx=1&sn=d1b831974d05d6511a69969d97ef9065)
+ 2. [OPPO Reno 17 Pro全家桶抢先看！](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225826&idx=2&sn=8147a84bb693519a759417331ae52b94)
+ 3. [小米澎程N90 Max三款配色有哪些区别](https://mp.weixin.qq.com/s?__biz=MjM5MDQ4MzU5NQ==&mid=2659225826&idx=3&sn=86909f9d99af909ddad5a86c6493e36d)
+
+**每日经济新闻**
+ 1. [突发，多国联军发动空袭；霍尔木兹海峡大消息，油轮爆炸起火；20克大金镯子下跌约1万元；吴清：A股有2亿多股票投资者丨每经早参](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611465&idx=1&sn=b2f4037cd3c6469ced1a641e88f47cf5)
+ 2. [见证历史，SpaceX首次实现“筷子夹飞船”，现场视频](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611456&idx=1&sn=e6bada45f81e39389c540d70cb7d4f49)
+ 3. [“洗发水产地风波”后，于东来再发声：胖东来的经营永远不会完美，时间会给出最好的答案](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611451&idx=1&sn=f64ee013df775a70b0b1e6dce17f07ac)
+ 4. [中国内地首个！深圳外贸进出口破5万亿元](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611451&idx=2&sn=06009ff618ffb61f5d6b06cb0824a84d)
+ 5. [特斯拉Cybercab，开启个人订购](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611451&idx=3&sn=33633e84e52d63cd096729e584a46313)
+ 6. [马斯克力挺黄仁勋，签署公开信呼吁英伟达董事会让其回归！已有超8.5万人签名支持](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611445&idx=1&sn=e43128db4fa9cfe0d09328860412c8e7)
+ 7. [韩国LG集团创始家族成员，涉嫌操纵股价，非法获利145亿韩元！其潜逃8年后，在柬埔寨落网](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611445&idx=2&sn=b6ad567c1baf708cf90def22be2716e7)
+ 8. [巴基斯坦、埃及、沙特阿拉伯、土耳其、约旦、卡塔尔、阿拉伯联合酋长国、印度尼西亚、巴勒斯坦国、阿尔及利亚等17国外长强烈谴责](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611433&idx=1&sn=731fdfae7f337c7f09835c486b40df21)
+ 9. [未经同意读取用户手机相册，涉及约2000万安卓用户！Meta被罚超8亿欧元](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611433&idx=2&sn=78e6ff3256a2c7de558af674ac5ccb8e)
+ 10. [一场科幻赛事，三年间如何长出“产业骨骼”？](https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248611425&idx=1&sn=65d9b9b497f9a0c6a1d1e2198dbad886)
+
+**人民日报**
+ 1. [来了！新闻早班车](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045557&idx=1&sn=88854bf8fc32494fed0cd45d4c6a62ca)
+ 2. [【夜读】什么都“舍不得”，也是一种浪费](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045524&idx=1&sn=e5ffd11e0013dac6e6f954537e7a6716)
+ 3. [别把闷出来的头昏、犯困只当“缺氧”！长期密闭不通风，正在悄悄伤害你的血管](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045516&idx=1&sn=2111a671a791bf298282ec5d6403fe10)
+ 4. [花店老板网上接单，客人要求用百元大钞做“现金花束”，老板直接报警，获重大线索奖](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045509&idx=1&sn=0f4a6e8503d7d44988274304351b6f2e)
+ 5. [4岁女孩被妈妈抱着坐副驾遇车祸，安全气囊弹出撞到肚子，当晚竟呕吐不止紧急送医](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045508&idx=1&sn=29ed9287991c4e273609678d39f593a9)
+ 6. [“淮海战役命令当考题”，一高三试卷引热议](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045504&idx=1&sn=6c3458c57bab5a2878f210108ba7beaf)
+ 7. [里程碑突破！城市间“打飞的”真要来了？](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045480&idx=1&sn=f87a10f2571a43977ff334a7a2e579cc)
+ 8. [情侣家中吵架，女子情绪失控拿菜刀抵住自己脖子，男子夺刀随手从三楼扔出，砸中一辆机动车，法院判了](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045471&idx=1&sn=9260bdb0a846030f02f8efbbb6f17900)
+ 9. [被忽视的“护心肉”！保护心血管很省心，每周吃2次就够](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045455&idx=1&sn=be394630b9fb343f2c36a8ece45bd7fc)
+ 10. [雪假来了，多地已官宣！](https://mp.weixin.qq.com/s?__biz=MjM5MjAxNDM4MA==&mid=2667045446&idx=1&sn=17a0dec5bed7a33a37056c25d558b4b3)
+
+**新华社**
+ 1. [早知天下事〔2026.11.15〕](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250594&idx=1&sn=7fae261d36172e44849986c2acb9ef8d)
+ 2. [26万人研究：常喝这种饮料的人，痛风风险更低？](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250593&idx=1&sn=86cfb650f72a33b0cf61eabbdc6dd366)
+ 3. [夜读 | 一个家最舒服的状态，是每个人眼里“有活”](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250591&idx=1&sn=2a281b7fc7d3f6daf9e54cc5a6b9f4b4)
+ 4. [女孩因电话手表突然刷不开闸急哭，工作人员冲上前搂住她垫钱买票，第二天女孩特意来还3元路费](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250574&idx=1&sn=3ab06efade17685e680c8781cbc6e48a)
+ 5. [南非甜樱桃，要来了！](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250554&idx=1&sn=74956339842c855d130187c6969c3dce)
+ 6. [男子摆摊卖菜时冲动打人被抓，眼看1000多斤蔬菜要烂在车上，派出所：全帮他卖完了，大家在食堂吃了一星期白菜](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250529&idx=1&sn=7064c5f1e8522811d6bac025379b6eae)
+ 7. [“0蔗糖”“零添加”更健康吗？专家解读→](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250528&idx=1&sn=1038e550b56649e882fb812f1beaf19c)
+ 8. [13岁女孩确诊“胃癌之王”，已无救治余地；医生：她的这些习惯，家长都没当回事](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250527&idx=1&sn=8eb0847aeeef5f16f2b524766be342da)
+ 9. [金牌榜、奖牌榜第一，圆满收官！](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250526&idx=1&sn=00419aa7ebe30d1815743fdf8fb12354)
+ 10. [13岁孩子脖子越来越黑，家长以为是没洗干净！医生提醒→](https://mp.weixin.qq.com/s?__biz=MzA4NDI3NjcyNA==&mid=2650250516&idx=1&sn=501e28512d02b47d52640a40d607a3c0)
+
+**天下足球**
+ 1. [断崖式崩盘！费兰从封神到彻底哑火！](https://mp.weixin.qq.com/s?__biz=MjM5NTI3ODUwMg==&mid=2650642413&idx=1&sn=e9854b8b474c8ae122e9417eeb17c62f)
+ 2. [有技术无名气的技术中场，在米兰躺赢意甲，与国米有缘无份，只为意大利出场2次](https://mp.weixin.qq.com/s?__biz=MjM5NTI3ODUwMg==&mid=2650642413&idx=2&sn=f67ca1015b72719b8529742f28913805)
+
+**央视新闻**
+ 1. [早啊！新闻来了〔2026.11.15〕](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989597&idx=1&sn=91f90f3a05dadcfe3d350f9c9841b2d4)
+ 2. [孩子对别人的方式，藏着你待他的样子](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989589&idx=1&sn=d891a96d620ce6a02605ca808099f09a)
+ 3. [APEC最高级别的会议，为何命名为“非正式”？](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989564&idx=1&sn=ca15c73467a0be98954822d26d48e73f)
+ 4. [腹泻不一定是“吃坏肚子”！感染性休克早期信号要知道](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989517&idx=1&sn=703abda2ff25de20f981f29bc9648159)
+ 5. [“只要能让他知法懂理，吃一周白菜，值！”](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989510&idx=1&sn=22ba672a13e122ab124a02324f6a272e)
+ 6. [短时免费、夜间降价、包月费用下调⋯⋯多地优化停车收费！](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989492&idx=1&sn=37c693310811729506a63c0b792184c2)
+ 7. [全国多地官宣，中小学上学时间调整！](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989479&idx=1&sn=9c25d804260a5170c28ad3c74ff0e5bf)
+ 8. [中美举行中美经贸磋商机制项下贸易理事会首次会议](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989454&idx=1&sn=10c87081ea558d44c1997d3843194676)
+ 9. [电动商用飞机又一里程碑！](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989431&idx=1&sn=0e6d819a1c9bf953d7cbec8780775b75)
+ 10. [15万处外语标识更新！“国际圳”（听劝版）持续上新中](https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657989420&idx=1&sn=f217746af7eaa15dba022e1dcdd64fd0)
+
+**非凡产研**
+ 1. [累计试穿超100万次：如何打通品牌库存与AI推荐的最后一公里](https://mp.weixin.qq.com/s?__biz=MzU5Mjg5MjQ5Ng==&mid=2247523260&idx=1&sn=44c97725a2f90fdca9ee08b48c3c73a6)
+
+**中国新闻周刊**
+ 1. [英伟达、字节、谷歌，涌入“救命”的生意](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766721&idx=1&sn=7afba7f0bb577d92fbf5c2bbf2ec13e8)
+ 2. [人生建议！少穿牛仔裤，冲锋裤是真的帅！](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766721&idx=2&sn=ab4844a2c10ce5000e26ff3dcab9fde1)
+ 3. [2000多万粉丝博主“深夜徐老师”宣布怀孕，其丈夫曾被调侃为“全网嫁得最好的男人”](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766723&idx=1&sn=36788cf82d3ed0a819c3e3da97bd14b8)
+ 4. [花55万元买二手房，装修后得知“房主儿子从屋外窗口跳楼坠亡”，买家起诉，法院驳回：不算凶宅](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766722&idx=1&sn=45efdcc99e4eeec62713acd5d62df2e2)
+ 5. [7岁男孩误吞金属游戏币，妈妈多次带他到高铁站安检，借用金属探测仪扫描身体，掌握在体内动向，还喂食香油、金针菇等，一周多后顺利排出](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766719&idx=1&sn=d510f2c9d006e309b89a9ab7bddcfa87)
+ 6. [你爷爷刚把公司转你名下了](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766724&idx=1&sn=020117a0ed840ae25929d8f19ed2fb03)
+ 7. [充电比加油还快了？](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766725&idx=1&sn=fceddf1a2c8b2d171ac90bf8fc3a633a)
+ 8. [广铁长沙客运段通报：列车员彭某按票价标准7元收费，未多收，但开了4元的车票，属以票谋私，记大过、离岗停职3个月](https://mp.weixin.qq.com/s?__biz=MjM5MDU1Mzg3Mw==&mid=2651766720&idx=1&sn=b66d99fee064f0d3e0e09a089a90889d)
+
+**懂球娘娘**
+ 1. [穆雷申请交易！球队直接同意！人心散了，都想走](https://mp.weixin.qq.com/s?__biz=MjM5OTc2MDY5NQ==&mid=2653159110&idx=1&sn=a43b1b3d064d34251d8192a84f88f890)
+ 2. [1000多的冲锋外套给你砍到了100多！100%绵羊毛，德国硬货！](https://mp.weixin.qq.com/s?__biz=MjM5OTc2MDY5NQ==&mid=2653159110&idx=2&sn=616b5b70fb554c2344437cf5d5715c96)
+
+**券商中国**
+ 1. [骤降99%！量化之王，清仓式减持！](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287400&idx=1&sn=e044f2b803962d4b959d8b94bbfcc7aa)
+ 2. [业绩说明会上，多家券商回应股价问题](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287400&idx=2&sn=59eefa54c68e65078eaa507f2a59fbf4)
+ 3. [又有两家期货公司增资落地！](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287400&idx=3&sn=bd85a0587439c9a724a2ee6373950114)
+ 4. [前CEO机上引发火情，荷航提出指控](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287400&idx=4&sn=e427f584bf95577a98a252f0f5d31e58)
+ 5. [重大信号！“空军”，再度集结！正做空这类美股](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287387&idx=1&sn=59c6da30548fc6d7aa3379a13b24d878)
+ 6. [【财闻联播】金饰克价，连跌四天！币安计划下周末前全面恢复提现服务](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287387&idx=2&sn=5ffff5ad97c67a90ea33516b9676c085)
+ 7. [募资超60亿元！5300亿上市银行，增资即将落定](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287387&idx=3&sn=fee1e689ec87c35602e05fd4da59e3ca)
+ 8. [可连休五天！多地公布雪假安排](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287387&idx=4&sn=83ab0d77cd1a436547f41addb631a113)
+ 9. [刚刚，突曝撤销！美国疫情暴发](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287384&idx=1&sn=c71d5a2764d6c7bf3851d6716b06d8fe)
+ 10. [中美举行中美经贸磋商机制项下贸易理事会首次会议](https://mp.weixin.qq.com/s?__biz=MzA3NjM5MjIwOQ==&mid=2652287384&idx=2&sn=98f53073eb95cb02e575f8cca5a0e6e2)
+
+**央广网**
+ 1. [7点出发｜4岁女童被妈妈抱着坐副驾驶遇车祸，安全气囊弹出撞到肚子，送医发现十二指肠断裂！医生提醒这个致命“杀器”→](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945633&idx=1&sn=b117acde78723f1ae6d57d454112befa)
+ 2. [开门红！中国男足热身赛2-0战胜马来西亚](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945632&idx=1&sn=74ac72963d951d055ce2491c92fe2371)
+ 3. [英伟达回应CEO继任者传闻](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945617&idx=1&sn=8fcc84cae9e1497af17c051f4a6f155f)
+ 4. [花店接到4781元订单，客人要求用百元大钞做“现金花束”！老板敏锐报警，多人被抓→](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945617&idx=2&sn=251784b8f8c753d6c5ea5bdffbee597c)
+ 5. [河道河水变蓝？海南儋州通报](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945607&idx=1&sn=5557b1902581b4b4b4423ce34393e35d)
+ 6. [退烧了，为什么病情更严重了？医生提醒→](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945607&idx=2&sn=538fe3b1086743a8dd1e19efa902d7ae)
+ 7. [中美举行中美经贸磋商机制项下贸易理事会首次会议](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945602&idx=1&sn=e88e8d695e6d37708c44b2bf59b86e61)
+ 8. [“国家队”下场做宠物粮，守护每一份毛茸茸的等待！🥰](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945575&idx=1&sn=9b3e4b35c9c4f5eff4816f2ea27c41a0)
+ 9. [网友决定我买不买，“花钱OA”火了！上百万年轻人找陌生人审批消费，是理性还是好玩？](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945574&idx=1&sn=feb76d7af22aad5759a49c83be1db704)
+ 10. [美国联邦航空管理局：地面停飞令已解除](https://mp.weixin.qq.com/s?__biz=Mzg4NjcwMzI1Mg==&mid=2247945574&idx=2&sn=076c50b929582c46e2261625538485f4)
+
+**中国国家地理**
+ 1. [8张图，带你看中国最美的湖中桥](https://mp.weixin.qq.com/s?__biz=MjM5NTA0OTU4MA==&mid=2653188204&idx=1&sn=5433e9a51a5fcc8fb448034936848473)
+
+**网球之家**
+ 1. [安娃送第二位幸运者回家，网友评萨巴出局：对阵小米辣吞蛋非意外](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286431&idx=1&sn=ed3fab8e5ac3552151a1231eb910c7cc)
+ 2. [安娃称会好好研究与佩古拉那次训练，阿卡回应再见费雷罗称非常期待](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286431&idx=2&sn=67002cb2e991de440692c3bc5b3bbfaf)
+ 3. [午报丨小紫薇怼记者你快死了吗？郑钦文穿碎花裙出席活动，郭涵煜逆转进四强](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286431&idx=3&sn=2e9266c3ca7ebf3fc35b1d4ba910760f)
+ 4. [兹维列夫迎来新民事诉讼，一句“清白已证实”掀起语义与法律之争](https://mp.weixin.qq.com/s?__biz=MjM5NjU1NjMwMQ==&mid=2673286431&idx=4&sn=6ac78e3c0ca7565ce261f00ea433aece)
+
+**安全出口FM**
+ 1. [黄仁勋出局始末｜三大案例拆解！公司到底能管你多少私生活？](https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3245730782201193478&podcastId=5196276392233076863)
+
+**半导体行业观察**
+ 1. [独家丨关键芯片材料，大缺货，持续到2030！](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=1&sn=ec4731eafb4ae0d7d27167130f875c88)
+ 2. [芯片还没坏，为何就“过时”？——AI芯片经济寿命与延寿之道](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=2&sn=633c4d216eb6b16b3243cf0086ac233e)
+ 3. [IP集成，挑战加剧](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=3&sn=5763e47e1598296bc118c60aaccc08e9)
+ 4. [英伟达换帅，4大变数](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=4&sn=a23803d0aad903c944b8e664852927ed)
+ 5. [CPU市场，英特尔强势回归](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=5&sn=49c7119ee6cbacdfc575d8e0a30cecb1)
+ 6. [台积电美国厂大赚539亿、年增逾10倍](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=6&sn=5add094a196af30d7bb91aad8805b6c4)
+ 7. [Cerebras ，突飞猛进](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=7&sn=877e81424b33c8912c055f4cfad7b218)
+ 8. [GlobalFoundries全新12吋晶圆厂，正式开工！](https://mp.weixin.qq.com/s?__biz=Mzg2NDgzNTQ4MA==&mid=2247838855&idx=8&sn=7cc8f64c9ead64b963c918ce476a1515)
+
+**央视网**
+ 1. [成都一花店老板接到4781元订单，客人要求用百元大钞做“现金花束”，老板直接报警](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487989&idx=1&sn=56d4fef89a174ac4344ac29a77755a1b)
+ 2. [男子摆摊卖菜时冲动打人被抓，眼看1000多斤蔬菜要烂在车上，派出所：全帮他卖完了，大家在食堂吃了一星期白菜](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655488014&idx=1&sn=dcc8930b7448a1eb3a83495cfa1201d9)
+ 3. [4岁女童被妈妈抱着坐副驾驶遇车祸，安全气囊弹出撞到肚子，家人没当回事，当晚竟呕吐不止紧急送医，医生紧急提醒→](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655488001&idx=1&sn=145b0ea2c9a1122ed43e163e349cec7c)
+ 4. [又一国产，全球爆单！](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487990&idx=1&sn=7c40cfb644f8568f28381d182b54c0d6)
+ 5. [13岁女孩确诊“胃癌之王”，已无救治余地；医生：她的这些习惯，家长都没当回事](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487970&idx=1&sn=b28e3805e5221d15721bd6b111e854fe)
+ 6. [金饰克价年内回撤已超500元](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487965&idx=1&sn=205865bbe8d57af9921818d1fcbfeaaf)
+ 7. [男子深夜潜入高速服务区卫生间，喷涂30多处涉黄涉诈网址，被抓时还辩称“喷的是反诈骗的”，警方：行政拘留5日](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487959&idx=1&sn=c1e4c0168f4725e90e93f003be18901f)
+ 8. [新增107种药品，其中51个为1类创新药！2026年版国家基本医保药品目录发布](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487959&idx=2&sn=fca51c928170fac1babf3f1a9bec6812)
+ 9. [雪假来了，多地已官宣！](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487951&idx=1&sn=5aaaeb0ba6fe57b13002f09fb5113cd6)
+ 10. [以“长治”促“长驭”：呼吸系统疾病诊疗有了新“武器”](https://mp.weixin.qq.com/s?__biz=MjM5NzI1MTY0MQ==&mid=2655487951&idx=2&sn=208fc6069a19bd5126bffaeba3bbed66)
+
+**孤独大脑**
+ 1. [AI 替你思考，你去洗碗](https://mp.weixin.qq.com/s?__biz=MjM5ODAyMjg3Ng==&mid=2650760258&idx=1&sn=6df27c9afe8c0b3788f764d444029533)
+
+**南风窗**
+ 1. [40年了，还是你猴哥最能打](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533492&idx=1&sn=dfd3ed349fb272ff37203ef6734666bc)
+ 2. [全美航班停飞令解除，预计今明仍有大范围航班取消或延误](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533492&idx=2&sn=870c78bc4474979bf2141a08d75631ff)
+ 3. [好消息，51个一类新药进医保](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533492&idx=3&sn=145c7c4b09a9758528ad5b9664b6d7a5)
+ 4. [迎日历 | 11月14日，迎 · 游戏](https://mp.weixin.qq.com/s?__biz=Mzg2Nzc0MDM3Nw==&mid=2248533492&idx=4&sn=33e5960152b24e7b949c8ce055da1c61)
+
+**APPSO**
+ 1. [Claude 开始「整顿」会议室，建议国内大厂抄作业](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651116538&idx=1&sn=c0cffea419707e58b8e13ae020374d91)
+ 2. [马斯克回应聘用黄仁勋建议：那将是我的荣幸/余承东重申华为与赛力斯分工/OpenAI撤销独立机器人团队](https://mp.weixin.qq.com/s?__biz=MjM5MjAyNDUyMA==&mid=2651116595&idx=1&sn=403416c3e03a6dd46fadef6293c646a0)
+
+**远川研究所**
+ 1. [大动脉辞职了怎么办](https://mp.weixin.qq.com/s?__biz=MzIwMDY2NTgwMA==&mid=2247528027&idx=1&sn=e1b8e74bf9dc6786a89be21f44ac7972)
+
+**DeepTech深科技**
+ 1. [OpenAI再次解散机器人团队：GPT-6太强，决定All in通用模型](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649808556&idx=1&sn=c132698d1c8ebeeb771debaf56790180)
+
+**功夫财经**
+ 1. [黄仁勋与杨小凯](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652619207&idx=1&sn=ef786d592c37c4f66cfd43c3bee62301)
+ 2. [老黄凉了，智谱、DeepSeek当上了国产芯片的“首席测试官”](https://mp.weixin.qq.com/s?__biz=MzIzOTA3NTA5Mg==&mid=2652619207&idx=2&sn=97972634c46e47edd796543a34a9f22f)
+
+**澎湃新闻**
+ 1. [“全美航空运输预计15日晚恢复正常”](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585880&idx=1&sn=9783ec0c009683ba0936f1df964a360f)
+ 2. [美“星舰”飞船首次被发射塔机械臂“捕获”回收](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585880&idx=2&sn=aca20eb1cea195f81443041c913ebc60)
+ 3. [战胜马来西亚止连败，国足主帅：这场胜利很重要，但我们也没有乐观的资本](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585868&idx=1&sn=20b8d664c5391df51859a3e49928e71e)
+ 4. [男子开“智驾”躺着睡觉，自称“在高速上觉得安全”，还载着一家四口，交警：副驾未满12周岁，司机此前多次开“智驾”玩手机、闭眼休息](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585861&idx=1&sn=429a2579baaf28f573247cd9d2482bd2)
+ 5. [山东潍坊公布“实时人口”约1006万：这项指标如何测算？](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585861&idx=2&sn=2c5a17a49b48fe4738f0dc754a594947)
+ 6. [甘肃平凉发起“见面即问您好”活动：不限于熟人之间](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585854&idx=1&sn=e76ef912d860daf8ad9d21dda8b57b27)
+ 7. [自付金额有望降至10万以内！百万元级别CAR-T如何谈进医保，药企披露谈判过程](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585854&idx=2&sn=08b0a5a4c343c2d18c46b1a17de1481c)
+ 8. [秦海翔，当选福州市委书记](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585853&idx=1&sn=fd1b6875da7ba565eb82cfef3df7ac1a)
+ 9. [鞠振任山西省副省长，朱晓东、常书铭卸任](https://mp.weixin.qq.com/s?__biz=MjM5MzI5NTU3MQ==&mid=2652585853&idx=2&sn=1d730b522a0b01729b5e6a68ad49574c)
+
+**混沌学园**
+ 1. [一坐一忘: 把创始人的热爱, 做成可持续的事业](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247616926&idx=1&sn=bff09ccbea6c7492b7af55bbfe9c5121)
+
+**理想国imaginist**
+ 1. [震惊文坛的首作，国际布克奖得主的文学起点](https://mp.weixin.qq.com/s?__biz=MjM5NzIwMTIyMQ==&mid=2650541176&idx=1&sn=d31872eefea6848322c1c1ec2d6aba2d)
+
+**集智俱乐部**
+ 1. [IEEE TAC：从矩阵到张量——高次Lyapunov函数逼近复杂系统真实吸引域](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738304&idx=1&sn=720688c06a6512f95cca8f3fad760153)
+ 2. [转载推荐｜中国人工智能学会社会计算青年科学家大会·冬季工作坊](https://mp.weixin.qq.com/s?__biz=MzIzMjQyNzQ5MA==&mid=2247738304&idx=2&sn=b38d81cc233a687d2e706d833b575976)
+
+**游戏研究社**
+ 1. [专访《锈湖》团队：建起了庞大世界观的锈湖，为什么还坚持做“小游戏”](https://mp.weixin.qq.com/s?__biz=MzIzNzM3NzE2MA==&mid=2247759683&idx=1&sn=7af3cb1a8145c43bc04d9f39ff513d9e)
+
+**格兰投研**
+ 1. [哪些公司会先倒下？](https://mp.weixin.qq.com/s?__biz=Mzk1NzE1NjgyMA==&mid=2247511542&idx=1&sn=6918cb9425ca6ec846fa3ab448777ca7)
+
+**知乎日报**
+ 1. [高赞丨为什么中餐很少用柠檬？](https://mp.weixin.qq.com/s?__biz=MjM5MDM4MDExNQ==&mid=2832658379&idx=1&sn=fea10d05983558bb40f0b18db7b1107f)
+
+**利维坦**
+ 1. [这里有个胖次君！](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MTUwNQ==&mid=2650533983&idx=1&sn=2130ad7f3307d449188bff8f7db447f4)
+
+**叶檀财经**
+ 1. [黄了，黄了，全黄了](https://mp.weixin.qq.com/s?__biz=MzA3OTI2OTI5NA==&mid=2656332571&idx=1&sn=8946c32b5f529b5c370f595da75ca695)
+ 2. [我不敢去体检，不敢面对体检报告，不敢面对罕见病的无药可用丨叶檀回信](https://mp.weixin.qq.com/s?__biz=MzA3OTI2OTI5NA==&mid=2656332571&idx=2&sn=84ad7d0c4bb81256a2ebe202e370a4c5)
+
+**标志情报局**
+ 1. [英伟达除了需要新的CEO，是否也需要新的LOGO？](https://mp.weixin.qq.com/s?__biz=MjM5OTEyNjY0MA==&mid=2650643708&idx=1&sn=2dedc478a77f1ad269c00460d2e82ac7)
+
+**界面新闻**
+ 1. [官方通报“4元车票收7元”，多人被停职](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998563&idx=1&sn=1530c541225d514255df82521cb1fea5)
+ 2. [Vera Wang中国代理商暴雷，最新进展](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998555&idx=1&sn=fbe7e46e6ba0c734897be10e16a119a5)
+ 3. [于东来：胖东来的经营永远不会完美](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998541&idx=1&sn=0d4461f1ed7fcf3858b4faac93259813)
+ 4. [配建“减负”，广州土拍规则迎来调整](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998541&idx=2&sn=82def45ca93f13bb8e1311dd25c19673)
+ 5. [喜讯！科伦博泰佳泰莱®新增适应症及舒泰莱®成功纳入国家基本医保药品目录](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998541&idx=3&sn=03455aaf026b61779e0040e7ffacf8af)
+ 6. [“百万一针”的抗癌药终进医保目录，使用人数有望破万](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998530&idx=1&sn=9bd9b69b16fc52639c69e7c39611c9fd)
+ 7. [英伟达回应黄仁勋继任者传闻](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998525&idx=1&sn=6fffe7af9e894d1bd2f258ff6c20bf2b)
+ 8. [比亚迪，紧急提醒](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998515&idx=1&sn=2ba2d8bd424f05bc10385505b746c9a3)
+ 9. [马斯克：将签名支持黄仁勋复职](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998501&idx=1&sn=321ce10a76d2bc66fbe87012fda2bbe6)
+ 10. [吴清最新发声](https://mp.weixin.qq.com/s?__biz=MjM5NTE0ODc2Nw==&mid=2650998500&idx=1&sn=ef4a3ce367f5ebae9dfe4f3d65f15d30)
+
+**罗西的思考**
+ 1. [【轻量化复刻大模型 / KIMI K3】MoE (Stable LatentMoE) 交互式演示文档](https://mp.weixin.qq.com/s?__biz=MzI4OTA3NjQxNA==&mid=2247490145&idx=1&sn=7d1c96cead963babb8f546b44d79d2fe)
+
+**地球知识局**
+ 1. [“日本副首都”来了，日本老二争夺战](https://mp.weixin.qq.com/s?__biz=MzkyNzIwODI3OA==&mid=2247687326&idx=1&sn=e52175a3aabdbed86e9d399a7d65579c)
+ 2. [日本的世界第一，为何没有批量阵亡？](https://mp.weixin.qq.com/s?__biz=MzkyNzIwODI3OA==&mid=2247687326&idx=2&sn=ae06aa670aa736bc043380c89430e696)
+
+**i食色摇闲情**
+ 1. [白色鸢尾花一夜之间全都开了，雪白的花瓣点缀明黄，且当一景迎接冬天第一场暴雪，据说它已经在路上了](https://mp.weixin.qq.com/s?__biz=MzYzMjEyNTYxMg==&mid=2247585036&idx=1&sn=ad56d3ac8f568bd1f680fdacf1e51ff3)
+
+**ETF进化论**
+ 1. [外围又炸锅了。。大佬们集体呼吁](https://mp.weixin.qq.com/s?__biz=MzU5NDYzNzUxMA==&mid=2247520470&idx=1&sn=a263a5b6b22afbe930139937c78a2700)
+
+**读者**
+ 1. [租客不辞而别，留下277元现金和字条：身上实在没钱，就剩这么多，房间打扫干净了。房东：900元押金和277元全额退回](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142107&idx=1&sn=139ed162cf6495f7d554aff2fd2a0b55)
+ 2. [当你的孩子不理你时，不必翻脸，只需使用“乌鸦定律”就够了，这样处理才是有水平……](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142107&idx=2&sn=887b21eda7dd6557e6754032a1c66d16)
+ 3. [“现在送生日礼物有多实在？”哈哈哈哈已步入纯过日子时代！](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142107&idx=3&sn=d2d25bbe4e6a37d646fffbd568c596e1)
+ 4. [晚安一句话](https://mp.weixin.qq.com/s?__biz=MjM5NDA2NjY4MA==&mid=2653142107&idx=4&sn=d1f2a22ad1c0753e3501c5541b752901)
+
+**刀法研究所**
+ 1. [呈白品牌主理人孙一文确认出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660750&idx=1&sn=7a67a72045acd111a52665ea223e46bd)
+ 2. [COROS高驰副总裁霜月确认出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660749&idx=1&sn=9ba26f49d8dead408437be9d25bfcd42)
+ 3. [BabycareCGO首席增长官Lillian出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660748&idx=1&sn=cbdb98a715197b0d9c28dcb1967f39fd)
+ 4. [觅深科技联创兼中国区GM洪雪飞出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660747&idx=1&sn=a3873d92abc06e5d33c998d8cb2424b6)
+ 5. [林清轩创始人董事会主席孙来春出席刀法峰会](https://mp.weixin.qq.com/s?__biz=Mzg3MTk4NDA3NA==&mid=2247660746&idx=1&sn=033d4717c9ed994308d93e2c98c932a2)
+
+**新京报书评周刊**
+ 1. [杜甫日记：到底吃饭为了活着，还是活着为了吃饭？丨周末读诗](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656190&idx=1&sn=33cb40cd50bcd6fe9b6fdd593edc1617)
+ 2. [天蚕土豆北大对谈：趁心中那口少年气还在，再写一写](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656190&idx=2&sn=64799a3d3dd0933c08048a53a3049ceb)
+ 3. [“烤白薯”是外来技术还是本土发明？](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656190&idx=3&sn=0af62cf1b67cefeb5c4612857ac31281)
+ 4. [新京雅集——羊年古画挂历](https://mp.weixin.qq.com/s?__biz=MjM5NTUxOTc4Mw==&mid=2650656190&idx=4&sn=52cf26e96e37d84ce45421ce5c7031f7)
+
+**太阳照常升起**
+ 1. [黄仁勋复职的可能性有多大](https://mp.weixin.qq.com/s?__biz=MzI0ODE5NDU5Mw==&mid=2649552742&idx=1&sn=0fd77cd00685ad19d43c1356499fde6a)
+
+**银行螺丝钉**
+ 1. [黄金的投资逻辑是什么，家庭该不该配置？](https://mp.weixin.qq.com/s?__biz=MzAwNzQ5ODk3Nw==&mid=2651100393&idx=1&sn=ebf44ac012cb14eff588b82f1f0e9017)
+
+**半月谈**
+ 1. [品读 | 纸上光阴](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053295&idx=1&sn=dc0844ca1e15323e7f710684edf75854)
+ 2. [是时候掌握一些申论“抄材料”技术了](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053295&idx=2&sn=60ff0e3ca90b0774c7b431e367199cb0)
+ 3. [雪假来了，多地已官宣！](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053293&idx=1&sn=713cc34ebea43313ee7df823c23b1179)
+ 4. [一堂兴趣课，为什么能成为出发的理由？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053288&idx=1&sn=2c7436ac8fd69a6799509787bcad91d7)
+ 5. [这届年轻人为什么疯抢“大结果”？](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053283&idx=1&sn=44f2b1a4874a6dc04988a08cfa42deb3)
+ 6. [一针重返20岁？“尸皮针”引热议](https://mp.weixin.qq.com/s?__biz=MjM5OTU4Nzc0Mg==&mid=2659053281&idx=1&sn=044f9e0082262e6c468c888d7092c2e3)
+
+**人民日报评论**
+ 1. [超级平台，须读懂“时间”的公共分量 | 人民锐评](https://mp.weixin.qq.com/s?__biz=MzA4OTIyMjUyOQ==&mid=2654720184&idx=1&sn=6e7a372a1ffeaee0b5f479adbceaa514)
+
+**人民网**
+ 1. [南非甜樱桃，要来了！](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067045&idx=1&sn=d2a3a017bcaf67dcead7ce3d77dda144)
+ 2. [“过去我们守着古塔发愁，现在想明白了！”](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067045&idx=2&sn=f6310eb5ffb8df526a8f27c8ff966d92)
+ 3. [放大看！这里有“彩蛋”🧐](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067044&idx=1&sn=f6e301641b15fc7b96a37e66dbebb1cb)
+ 4. [连休5天！雪假来了，多地已官宣](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067038&idx=1&sn=0705cf281be5c40fcdb735c8a269c6ff)
+ 5. [航行50分钟，喝茶、听曲、看打铁花！](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067038&idx=2&sn=acab6aff8d6a6b801a7ecfd91fd4e22f)
+ 6. [6人餐花51万元？上海警方通报](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067017&idx=1&sn=6ceca6a7cf60b89746e8d2981afd91c0)
+ 7. [“一方面……，一方面……”，中间能不能用句号？](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067017&idx=2&sn=33b30fbefd3ba70dae26c1525c3bd43c)
+ 8. [举报属实！奖励300000元！](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067003&idx=1&sn=e7101f2df78d383ca0ece784d7f64ef7)
+ 9. [对“山寨证书”说不！首部技能人才评价行政法规征求意见](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067003&idx=2&sn=0902a040ea19f584465aa88459f5d189)
+ 10. [金饰克价，连跌四天！](https://mp.weixin.qq.com/s?__biz=MjM5NzI3NDg4MA==&mid=2659067002&idx=1&sn=be149655e3a052bd06e0371d444403c6)
+
+**南方人物周刊**
+ 1. [他们把非法越境称为“游戏”，只是这场游戏中随时可能有人死去](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651376378&idx=1&sn=6fe78d1b497a3833ea03398501ca252e)
+ 2. [中国会写故事的牛人，又聚齐了](https://mp.weixin.qq.com/s?__biz=MTY0MzI5NDcwMQ==&mid=2651376378&idx=2&sn=4539f453f4b8c02a4d53f4386bb837fa)
+
+**量子位**
+ 1. [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://www.qbitai.com/2026/11/510297.html)
+ 2. [「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭](https://www.qbitai.com/2026/11/510232.html)
+ 3. [程序员集体沉迷折纸飞机！最长滞空31.2秒](https://www.qbitai.com/2026/11/510150.html)
+ 4. [绿电进Token出！联想重新定义词元工厂](https://www.qbitai.com/2026/11/510094.html)
+ 5. [中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞](https://www.qbitai.com/2026/11/510013.html)
+ 6. [突发！DeepSeek开放全家桶API](https://www.qbitai.com/2026/11/510003.html)
+
+**日本设计小站**
+ 1. [焦糖拼接羽绒服、纽扣堆堆帽、烤鲜奶、芥末冷泡汁、巧克力威化球、鹅绒被、加绒勃肯鞋等团购限时开启！](https://mp.weixin.qq.com/s?__biz=MzU2MjM4ODM1OA==&mid=2247910027&idx=1&sn=77313e0c5f09fbb07a3eae7b95355d2a)
+
+**财经杂志**
+ 1. [中国近六成家庭户不超过两个人，会带来哪些变化？](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653741822&idx=1&sn=9941c6c27609b5711abb30c6c2b42b65)
+ 2. [《财经》联合出品《和合之构》亮相2026年APEC会议周现场](https://mp.weixin.qq.com/s?__biz=MjM5NDU5NTM4MQ==&mid=2653741822&idx=2&sn=9519bec1124cefcb0e800d90517bdd73)
+
+**独立鱼电影**
+ 1. [活久见，等了21年的神作续集，真的来了](https://mp.weixin.qq.com/s?__biz=MzA5MDM1MTcyNQ==&mid=2657712604&idx=1&sn=7479ca26d62a647ea56b21b5f3cc58c4)
+
+**浪潮工作室**
+ 1. [从吃穿到居家，山姆读懂了浙江人的讲究](https://mp.weixin.qq.com/s?__biz=MzU4Mjg2OTI2MA==&mid=2248528271&idx=1&sn=adf0bb964767909d768d5c74f16f6199)
+
+**GitHubDaily**
+ 1. [DeepSeek，大手笔啊！](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457997330&idx=1&sn=0f5c603f173ce26d3594e283f2c60ed8)
+
+**中科院物理所**
+ 1. [这段难听的声音，竟然这么好看？这可能是最适合用眼睛“听”的实验之一 | 正经玩](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596221&idx=1&sn=6100315b32d12ae7920543f060bd3544)
+ 2. [以旧换新后，你的旧手机去哪了？](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596221&idx=2&sn=d7411f5248c9263e4fcc338a0de65ad1)
+ 3. [哈雷：不止于彗星](https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&mid=2651596221&idx=3&sn=a122ffb2625009958a9f063f301bac15)
+
+**知识分子**
+ 1. [这三位“院长”，“全国优秀科技工作者”荣誉为何被追回？](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655556434&idx=1&sn=786967405f1ecb3a2e0e62afd7b90370)
+
+**返朴**
+ 1. [我们刚刚度过了66年前Science预言的世界末日 / 杨–米尔斯理论存在性证明通过Lean检验 | 科技周览](https://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247647319&idx=1&sn=005a155916e2bfa037f9c12432fd5130)
+ 2. [第三届Wiley Star Scientist Award 正式开放申请](https://mp.weixin.qq.com/s?__biz=Mzg2MTUyODU2NA==&mid=2247647319&idx=2&sn=138904aefb86952743f70dcaf7d7ded8)
+
+**界面文化**
+ 1. [《后会友期》爆火之后，为何我们仍在用性缘叙事勾勒情感？](https://mp.weixin.qq.com/s?__biz=MzI3NzUyMTE3NA==&mid=2247544909&idx=1&sn=2e320aaa8b44fbf6a1ff86012018aa93)
+
+**帆书樊登讲书**
+ 1. [运动延寿第一名出炉：不是跑步，不是撸铁，是行走的方式](https://mp.weixin.qq.com/s?__biz=MzAwMDM4Mjg2Nw==&mid=2650816181&idx=1&sn=5e50fee86a88aefacdd16660072865bb)
+ 2. [人越柔软，福气越深](https://mp.weixin.qq.com/s?__biz=MzAwMDM4Mjg2Nw==&mid=2650816181&idx=2&sn=f3c2dfd4e559f734a9824dcbd4d61c7b)
+ 3. [成年人最隐蔽的内耗：凡事都想给个交代](https://mp.weixin.qq.com/s?__biz=MzAwMDM4Mjg2Nw==&mid=2650816008&idx=1&sn=6c345c11d8cddaab94f9e5a107c38470)
+
+**Databricks**
+ 1. [Apache Spark vs Apache Flink: which should you use?](https://www.databricks.com/blog/spark-vs-flink)
+
+**运营研究社**
+ 1. [用AI“复制”labubu，第一年狂揽1.2亿元，这条百亿新风口爆了](https://mp.weixin.qq.com/s?__biz=MzU4MTcxODM2MA==&mid=2247752868&idx=1&sn=d027d117bbc2f0f2ae0276ee88c86d06)
+ 2. [老板要爆款、销售要线索：短视频生成SOP，AI能替你干到哪一步？](https://mp.weixin.qq.com/s?__biz=MzU4MTcxODM2MA==&mid=2247752868&idx=2&sn=6b01dfe2c5312f5697c6aae32cace3fc)
+
+**澎湃思想市场**
+ 1. [一个好员工的异化：评《生化危机：爆发夜》](https://mp.weixin.qq.com/s?__biz=MzU4NzQ4OTYzMA==&mid=2247529055&idx=1&sn=e9ae8f58ac78d8d4e9a420b8c81080f0)
+
+**Simon Willison's Weblog**
+ 1. [datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/)
+ 2. [datasette-vega 0.7](https://simonwillison.net/2026/Nov/14/datasette-vega/)
+
+**爱范儿**
+ 1. [早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时](https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=)
+
+**ByteByteGo Newsletter**
+ 1. [EP233: Kubernetes Explained for Busy Engineers](https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy)
+
+**InfoQ**
+ 1. [Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules](https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+ 2. [Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions](https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+ 3. [Open Source DocumentDB 1.0 Reaches General Availability](https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+**Product School**
+ 1. [Marissa Mayer: Why Her AI Agents Never Impersonate You](https://www.youtube.com/shorts/RyudXRiDRtg)
+ 2. [Cisco’s CPO Has Dinner With One Outsider Every Week. Here’s the Rule](https://www.youtube.com/shorts/kQQj5jwGrxs)
+ 3. [Marissa Mayer: Why AI Agents Need Their Own Commerce Protocol](https://www.youtube.com/shorts/pm0IgjVmrC0)
+
+**国家人文历史**
+ 1. [“神级选角”！谁在荧幕上“成为”历史人物？](https://mp.weixin.qq.com/s?__biz=MjM5MDg1NjA2NA==&mid=2651089680&idx=1&sn=e62ac1f1b622e9d0d91226e4379eeb36)
+
+**freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More**
+ 1. [Build and Train a GLM-5.3-Flash Model From Scratch with Python](https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/)
+
+**Barrons巴伦**
+ 1. [Outlook宕机才看清：微软把我们“拿捏”得死死的 | 巴伦投资](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555235&idx=1&sn=298f0a750f7c497645364515d88a5c3d)
+ 2. [三年亏5.7亿的“太空AI第一股”，上市首日破发了 | 巴伦港股](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555235&idx=2&sn=e28bf3dcb1e5a848a737f3cc67e5354a)
+ 3. [中国人的非洲放贷生意，IPO最后一刻被叫停](https://mp.weixin.qq.com/s?__biz=MzkzMjY0NTI0NA==&mid=2247555235&idx=3&sn=8abe32b9df82c86d5a1fbecb3ab63114)
+
+**正和岛**
+ 1. [清华教授李宁：AI强得可怕，人怎么办？](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651415248&idx=1&sn=3f179e406d93b24ea8582976bb8e8eee)
+ 2. [打爆全球的中国缝纫机，成了年轻人的时尚单品](https://mp.weixin.qq.com/s?__biz=MjM5ODAxODQ0MA==&mid=2651415248&idx=2&sn=ed1bfb545edddd372fccee9a828c2a87)
+
+**虹膜**
+ 1. [谁也没想过，张国荣能演这个角色](https://mp.weixin.qq.com/s?__biz=MzA3NzA1ODQzNA==&mid=2659389480&idx=1&sn=7ef9a616118964fa944c098f15f7246e)
+ 2. [李沧东谈《可能的爱》](https://mp.weixin.qq.com/s?__biz=MzA3NzA1ODQzNA==&mid=2659389480&idx=2&sn=8471c906e746983f6fd3c24d4d4dde1f)
+
+**Latent Space**
+ 1. [[AINews] The No AI Slop Manifesto](https://latent.space/p/ainews-the-no-ai-slop-manifesto/)
 
